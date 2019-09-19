@@ -10,8 +10,11 @@ import subprocess
 import tempfile
 import shutil
 import json
-import re
 import random
+import glob
+import re
+import csv
+
 
 assert sys.version_info >= (3, 7), "Script compatible with python 3.7 and higher only"
 
@@ -111,7 +114,7 @@ def generate_pkg_data(image_name, out_file):
         res.raise_for_status()
         generate_pkg_data.known_licenses = res.json()["packages"]
         with open("{}/packages_ignore.json".format(sys.path[0])) as f:
-            generate_pkg_data.ignore_packages = json.load(f)["packages"]        
+            generate_pkg_data.ignore_packages = json.load(f)["packages"]
     # check this image is python
     try:
         subprocess.check_output(["docker", "run", "--rm", image_name, "which", "python"], text=True)
@@ -177,7 +180,7 @@ def generate_pkg_data(image_name, out_file):
                 if classifier.startswith("License ::") and classifier != "License :: OSI Approved":
                     classifier_found = True
                     found_licenses.append(classifier)
-                    out_file.write("* {}\n".format(classifier))                    
+                    out_file.write("* {}\n".format(classifier))
         if not classifier_found:
             # try getting license via pip show
             if not pip_show:
@@ -185,7 +188,7 @@ def generate_pkg_data(image_name, out_file):
             for line in pip_show.splitlines():
                 if line.startswith("License:"):
                     out_file.write("* {}\n".format(line))
-                    found_licenses.append(line)                    
+                    found_licenses.append(line)
         add_package_used(name, base_image, found_licenses, home_page, pypi_url, summary, author)
 
 
@@ -199,7 +202,7 @@ def list_os_packages(image_name, out_file):
     else:
         output = subprocess.check_output(["docker", "run", "--rm", image_name, "sh", "-c",
             "dpkg-query --show | sort"], text=True)  # noqa
-        os_pkgs = output.splitlines()    
+        os_pkgs = output.splitlines()
     md_lines = ["* " + x for x in os_pkgs]
     out_file.write("\n".join(md_lines))
     out_file.write("\n")
@@ -262,10 +265,30 @@ def process_org(org_name, force):
 def generate_readme_listing():
     with open('README.md', "r") as f:
         readme_lines = f.readlines()
-    list_title_indx = readme_lines.index('## Docker Image List')
+    list_title_indx = readme_lines.index('## Docker Image List\n')
     trunc_readme = readme_lines[0:list_title_indx+1]
     with open('README.md', 'w') as f:
         f.writelines(trunc_readme)
+        last_files = sorted(glob.glob('*/*/last.md'), key=lambda path: "/".join(path.split('/')[0:2]))
+        for last_f in last_files:
+            docker_image = "/".join(last_f.split('/')[0:2])
+            f.write("* [{}]({})\n".format(docker_image, last_f))
+        f.write("\n---\nLast updated: {}".format(datetime.datetime.now()))
+
+
+def short_license(full_license):
+    res = re.sub(r'License :: OSI Approved ::\s*', "", full_license, flags=re.I)
+    return re.sub(r'License\s*:+\s*', "", res, flags=re.I)
+
+
+def generate_csv():
+    with open('used_packages.csv', "w") as f:
+        csv_writer = csv.writer(f)
+        csv_writer.writerow(['Package Name', 'License', 'Homepage', 'Pypi Link', 'Author', 'Summary', 'Docker images'])
+        for name, value in sorted(USED_PACKAGES.items(), key=lambda name_val: name_val[0].lower()):
+            lic = ", ".join(map(short_license, value.get('licenses')))
+            csv_writer.writerow([name, lic, value.get('home_page'), value.get('pypi_url'), 
+                                value.get('author'), value.get('summary'), ", ".join(value.get('docker_images'))])
 
 
 def main():
@@ -290,6 +313,7 @@ def main():
             json.dump(USED_PACKAGES, f, sort_keys=True,
                       indent=4, separators=(',', ': '))
     generate_readme_listing()
+    generate_csv()
 
 
 if __name__ == "__main__":
