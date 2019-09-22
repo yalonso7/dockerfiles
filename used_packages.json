@@ -1,0 +1,4827 @@
+{
+    "Click": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/pyotrs",
+            "demisto/teams",
+            "demisto/devo"
+        ],
+        "home_page": "https://palletsprojects.com/p/click/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/click/",
+        "summary": "Composable command line interface toolkit"
+    },
+    "Deprecated": {
+        "author": "Laurent LAPORTE tantale.solutions@gmail.com",
+        "docker_images": [
+            "demisto/pymisp"
+        ],
+        "home_page": "https://github.com/tantale/deprecated",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/Deprecated/",
+        "summary": "Python @deprecated decorator to deprecate old python classes, functions or methods."
+    },
+    "EasyProcess": {
+        "author": "ponty",
+        "docker_images": [
+            "demisto/unrar"
+        ],
+        "home_page": "https://github.com/ponty/easyprocess",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/EasyProcess/",
+        "summary": "Easy to use python subprocess interface."
+    },
+    "ExifRead": {
+        "author": "Ianar\u00e9 S\u00e9vi ianare@gmail.com",
+        "docker_images": [
+            "demisto/exifread"
+        ],
+        "home_page": "https://github.com/ianare/exif-py",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/ExifRead/",
+        "summary": "Read Exif metadata from tiff and jpeg files."
+    },
+    "Faker": {
+        "author": "joke2k joke2k@gmail.com",
+        "docker_images": [
+            "demisto/faker3"
+        ],
+        "home_page": "https://github.com/joke2k/faker",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/Faker/",
+        "summary": "Faker is a Python package that generates fake data for you."
+    },
+    "Flask": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "https://palletsprojects.com/p/flask/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/Flask/",
+        "summary": "A simple framework for building complex web applications."
+    },
+    "Jinja2": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "http://jinja.pocoo.org/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/Jinja2/",
+        "summary": "A small but fast and easy to use stand-alone template engine written in pure python."
+    },
+    "Keras": {
+        "author": "Francois Chollet francois.chollet@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/keras-team/keras",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/Keras/",
+        "summary": "Deep Learning for humans"
+    },
+    "Keras-Applications": {
+        "author": "Keras Team",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/keras-team/keras-applications",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/Keras-Applications/",
+        "summary": "Reference implementations of popular deep learning models"
+    },
+    "Keras-Preprocessing": {
+        "author": "Keras Team",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/keras-team/keras-preprocessing",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/Keras-Preprocessing/",
+        "summary": "Easy data preprocessing and data augmentation for deep learning models"
+    },
+    "M2Crypto": {
+        "author": "Ng Pheng Siong ngps@sandbox.rulemaker.net",
+        "docker_images": [
+            "demisto/m2crypto"
+        ],
+        "home_page": "https://gitlab.com/m2crypto/m2crypto",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/M2Crypto/",
+        "summary": "M2Crypto: A Python crypto and SSL toolkit"
+    },
+    "Markdown": {
+        "author": "Manfred Stienstra, Yuri takhteyev and Waylan limberg waylan.limberg@icloud.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://Python-Markdown.github.io/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/Markdown/",
+        "summary": "Python implementation of Markdown."
+    },
+    "MarkupSafe": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "https://palletsprojects.com/p/markupsafe/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/MarkupSafe/",
+        "summary": "Safely add untrusted strings to HTML/XML markup."
+    },
+    "Pillow": {
+        "author": "Alex Clark (Fork Author) aclark@aclark.net",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://python-pillow.org",
+        "licenses": [
+            "License :: BSD 3-Clause License Modified (PIL Software License)"
+        ],
+        "pypi_url": "https://pypi.org/project/Pillow/",
+        "summary": "Python Imaging Library (Fork)"
+    },
+    "PyJWT": {
+        "author": "Jose Padilla hello@jpadilla.com",
+        "docker_images": [
+            "demisto/cylance_protect_v2",
+            "demisto/snowflake",
+            "demisto/pyjwt",
+            "demisto/uptycs",
+            "demisto/teams",
+            "demisto/pyjwt3",
+            "demisto/oauthlib"
+        ],
+        "home_page": "http://github.com/jpadilla/pyjwt",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyJWT/",
+        "summary": "JSON Web Token implementation in Python"
+    },
+    "PyOTRS": {
+        "author": "Robert Habermann mail@rhab.de",
+        "docker_images": [
+            "demisto/pyotrs"
+        ],
+        "home_page": "https://gitlab.com/rhab/PyOTRS",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyOTRS/",
+        "summary": "Python wrapper for OTRS (using REST API)"
+    },
+    "PyPDF2": {
+        "author": "Phaseit, Inc. PyPDF2@phaseit.net",
+        "docker_images": [
+            "demisto/pypdf2"
+        ],
+        "home_page": "http://mstamy2.github.com/PyPDF2",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyPDF2/",
+        "summary": "PDF toolkit"
+    },
+    "PySocks": {
+        "author": "Anorov anorov.vorona@gmail.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/sane-doc-reports",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/ippysocks",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/Anorov/PySocks",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/PySocks/",
+        "summary": "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information."
+    },
+    "PyWavelets": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/PyWavelets/pywt",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyWavelets/",
+        "summary": "PyWavelets, wavelet transform module"
+    },
+    "PyYAML": {
+        "author": "Kirill Simonov xi@resolvent.net",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/yaml/pyyaml",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyYAML/",
+        "summary": "YAML parser and emitter for Python"
+    },
+    "Pygments": {
+        "author": "Georg Brandl georg@python.org",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "http://pygments.org/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/Pygments/",
+        "summary": "Pygments is a syntax highlighting package written in Python."
+    },
+    "SOAPpy": {
+        "author": "Gregory Warnes, kiorky Gregory.R.Warnes@Pfizer.com, kiorky@cryptelium.net",
+        "docker_images": [
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/kiorky/SOAPpy.git",
+        "licenses": [
+            "License :: BSD 3-Clause License"
+        ],
+        "pypi_url": "https://pypi.org/project/SOAPpy/",
+        "summary": "SOAP Services for Python"
+    },
+    "SecretStorage": {
+        "author": "Dmitry Shachnev mitya57@gmail.com",
+        "docker_images": [
+            "demisto/resilient"
+        ],
+        "home_page": "https://github.com/mitya57/secretstorage",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/SecretStorage/",
+        "summary": "Python bindings to FreeDesktop.org Secret Service API"
+    },
+    "Werkzeug": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/teams"
+        ],
+        "home_page": "https://palletsprojects.com/p/werkzeug/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/Werkzeug/",
+        "summary": "The comprehensive WSGI web application library."
+    },
+    "absl-py": {
+        "author": "The Abseil Authors",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/abseil/abseil-py",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/absl-py/",
+        "summary": "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py."
+    },
+    "aiodns": {
+        "author": "Sa\u00fal Ibarra Corretg\u00e9 s@saghul.net",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "http://github.com/saghul/aiodns",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/aiodns/",
+        "summary": "Simple DNS resolver for asyncio"
+    },
+    "aiohttp": {
+        "author": "Nikolay Kim fafhrd91@gmail.com",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "https://github.com/aio-libs/aiohttp",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/aiohttp/",
+        "summary": "Async http client/server framework (asyncio)"
+    },
+    "antlr4-python3-runtime": {
+        "author": "Eric Vergnaud, Terence Parr, Sam Harwell eric.vergnaud@wanadoo.fr",
+        "docker_images": [
+            "demisto/stix2"
+        ],
+        "home_page": "http://www.antlr.org",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/antlr4-python3-runtime/",
+        "summary": "ANTLR 4.7.2 runtime for Python 3.6.3"
+    },
+    "appdirs": {
+        "author": "Trent Mick; Sridhar Ratnakumar; Jeff Rouse trentm@gmail.com; github@srid.name; jr@its.to",
+        "docker_images": [
+            "demisto/psycopg2",
+            "demisto/langdetect",
+            "demisto/pypdf2",
+            "demisto/zeep",
+            "demisto/pcap"
+        ],
+        "home_page": "http://github.com/ActiveState/appdirs",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/appdirs/",
+        "summary": "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."
+    },
+    "arrow": {
+        "author": "Chris Smith crsmithdev@gmail.com",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/python_pancloud"
+        ],
+        "home_page": "https://arrow.readthedocs.io",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/arrow/",
+        "summary": "Better dates & times for Python"
+    },
+    "asn1crypto": {
+        "author": "wbond will@wbond.net",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/python_pancloud",
+            "demisto/snowflake",
+            "demisto/crypto",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/resilient",
+            "demisto/teams",
+            "demisto/ews",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
+        ],
+        "home_page": "https://github.com/wbond/asn1crypto",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/asn1crypto/",
+        "summary": "Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP"
+    },
+    "astor": {
+        "author": "Patrick Maupin pmaupin@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/berkerpeksag/astor",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/astor/",
+        "summary": "Read/rewrite/write Python ASTs"
+    },
+    "async-timeout": {
+        "author": "Andrew Svetlov andrew.svetlov@gmail.com",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "https://github.com/aio-libs/async_timeout/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/async_timeout/",
+        "summary": "Timeout context manager for asyncio programs"
+    },
+    "attrs": {
+        "author": "Hynek Schlawack hs@ox.cx",
+        "docker_images": [
+            "demisto/pymisp",
+            "demisto/slack",
+            "demisto/zeep"
+        ],
+        "home_page": "https://www.attrs.org/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/attrs/",
+        "summary": "Classes Without Boilerplate"
+    },
+    "azure-common": {
+        "author": "Microsoft Corporation azpysdkhelp@microsoft.com",
+        "docker_images": [
+            "demisto/snowflake"
+        ],
+        "home_page": "https://github.com/Azure/azure-sdk-for-python",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/azure-common/",
+        "summary": "Microsoft Azure Client Library for Python (Common)"
+    },
+    "azure-storage-blob": {
+        "author": "Microsoft Corporation ascl@microsoft.com",
+        "docker_images": [
+            "demisto/snowflake"
+        ],
+        "home_page": "https://github.com/Azure/azure-storage-python",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/azure-storage-blob/",
+        "summary": "Microsoft Azure Storage Blob Client Library for Python"
+    },
+    "azure-storage-common": {
+        "author": "Microsoft Corporation ascl@microsoft.com",
+        "docker_images": [
+            "demisto/snowflake"
+        ],
+        "home_page": "https://github.com/Azure/azure-storage-python",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/azure-storage-common/",
+        "summary": "Microsoft Azure Storage Common Client Library for Python"
+    },
+    "backports.functools-lru-cache": {
+        "author": "Jason R. Coombs jaraco@jaraco.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/jaraco/backports.functools_lru_cache",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/backports.functools_lru_cache/",
+        "summary": "backports.functools_lru_cache"
+    },
+    "backports.weakref": {
+        "author": "Pi Delport pjdelport@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/pjdelport/backports.weakref",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/backports.weakref/",
+        "summary": "Backport of new features in Python's weakref module"
+    },
+    "beautifulsoup4": {
+        "author": "Leonard Richardson leonardr@segfault.org",
+        "docker_images": [
+            "demisto/bs4",
+            "demisto/pytan",
+            "demisto/pandas",
+            "demisto/xmlparser",
+            "demisto/btfl-soup"
+        ],
+        "home_page": "http://www.crummy.com/software/BeautifulSoup/bs4/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/beautifulsoup4/",
+        "summary": "Screen-scraping library"
+    },
+    "blis": {
+        "author": "Matthew Honnibal matt@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/explosion/cython-blis",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/blis/",
+        "summary": "The Blis BLAS-like linear algebra library, as a self-contained C-extension."
+    },
+    "blueliv-python-sdk": {
+        "author": "Blueliv community@blueliv.com",
+        "docker_images": [
+            "demisto/blueliv"
+        ],
+        "home_page": "https://github.com/Blueliv/api-python-sdk",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": null,
+        "summary": "Blueliv API SDK for Python"
+    },
+    "boto3": {
+        "author": "Amazon Web Services",
+        "docker_images": [
+            "demisto/boto3",
+            "demisto/snowflake",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry"
+        ],
+        "home_page": "https://github.com/boto/boto3",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/boto3/",
+        "summary": "The AWS SDK for Python"
+    },
+    "botocore": {
+        "author": "Amazon Web Services",
+        "docker_images": [
+            "demisto/boto3",
+            "demisto/snowflake",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry"
+        ],
+        "home_page": "https://github.com/boto/botocore",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/botocore/",
+        "summary": "Low-level, data-driven core of boto 3."
+    },
+    "bs4": {
+        "author": "Leonard Richardson leonardr@segfault.org",
+        "docker_images": [
+            "demisto/bs4"
+        ],
+        "home_page": "https://pypi.python.org/pypi/beautifulsoup4",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/bs4/",
+        "summary": "Dummy package for Beautiful Soup"
+    },
+    "cached-property": {
+        "author": "Daniel Greenfeld pydanny@gmail.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/zeep",
+            "demisto/ews"
+        ],
+        "home_page": "https://github.com/pydanny/cached-property",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cached-property/",
+        "summary": "A decorator for caching properties in classes."
+    },
+    "cachetools": {
+        "author": "Thomas Kemmer tkemmer@computer.org",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/resilient",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/tkem/cachetools",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/cachetools/",
+        "summary": "Extensible memoizing collections and decorators"
+    },
+    "certifi": {
+        "author": "Kenneth Reitz me@kennethreitz.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/splunksdk",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/cylance_protect_v2",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/pyjwt",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://certifi.io/",
+        "licenses": [
+            "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+        ],
+        "pypi_url": "https://pypi.org/project/certifi/",
+        "summary": "Python package for providing Mozilla's CA Bundle."
+    },
+    "cffi": {
+        "author": "Armin Rigo, Maciej Fijalkowski python-cffi@googlegroups.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/python_pancloud",
+            "demisto/snowflake",
+            "demisto/crypto",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/resilient",
+            "demisto/teams",
+            "demisto/ews",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
+        ],
+        "home_page": "http://cffi.readthedocs.org",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/cffi/",
+        "summary": "Foreign Function Interface for Python calling C code."
+    },
+    "chardet": {
+        "author": "Daniel Blanchard dan.blanchard@gmail.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/splunksdk",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/cylance_protect_v2",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/pyjwt",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/chardet/chardet",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)"
+        ],
+        "pypi_url": "https://pypi.org/project/chardet/",
+        "summary": "Universal encoding detector for Python 2 and 3"
+    },
+    "circleci": {
+        "author": "Lev Lazinskiy lev@levlaz.org",
+        "docker_images": [
+            "demisto/circleci"
+        ],
+        "home_page": "https://github.com/levlaz/circleci.py",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/circleci/",
+        "summary": "Python wrapper for the CircleCI API"
+    },
+    "click": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/keepercommander"
+        ],
+        "home_page": "https://palletsprojects.com/p/click/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/click/",
+        "summary": "Composable command line interface toolkit"
+    },
+    "cloakensdk": {
+        "author": "Aaron Jonen ajonen@mailcan.com",
+        "docker_images": [
+            "demisto/cloaken"
+        ],
+        "home_page": "https://gitlab.com/guzzijob/cloakensdk",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/cloakensdk/",
+        "summary": "SDK for use with Cloaken url unshortener AMI"
+    },
+    "cloudpickle": {
+        "author": "Cloudpipe cloudpipe@googlegroups.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/cloudpipe/cloudpickle",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cloudpickle/",
+        "summary": "Extended pickling support for Python objects"
+    },
+    "colorama": {
+        "author": "Arnon Yaari tartley@tartley.com",
+        "docker_images": [
+            "demisto/pyotrs",
+            "demisto/keepercommander",
+            "demisto/chromium"
+        ],
+        "home_page": "https://github.com/tartley/colorama",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/colorama/",
+        "summary": "Cross-platform colored terminal text."
+    },
+    "configparser": {
+        "author": "\u0141ukasz Langa lukasz@langa.pl",
+        "docker_images": [
+            "demisto/trustar",
+            "demisto/resilient",
+            "demisto/chromium"
+        ],
+        "home_page": "https://github.com/jaraco/configparser/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/configparser/",
+        "summary": "Updated configparser from Python 3.7 for Python 2.6+."
+    },
+    "crayons": {
+        "author": "Kenneth Reitz me@kennethreitz.com",
+        "docker_images": [
+            "demisto/chromium"
+        ],
+        "home_page": "https://github.com/kennethreitz/crayons",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/crayons/",
+        "summary": "TextUI colors for Python."
+    },
+    "cryptography": {
+        "author": "The cryptography developers cryptography-dev@python.org",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/python_pancloud",
+            "demisto/snowflake",
+            "demisto/crypto",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/resilient",
+            "demisto/teams",
+            "demisto/ews",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
+        ],
+        "home_page": "https://github.com/pyca/cryptography",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cryptography/",
+        "summary": "cryptography is a package which provides cryptographic recipes and primitives to Python developers."
+    },
+    "cssselect": {
+        "author": "Ian Bicking ianb@colorstudy.com",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/pyquery"
+        ],
+        "home_page": "https://github.com/scrapy/cssselect",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cssselect/",
+        "summary": "cssselect parses CSS3 Selectors and translates them to XPath 1.0"
+    },
+    "cybox": {
+        "author": "CybOX Project, MITRE Corporation cybox@mitre.org",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/pytz",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pysmb"
+        ],
+        "home_page": "http://cybox.mitre.org",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cybox/",
+        "summary": "A Python library for parsing and generating CybOX content."
+    },
+    "cycler": {
+        "author": "Thomas A Caswell matplotlib-users@python.org",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/dl"
+        ],
+        "home_page": "http://github.com/matplotlib/cycler",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/Cycler/",
+        "summary": "Composable style cycles"
+    },
+    "cymem": {
+        "author": "Matthew Honnibal matt@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/explosion/cymem",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/cymem/",
+        "summary": "Manage calls to calloc/free through Cython"
+    },
+    "cymruwhois": {
+        "author": "Justin Azoff justin@bouncybouncy.net",
+        "docker_images": [
+            "demisto/pcap"
+        ],
+        "home_page": "http://packages.python.org/cymruwhois/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/cymruwhois/",
+        "summary": "Client for the whois.cymru.com service"
+    },
+    "dask": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/dask/dask/",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/dask/",
+        "summary": "Parallel PyData with Task Scheduling"
+    },
+    "dateparser": {
+        "author": "Scrapinghub info@scrapinghub.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/sane-doc-reports",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/scrapinghub/dateparser",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/dateparser/",
+        "summary": "Date parsing library designed to parse dates from HTML pages"
+    },
+    "decorator": {
+        "author": "Michele Simionato michele.simionato@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/micheles/decorator",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/decorator/",
+        "summary": "Better living through Python with decorators"
+    },
+    "defusedxml": {
+        "author": "Christian Heimes christian@python.org",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/zeep",
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/tiran/defusedxml",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/defusedxml/",
+        "summary": "XML bomb protection for Python stdlib modules"
+    },
+    "devo-sdk": {
+        "author": "Devo, Inc. support@devo.com",
+        "docker_images": [
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/DevoInc/python-sdk",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/devo-sdk/",
+        "summary": "Devo Software Development Kit for Python."
+    },
+    "devodsconnector": {
+        "author": "Nick Murphy nick.murphy@devo.com",
+        "docker_images": [
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/DevoInc/python-ds-connector",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/devodsconnector/",
+        "summary": "APIs for querying and loading data into Devo"
+    },
+    "dnspython": {
+        "author": "Bob Halley halley@dnspython.org",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/dnstwist",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "http://www.dnspython.org",
+        "licenses": [
+            "License :: ISC License"
+        ],
+        "pypi_url": "https://pypi.org/project/dnspython/",
+        "summary": "DNS toolkit"
+    },
+    "docopt": {
+        "author": "Vladimir Keleshev vladimir@keleshev.com",
+        "docker_images": [
+            "demisto/stomp",
+            "demisto/vmware"
+        ],
+        "home_page": "http://docopt.org",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/docopt/",
+        "summary": "Pythonic argument parser, that will make you smile"
+    },
+    "dpkt": {
+        "author": "Dug Song dugsong@monkey.org",
+        "docker_images": [
+            "demisto/pcap"
+        ],
+        "home_page": "http://dpkt.googlecode.com/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/dpkt/",
+        "summary": "fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols"
+    },
+    "duo-client": {
+        "author": "Duo Security, Inc. support@duosecurity.com",
+        "docker_images": [
+            "demisto/duoadmin"
+        ],
+        "home_page": "https://github.com/duosecurity/duo_client_python",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/duo-client/",
+        "summary": "Reference client for Duo Security APIs"
+    },
+    "dxlclient": {
+        "author": "McAfee, Inc.",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "http://www.mcafee.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/dxlclient/",
+        "summary": "McAfee Data Exchange Layer Client"
+    },
+    "dxlmarclient": {
+        "author": "McAfee LLC",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "http://www.mcafee.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/dxlmarclient/",
+        "summary": "McAfee Active Response (MAR) DXL client library"
+    },
+    "dxltieclient": {
+        "author": "McAfee LLC",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "http://www.mcafee.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/dxltieclient/",
+        "summary": "McAfee Threat Intelligence Exchange (TIE) DXL client library"
+    },
+    "editdistance": {
+        "author": "Hiroyuki Tanaka aflc0x@gmail.com",
+        "docker_images": [
+            "demisto/machine-learning",
+            "demisto/ml",
+            "demisto/exchange"
+        ],
+        "home_page": "https://www.github.com/aflc/editdistance",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/editdistance/",
+        "summary": "Fast implementation of the edit distance(Levenshtein distance)"
+    },
+    "elasticsearch": {
+        "author": "Honza Kr\u00e1l, Nick Lang honza.kral@gmail.com, nick@nicklang.com",
+        "docker_images": [
+            "demisto/elasticsearch"
+        ],
+        "home_page": "https://github.com/elastic/elasticsearch-py",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/elasticsearch/",
+        "summary": "Python client for Elasticsearch"
+    },
+    "elasticsearch-dsl": {
+        "author": "Honza Kr\u00e1l honza.kral@gmail.com",
+        "docker_images": [
+            "demisto/elasticsearch"
+        ],
+        "home_page": "https://github.com/elasticsearch/elasticsearch-dsl-py",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/elasticsearch-dsl/",
+        "summary": "Python client for Elasticsearch"
+    },
+    "en-core-web-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": null,
+        "summary": "English multi-task CNN trained on OntoNotes. Assigns context-specific token vectors, POS tags, dependency parse and named entities."
+    },
+    "entrypoints": {
+        "author": "Thomas Kluyver thomas@kluyver.me.uk",
+        "docker_images": [
+            "demisto/resilient"
+        ],
+        "home_page": "https://github.com/takluyver/entrypoints",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/entrypoints/",
+        "summary": "Discover and load entry points from installed packages."
+    },
+    "enum34": {
+        "author": "Ethan Furman ethan@stoneleaf.us",
+        "docker_images": [
+            "demisto/threatconnect-sdk",
+            "demisto/py-ews",
+            "demisto/dl",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/resilient",
+            "demisto/ews",
+            "demisto/threatconnect"
+        ],
+        "home_page": "https://bitbucket.org/stoneleaf/enum34",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/enum34/",
+        "summary": "Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4"
+    },
+    "et-xmlfile": {
+        "author": "See ATUHORS.txt charlie.clark@clark-consulting.eu",
+        "docker_images": [
+            "demisto/openpyxl"
+        ],
+        "home_page": "https://bitbucket.org/openpyxl/et_xmlfile",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/et_xmlfile/",
+        "summary": "An implementation of lxml.xmlfile for the standard library"
+    },
+    "exchangelib": {
+        "author": "Erik Cederstrand erik@cederstrand.dk",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "https://github.com/ecederstrand/exchangelib",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/exchangelib/",
+        "summary": "Client for Microsoft Exchange Web Services (EWS)"
+    },
+    "fastjsonschema": {
+        "author": "Michal Horejsek horejsekmichal@gmail.com",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "https://github.com/seznam/python-fastjsonschema",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/fastjsonschema/",
+        "summary": "Fastest Python implementation of JSON schema"
+    },
+    "fasttext": {
+        "author": "Onur Celebi celebio@fb.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/fasttext"
+        ],
+        "home_page": "https://github.com/facebookresearch/fastText",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/fasttext/",
+        "summary": "fasttext Python bindings"
+    },
+    "funcsigs": {
+        "author": "Testing Cabal testing-in-python@lists.idyll.org",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://funcsigs.readthedocs.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/funcsigs/",
+        "summary": "Python function signatures from PEP362 for Python 2.6, 2.7 and 3.2+"
+    },
+    "functools32": {
+        "author": "ENDOH takanao djmchl@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/MiCHiLU/python-functools32",
+        "licenses": [
+            "License: PSF license"
+        ],
+        "pypi_url": "https://pypi.org/project/functools32/",
+        "summary": "Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy."
+    },
+    "future": {
+        "author": "Ed Schofield ed@pythoncharmers.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/ippysocks",
+            "demisto/vertica",
+            "demisto/snowflake",
+            "demisto/trustar",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "https://python-future.org",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/future/",
+        "summary": "Clean single-source support for Python 3 and 2"
+    },
+    "futures": {
+        "author": "Brian Quinlan brian@sweetapp.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/boto3",
+            "demisto/gvault",
+            "demisto/ml-telemetry"
+        ],
+        "home_page": "https://github.com/agronholm/pythonfutures",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/futures/",
+        "summary": "Backport of the concurrent.futures package from Python 3"
+    },
+    "gast": {
+        "author": "serge-sans-paille serge.guelton@telecom-bretagne.eu",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/serge-sans-paille/gast/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/gast/",
+        "summary": "Python AST that abstracts the underlying Python version"
+    },
+    "gevent": {
+        "author": "Denis Bilenko denis.bilenko@gmail.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "http://www.gevent.org/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/gevent/",
+        "summary": "Coroutine-based network library"
+    },
+    "google-api-core": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-api-core/",
+        "summary": "Google API client core library"
+    },
+    "google-api-python-client": {
+        "author": "Google Inc.",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "http://github.com/google/google-api-python-client/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-api-python-client/",
+        "summary": "Google API Client Library for Python"
+    },
+    "google-auth": {
+        "author": "Google Cloud Platform jonwayne+google-auth@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-auth/",
+        "summary": "Google Authentication Library"
+    },
+    "google-auth-httplib2": {
+        "author": "Google Cloud Platform jonwayne+google-auth@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-auth-httplib2/",
+        "summary": "Google Authentication Library: httplib2 transport"
+    },
+    "google-auth-oauthlib": {
+        "author": "Google Cloud Platform jonwayne+google-auth@google.com",
+        "docker_images": [
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-auth-oauthlib/",
+        "summary": "Google Authentication Library"
+    },
+    "google-cloud-bigquery": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/bigquery"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-cloud-bigquery/",
+        "summary": "Google BigQuery API client library"
+    },
+    "google-cloud-core": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-cloud-core/",
+        "summary": "Google Cloud API client core library"
+    },
+    "google-cloud-pubsub": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-cloud-storage"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-cloud-pubsub/",
+        "summary": "Google Cloud Pub/Sub API client library"
+    },
+    "google-cloud-storage": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/google-cloud-storage"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-cloud-storage/",
+        "summary": "Google Cloud Storage API client library"
+    },
+    "google-cloud-vision": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-cloud-vision/",
+        "summary": "Cloud Vision API API client library"
+    },
+    "google-resumable-media": {
+        "author": "Google Cloud Platform googleapis-publisher@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage"
+        ],
+        "home_page": "https://github.com/GoogleCloudPlatform/google-resumable-media-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/google-resumable-media/",
+        "summary": "Utilities for Google Media Downloads and Resumable Uploads"
+    },
+    "googleapis-common-protos": {
+        "author": "Google LLC googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/googleapis/googleapis",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/googleapis-common-protos/",
+        "summary": "Common protobufs used in Google APIs"
+    },
+    "greenlet": {
+        "author": "Alexey Borzenkov snaury@gmail.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "https://github.com/python-greenlet/greenlet",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/greenlet/",
+        "summary": "Lightweight in-process concurrent programming"
+    },
+    "grpc-google-iam-v1": {
+        "author": "Google Inc googleapis-packages@google.com",
+        "docker_images": [
+            "demisto/google-cloud-storage"
+        ],
+        "home_page": "https://github.com/googleapis/googleapis",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/grpc-google-iam-v1/",
+        "summary": "GRPC library for the google-iam-v1 service"
+    },
+    "grpcio": {
+        "author": "The gRPC Authors grpc-io@googlegroups.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://grpc.io",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/grpcio/",
+        "summary": "HTTP/2-based RPC framework"
+    },
+    "h5py": {
+        "author": "Andrew Collette andrew.collette@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://www.h5py.org",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/h5py/",
+        "summary": "Read and write HDF5 files from Python"
+    },
+    "html5lib": {
+        "author": "James Graham james@hoppipolla.co.uk",
+        "docker_images": [
+            "demisto/pytan",
+            "demisto/pandas",
+            "demisto/xmlparser"
+        ],
+        "home_page": "https://github.com/html5lib/html5lib-python",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/html5lib/",
+        "summary": "HTML parser based on the WHATWG HTML specification"
+    },
+    "httplib2": {
+        "author": "Joe Gregorio joe@bitworking.org",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/httplib2/httplib2",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/httplib2/",
+        "summary": "A comprehensive HTTP client library."
+    },
+    "idna": {
+        "author": "Kim Davies kim@cynosure.com.au",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/splunksdk",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/cylance_protect_v2",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/pyjwt",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/kjd/idna",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/idna/",
+        "summary": "Internationalized Domain Names in Applications (IDNA)"
+    },
+    "ijson": {
+        "author": "Rodrigo Tobar, Ivan Sagalaev rtobar@icrar.org, maniac@softwaremaniacs.org",
+        "docker_images": [
+            "demisto/snowflake"
+        ],
+        "home_page": "https://github.com/ICRAR/ijson",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/ijson/",
+        "summary": "Iterative JSON parser with a standard Python iterator interface"
+    },
+    "ipaddress": {
+        "author": "Philipp Hagemeister phihag@phihag.de",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/resilient",
+            "demisto/ews"
+        ],
+        "home_page": "https://github.com/phihag/ipaddress",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/ipaddress/",
+        "summary": "IPv4/IPv6 manipulation library"
+    },
+    "iso8601": {
+        "author": "Michael Twomey micktwomey+iso8601@gmail.com",
+        "docker_images": [
+            "demisto/iso8601"
+        ],
+        "home_page": "https://bitbucket.org/micktwomey/pyiso8601",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/iso8601/",
+        "summary": "Simple module to parse ISO 8601 dates"
+    },
+    "isodate": {
+        "author": "Gerhard Weis gerhard.weis@proclos.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/zeep"
+        ],
+        "home_page": "https://github.com/gweis/isodate/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/isodate/",
+        "summary": "An ISO 8601 date/time/duration parser and formatter"
+    },
+    "itsdangerous": {
+        "author": "Armin Ronacher armin.ronacher@active-4.com",
+        "docker_images": [
+            "demisto/teams"
+        ],
+        "home_page": "https://palletsprojects.com/p/itsdangerous/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/itsdangerous/",
+        "summary": "Various helpers to pass data to untrusted environments and back."
+    },
+    "jdcal": {
+        "author": "Prasanth Nair prasanthhn@gmail.com",
+        "docker_images": [
+            "demisto/openpyxl"
+        ],
+        "home_page": "https://github.com/phn/jdcal",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/jdcal/",
+        "summary": "Julian dates from proleptic Gregorian and Julian calendars."
+    },
+    "jmespath": {
+        "author": "James Saryerwinnie js@jamesls.com",
+        "docker_images": [
+            "demisto/boto3",
+            "demisto/python_pancloud",
+            "demisto/snowflake",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry"
+        ],
+        "home_page": "https://github.com/jmespath/jmespath.py",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/jmespath/",
+        "summary": "JSON Matching Expressions"
+    },
+    "jsonschema": {
+        "author": "Julian Berman Julian@GrayVines.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/pymisp"
+        ],
+        "home_page": "https://github.com/Julian/jsonschema",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/jsonschema/",
+        "summary": "An implementation of JSON Schema validation for Python"
+    },
+    "jwt": {
+        "author": "Kohei YOSHIDA kohei.yoshida@gehirn.co.jp",
+        "docker_images": [
+            "demisto/teams",
+            "demisto/oauthlib"
+        ],
+        "home_page": "https://github.com/GehirnInc/python-jwt",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/jwt/",
+        "summary": "JSON Web Token library for Python 3."
+    },
+    "kazoo": {
+        "author": "Kazoo team python-zk@googlegroups.com",
+        "docker_images": [
+            "demisto/pykafka"
+        ],
+        "home_page": "https://kazoo.readthedocs.io",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/kazoo/",
+        "summary": "Higher Level Zookeeper Client"
+    },
+    "keepercommander": {
+        "author": "Craig Lurey craig@keepersecurity.com",
+        "docker_images": [
+            "demisto/keepercommander"
+        ],
+        "home_page": "https://github.com/Keeper-Security/Commander",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/keepercommander/",
+        "summary": "Keeper Commander for Python 3"
+    },
+    "keyring": {
+        "author": "Kang Zhang jobo.zh@gmail.com",
+        "docker_images": [
+            "demisto/resilient"
+        ],
+        "home_page": "https://github.com/jaraco/keyring",
+        "licenses": [
+            "License :: OSI Approved :: MIT License",
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/keyring/",
+        "summary": "Store and access your passwords safely."
+    },
+    "kiwisolver": {
+        "author": "The Nucleic Development Team sccolbert@gmail.com",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "https://github.com/nucleic/kiwi",
+        "licenses": [
+            "License :: BSD 3-Clause License"
+        ],
+        "pypi_url": "https://pypi.org/project/kiwisolver/",
+        "summary": "A fast implementation of the Cassowary constraint solver"
+    },
+    "langdetect": {
+        "author": "Michal Mimino Danilak michal.danilak@gmail.com",
+        "docker_images": [
+            "demisto/langdetect"
+        ],
+        "home_page": "https://github.com/Mimino666/langdetect",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/langdetect/",
+        "summary": "Language detection library ported from Google's language-detection."
+    },
+    "ldap3": {
+        "author": "Giovanni Cannata cannatag@gmail.com",
+        "docker_images": [
+            "demisto/ldap"
+        ],
+        "home_page": "https://github.com/cannatag/ldap3",
+        "licenses": [
+            "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)"
+        ],
+        "pypi_url": "https://pypi.org/project/ldap3/",
+        "summary": "A strictly RFC 4510 conforming LDAP V3 pure Python client library"
+    },
+    "lime": {
+        "author": "Marco Tulio Ribeiro marcotcr@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://github.com/marcotcr/lime",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/lime/",
+        "summary": "Local Interpretable Model-Agnostic Explanations for machine learning classifiers"
+    },
+    "lxml": {
+        "author": "lxml dev team lxml-dev@lxml.de",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/pytz",
+            "demisto/word-parser",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/office-utils",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pcap-http-extractor",
+            "demisto/pysmb",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/zeep",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/ews",
+            "demisto/pyquery"
+        ],
+        "home_page": "http://lxml.de/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/lxml/",
+        "summary": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
+    },
+    "matplotlib": {
+        "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/dl"
+        ],
+        "home_page": "https://matplotlib.org",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/matplotlib/",
+        "summary": "Python plotting package"
+    },
+    "memoize": {
+        "author": "Ben Olive sionide21@gmail.com",
+        "docker_images": [
+            "demisto/machine-learning",
+            "demisto/exchange"
+        ],
+        "home_page": "https://github.com/sionide21/memoize",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/memoize/",
+        "summary": "Create properties that are only computed the first time they are called."
+    },
+    "mistune": {
+        "author": "Hsiaoming Yang me@lepture.com",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "https://github.com/lepture/mistune",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/mistune/",
+        "summary": "The fastest markdown parser in pure Python"
+    },
+    "mixbox": {
+        "author": "The MITRE Corporation cybox@mitre.org",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/pytz",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pysmb"
+        ],
+        "home_page": "http://github.com/CybOXProject/mixbox",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/mixbox/",
+        "summary": "Utility library for cybox, maec, and stix packages"
+    },
+    "mock": {
+        "author": "Testing Cabal testing-in-python@lists.idyll.org",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://mock.readthedocs.org/en/latest/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/mock/",
+        "summary": "Rolling backport of unittest.mock for all Pythons"
+    },
+    "multidict": {
+        "author": "Andrew Svetlov andrew.svetlov@gmail.com",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "https://github.com/aio-libs/multidict",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/multidict/",
+        "summary": "multidict implementation"
+    },
+    "murmurhash": {
+        "author": "Matthew Honnibal matt@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/explosion/murmurhash",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/murmurhash/",
+        "summary": "Cython bindings for MurmurHash"
+    },
+    "netaddr": {
+        "author": "Stefan Nordhausen stefan.nordhausen@immobilienscout24.de",
+        "docker_images": [
+            "demisto/netaddr"
+        ],
+        "home_page": "https://github.com/drkjam/netaddr/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License",
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/netaddr/",
+        "summary": "A network address manipulation library for Python"
+    },
+    "networkx": {
+        "author": "Aric Hagberg hagberg@lanl.gov",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://networkx.github.io/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/networkx/",
+        "summary": "Python package for creating and manipulating graphs and networks"
+    },
+    "nltk": {
+        "author": "Steven Bird stevenbird1@gmail.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/nltk"
+        ],
+        "home_page": "http://nltk.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/nltk/",
+        "summary": "Natural Language Toolkit"
+    },
+    "ntlm-auth": {
+        "author": "Jordan Borean jborean93@gmail.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "https://github.com/jborean93/ntlm-auth",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/ntlm-auth/",
+        "summary": "Creates NTLM authentication structures"
+    },
+    "numpy": {
+        "author": "Travis E. Oliphant et al.",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/machine-learning",
+            "demisto/pytan",
+            "demisto/fasttext",
+            "demisto/pandas",
+            "demisto/xmlparser",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/panads3",
+            "demisto/devo"
+        ],
+        "home_page": "https://www.numpy.org",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/numpy/",
+        "summary": "NumPy is the fundamental package for array computing with Python."
+    },
+    "oauth2client": {
+        "author": "Google Inc. jonwayne+oauth2client@google.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "http://github.com/google/oauth2client/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/oauth2client/",
+        "summary": "OAuth 2.0 client library"
+    },
+    "oauthlib": {
+        "author": "The OAuthlib Community idan@gazit.me",
+        "docker_images": [
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
+        ],
+        "home_page": "https://github.com/oauthlib/oauthlib",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/oauthlib/",
+        "summary": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"
+    },
+    "olefile": {
+        "author": "Philippe Lagadec nospam@decalage.info",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/sane-doc-reports",
+            "demisto/pytz",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/pdfx2",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://www.decalage.info/python/olefileio",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/olefile/",
+        "summary": "Python package to parse, read and write Microsoft OLE2 files (Structured Storage or Compound Document, Microsoft Office)"
+    },
+    "openpyxl": {
+        "author": "See AUTHORS charlie.clark@clark-consulting.eu",
+        "docker_images": [
+            "demisto/openpyxl"
+        ],
+        "home_page": "https://openpyxl.readthedocs.io",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/openpyxl/",
+        "summary": "A Python library to read/write Excel 2010 xlsx/xlsm files"
+    },
+    "ordered-set": {
+        "author": "",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/pytz",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pysmb"
+        ],
+        "home_page": "https://github.com/LuminosoInsight/ordered-set",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/ordered-set/",
+        "summary": "A MutableSet that remembers its order, so that every entry has an index."
+    },
+    "packaging": {
+        "author": "Donald Stufft and individual contributors donald@stufft.io",
+        "docker_images": [
+            "demisto/psycopg2",
+            "demisto/langdetect",
+            "demisto/pypdf2",
+            "demisto/pcap"
+        ],
+        "home_page": "https://github.com/pypa/packaging",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/packaging/",
+        "summary": "Core utilities for Python packages"
+    },
+    "pancloud": {
+        "author": "Steven Serrata sserrata@paloaltonetworks.com",
+        "docker_images": [
+            "demisto/python_pancloud"
+        ],
+        "home_page": "https://github.com/PaloAltoNetworks/pancloud",
+        "licenses": [
+            "License :: OSI Approved :: ISC License (ISCL)"
+        ],
+        "pypi_url": "https://pypi.org/project/pancloud/",
+        "summary": "Python idiomatic SDK for the Palo Alto Networks Application Framework."
+    },
+    "pandas": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/machine-learning",
+            "demisto/pytan",
+            "demisto/pandas",
+            "demisto/xmlparser",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/panads3",
+            "demisto/devo"
+        ],
+        "home_page": "http://pandas.pydata.org",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/pandas/",
+        "summary": "Powerful data structures for data analysis, time series, and statistics"
+    },
+    "pathlib": {
+        "author": "Antoine Pitrou solipsis@pitrou.net",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://pathlib.readthedocs.org/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pathlib/",
+        "summary": "Object-oriented filesystem paths"
+    },
+    "pdfminer2": {
+        "author": "Chris Hager chris@linuxuser.at",
+        "docker_images": [
+            "demisto/pdfx",
+            "demisto/pdfx2"
+        ],
+        "home_page": "https://github.com/metachris/pdfminer",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pdfminer2/",
+        "summary": "PDF parser and analyzer"
+    },
+    "pdfx": {
+        "author": "Chris Hager chris@linuxuser.at",
+        "docker_images": [
+            "demisto/pdfx",
+            "demisto/pdfx2"
+        ],
+        "home_page": "http://www.metachris.com/pdfx",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pdfx/",
+        "summary": "Extract metadata and URLs from PDF files, and download all referenced PDFs"
+    },
+    "phish-ai-api": {
+        "author": "Yevgeny Pats yp@phish.ai",
+        "docker_images": [
+            "demisto/phishai"
+        ],
+        "home_page": "https://github.com/phishai/phish-ai-api",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/phish-ai-api/",
+        "summary": "Phish.AI API wrapper"
+    },
+    "pip": {
+        "author": "The pip developers pypa-dev@groups.google.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/stix",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/tld",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/rasterize",
+            "demisto/splunksdk",
+            "demisto/psycopg2",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/langdetect",
+            "demisto/word-parser",
+            "demisto/bs4",
+            "demisto/cylance_protect_v2",
+            "demisto/dxl",
+            "demisto/unrar",
+            "demisto/python_zipfile",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/dnstwist",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/stomp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/dateutil",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/fasttext",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/servicenow",
+            "demisto/pyjwt",
+            "demisto/pandas",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/netaddr",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/libreoffice",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/iso8601",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/pcap",
+            "demisto/phishai",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://pip.pypa.io/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pip/",
+        "summary": "The PyPA recommended tool for installing Python packages."
+    },
+    "plac": {
+        "author": "Michele Simionato michele.simionato@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/micheles/plac",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/plac/",
+        "summary": "The smartest command line arguments parser in the world"
+    },
+    "ply": {
+        "author": "David Beazley dave@dabeaz.com",
+        "docker_images": [
+            "demisto/hashicorp"
+        ],
+        "home_page": "http://www.dabeaz.com/ply/",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/ply/",
+        "summary": "Python Lex & Yacc"
+    },
+    "preshed": {
+        "author": "Matthew Honnibal matt@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/explosion/preshed",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/preshed/",
+        "summary": "Cython hash table that trusts the keys are pre-hashed"
+    },
+    "prompt-toolkit": {
+        "author": "Jonathan Slenders",
+        "docker_images": [
+            "demisto/vmware"
+        ],
+        "home_page": "https://github.com/jonathanslenders/python-prompt-toolkit",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/prompt_toolkit/",
+        "summary": "Library for building powerful interactive command lines in Python"
+    },
+    "protobuf": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://developers.google.com/protocol-buffers/",
+        "licenses": [
+            "License: 3-Clause BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/protobuf/",
+        "summary": "Protocol Buffers"
+    },
+    "psycopg2": {
+        "author": "Federico Di Gregorio fog@initd.org",
+        "docker_images": [
+            "demisto/psycopg2"
+        ],
+        "home_page": "http://initd.org/psycopg/",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
+            "License :: OSI Approved :: Zope Public License"
+        ],
+        "pypi_url": "https://pypi.org/project/psycopg2/",
+        "summary": "psycopg2 - Python-PostgreSQL Database Adapter"
+    },
+    "py": {
+        "author": "holger krekel, Ronny Pfannschmidt, Benjamin Peterson and others pytest-dev@python.org",
+        "docker_images": [
+            "demisto/pcap-http-extractor"
+        ],
+        "home_page": "http://py.readthedocs.io/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/py/",
+        "summary": "library with cross-python path, ini-parsing, io, code, log facilities"
+    },
+    "py2-ipaddress": {
+        "author": "S\u00f8ren L\u00f8vborg kwi@kwi.dk",
+        "docker_images": [
+            "demisto/machine-learning",
+            "demisto/ml",
+            "demisto/exchange"
+        ],
+        "home_page": "https://bitbucket.org/kwi/py2-ipaddress/",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/py2-ipaddress/",
+        "summary": "Python 2.6 backport of 3.4's ipaddress module"
+    },
+    "pyOpenSSL": {
+        "author": "The pyOpenSSL developers cryptography-dev@python.org",
+        "docker_images": [
+            "demisto/snowflake",
+            "demisto/symantec_mss"
+        ],
+        "home_page": "https://pyopenssl.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyOpenSSL/",
+        "summary": "Python wrapper module around the OpenSSL library"
+    },
+    "pyasn1": {
+        "author": "Ilya Etingof etingof@gmail.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/ldap",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/btfl-soup",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/etingof/pyasn1",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyasn1/",
+        "summary": "ASN.1 types and codecs"
+    },
+    "pyasn1-modules": {
+        "author": "Ilya Etingof etingof@gmail.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://github.com/etingof/pyasn1-modules",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyasn1-modules/",
+        "summary": "A collection of ASN.1-based protocols modules."
+    },
+    "pybase64": {
+        "author": "Matthieu Darbois",
+        "docker_images": [
+            "demisto/pymisp"
+        ],
+        "home_page": "https://github.com/mayeut/pybase64",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pybase64/",
+        "summary": "Fast Base64 encoding/decoding"
+    },
+    "pybind11": {
+        "author": "Wenzel Jakob wenzel.jakob@epfl.ch",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/fasttext"
+        ],
+        "home_page": "https://github.com/pybind/pybind11",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pybind11/",
+        "summary": "Seamless operability between C++11 and Python"
+    },
+    "pycares": {
+        "author": "Sa\u00fal Ibarra Corretg\u00e9 s@saghul.net",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "http://github.com/saghul/pycares",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pycares/",
+        "summary": "Python interface for c-ares"
+    },
+    "pycparser": {
+        "author": "Eli Bendersky eliben@gmail.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/python_pancloud",
+            "demisto/snowflake",
+            "demisto/crypto",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/resilient",
+            "demisto/teams",
+            "demisto/ews",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
+        ],
+        "home_page": "https://github.com/eliben/pycparser",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pycparser/",
+        "summary": "C parser in Python"
+    },
+    "pycrypto": {
+        "author": "Dwayne C. Litzenberger dlitz@dlitz.net",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://www.pycrypto.org/",
+        "licenses": [
+            "License :: Public Domain"
+        ],
+        "pypi_url": "https://pypi.org/project/pycrypto/",
+        "summary": "Cryptographic modules for Python."
+    },
+    "pycryptodome": {
+        "author": "Helder Eijs helderijs@gmail.com",
+        "docker_images": [
+            "demisto/btfl-soup"
+        ],
+        "home_page": "https://www.pycryptodome.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License",
+            "License :: Public Domain"
+        ],
+        "pypi_url": "https://pypi.org/project/pycryptodome/",
+        "summary": "Cryptographic library for Python"
+    },
+    "pycryptodomex": {
+        "author": "Helder Eijs helderijs@gmail.com",
+        "docker_images": [
+            "demisto/snowflake",
+            "demisto/keepercommander"
+        ],
+        "home_page": "https://www.pycryptodome.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License",
+            "License :: Public Domain"
+        ],
+        "pypi_url": "https://pypi.org/project/pycryptodomex/",
+        "summary": "Cryptographic library for Python"
+    },
+    "pyflakes": {
+        "author": "A lot of people code-quality@python.org",
+        "docker_images": [
+            "demisto/vmware"
+        ],
+        "home_page": "https://github.com/PyCQA/pyflakes",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyflakes/",
+        "summary": "passive checker of Python programs"
+    },
+    "pyhcl": {
+        "author": "Dustin Spicuzza dustin@virtualroadside.com",
+        "docker_images": [
+            "demisto/hashicorp"
+        ],
+        "home_page": "https://github.com/virtuald/pyhcl",
+        "licenses": [
+            "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+        ],
+        "pypi_url": "https://pypi.org/project/pyhcl/",
+        "summary": "HCL configuration parser for python"
+    },
+    "pykafka": {
+        "author": "Keith Bourgoin and Emmett Butler pykafka-user@googlegroups.com",
+        "docker_images": [
+            "demisto/pykafka"
+        ],
+        "home_page": "https://github.com/Parsely/pykafka",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pykafka/",
+        "summary": "Full-Featured Pure-Python Kafka Client"
+    },
+    "pykerberos": {
+        "author": "",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib"
+        ],
+        "home_page": "",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pykerberos/",
+        "summary": "High-level interface to Kerberos"
+    },
+    "pyminizip": {
+        "author": "Shin Aoyama smihica@gmail.com",
+        "docker_images": [
+            "demisto/python_zipfile"
+        ],
+        "home_page": "https://github.com/smihica/pyminizip",
+        "licenses": [
+            "License :: OSI Approved :: zlib/libpng License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyminizip/",
+        "summary": "A minizip wrapper - To create a password encrypted zip file in python."
+    },
+    "pymisp": {
+        "author": "Rapha\u00ebl Vinot raphael.vinot@circl.lu",
+        "docker_images": [
+            "demisto/pymisp"
+        ],
+        "home_page": "https://github.com/MISP/PyMISP",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pymisp/",
+        "summary": "Python API for MISP."
+    },
+    "pymongo": {
+        "author": "Mike Dirolf mongodb-user@googlegroups.com",
+        "docker_images": [
+            "demisto/pymongo"
+        ],
+        "home_page": "http://github.com/mongodb/mongo-python-driver",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pymongo/",
+        "summary": "Python driver for MongoDB <http://www.mongodb.org>"
+    },
+    "pyparsing": {
+        "author": "Paul McGuire ptmcg@users.sourceforge.net",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/psycopg2",
+            "demisto/langdetect",
+            "demisto/pypdf2",
+            "demisto/pcap"
+        ],
+        "home_page": "https://github.com/pyparsing/pyparsing/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyparsing/",
+        "summary": "Python parsing module"
+    },
+    "pyquery": {
+        "author": "Gael Pasgrimaud gael@gawel.org",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/pyquery"
+        ],
+        "home_page": "https://github.com/gawel/pyquery",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/pyquery/",
+        "summary": "A jquery-like library for python"
+    },
+    "pyrsistent": {
+        "author": "Tobias Gustafsson tobias.l.gustafsson@gmail.com",
+        "docker_images": [
+            "demisto/pymisp"
+        ],
+        "home_page": "http://github.com/tobgu/pyrsistent/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyrsistent/",
+        "summary": "Persistent/Functional/Immutable data structures"
+    },
+    "pyshark": {
+        "author": "KimiNewt",
+        "docker_images": [
+            "demisto/pcap-http-extractor"
+        ],
+        "home_page": "https://github.com/KimiNewt/pyshark",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyshark/",
+        "summary": "Python wrapper for tshark, allowing python packet parsing using wireshark dissectors"
+    },
+    "pysmb": {
+        "author": "Michael Teo miketeo@miketeo.net",
+        "docker_images": [
+            "demisto/pysmb"
+        ],
+        "home_page": "https://miketeo.net/projects/pysmb",
+        "licenses": [
+            "License :: OSI Approved :: zlib/libpng License"
+        ],
+        "pypi_url": "https://pypi.org/project/pysmb/",
+        "summary": "pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines"
+    },
+    "python-dateutil": {
+        "author": "Gustavo Niemeyer gustavo@niemeyer.net",
+        "docker_images": [
+            "demisto/python",
+            "demisto/stix",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/dateutil",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pandas",
+            "demisto/pykafka",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/ews",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://dateutil.readthedocs.io",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/python-dateutil/",
+        "summary": "Extensions to the standard Python datetime module"
+    },
+    "python-docx": {
+        "author": "Steve Canny python-docx@googlegroups.com",
+        "docker_images": [
+            "demisto/sane-doc-reports",
+            "demisto/word-parser",
+            "demisto/office-utils",
+            "demisto/docxpy"
+        ],
+        "home_page": "https://github.com/python-openxml/python-docx",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/python-docx/",
+        "summary": "Create and update Microsoft Word .docx files."
+    },
+    "python-libnmap": {
+        "author": "Ronald Bister mini.pelle@gmail.com",
+        "docker_images": [
+            "demisto/nmap"
+        ],
+        "home_page": "http://pypi.python.org/pypi/python-libnmap/",
+        "licenses": [
+            "License: Creative Common \"Attribution\" license (CC-BY) v3"
+        ],
+        "pypi_url": "https://pypi.org/project/python-libnmap/",
+        "summary": "Python NMAP library enabling you to start async nmap tasks, parse and compare/diff scan results"
+    },
+    "python-whois": {
+        "author": "Richard Penman richard.penman@gmail.com",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://github.com/richardpenman/pywhois",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/python-whois/",
+        "summary": "Whois querying and parsing of domain registration information."
+    },
+    "pytz": {
+        "author": "Stuart Bishop stuart@stuartbishop.net",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/vertica",
+            "demisto/dateutil",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pandas",
+            "demisto/pykafka",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/iso8601",
+            "demisto/ews",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "http://pythonhosted.org/pytz",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pytz/",
+        "summary": "World timezone definitions, modern and historical"
+    },
+    "pyunpack": {
+        "author": "ponty",
+        "docker_images": [
+            "demisto/unrar"
+        ],
+        "home_page": "https://github.com/ponty/pyunpack",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyunpack/",
+        "summary": "unpack archive files"
+    },
+    "pyvim": {
+        "author": "Jonathan Slenders",
+        "docker_images": [
+            "demisto/vmware"
+        ],
+        "home_page": "https://github.com/jonathanslenders/pyvim",
+        "licenses": [
+            "License :: BSD 3-Clause License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyvim/",
+        "summary": "Pure Python Vi Implementation"
+    },
+    "pyvmomi": {
+        "author": "VMware, Inc. jhu@vmware.com",
+        "docker_images": [
+            "demisto/vmware"
+        ],
+        "home_page": "https://github.com/vmware/pyvmomi",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyvmomi/",
+        "summary": "VMware vSphere Python SDK"
+    },
+    "redis": {
+        "author": "Andy McCurdy sedrik@gmail.com",
+        "docker_images": [
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/andymccurdy/redis-py",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/redis/",
+        "summary": "Python client for Redis key-value store"
+    },
+    "regex": {
+        "author": "Matthew Barnett regex@mrabarnett.plus.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/sane-doc-reports",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/pcap",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/regex/",
+        "summary": "Alternative regular expression module, to replace re."
+    },
+    "requests": {
+        "author": "Kenneth Reitz me@kennethreitz.org",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/splunksdk",
+            "demisto/psycopg2",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/bs4",
+            "demisto/cylance_protect_v2",
+            "demisto/unrar",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/servicenow",
+            "demisto/pyjwt",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "http://python-requests.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests/",
+        "summary": "Python HTTP for Humans."
+    },
+    "requests-file": {
+        "author": "David Shea dshea@redhat.com",
+        "docker_images": [
+            "demisto/machine-learning",
+            "demisto/tldextract",
+            "demisto/ml",
+            "demisto/exchange"
+        ],
+        "home_page": "http://github.com/dashea/requests-file",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-file/",
+        "summary": "File transport adapter for Requests"
+    },
+    "requests-futures": {
+        "author": "Ross McFarland rwmcfa1@neces.com",
+        "docker_images": [
+            "demisto/cloaken"
+        ],
+        "home_page": "https://github.com/ross/requests-futures",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-futures/",
+        "summary": "Asynchronous Python HTTP for Humans."
+    },
+    "requests-kerberos": {
+        "author": "Ian Cordasco, Cory Benfield, Michael Komitee graffatcolmingov@gmail.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib"
+        ],
+        "home_page": "https://github.com/requests/requests-kerberos",
+        "licenses": [
+            "License :: ISC License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-kerberos/",
+        "summary": "A Kerberos authentication handler for python-requests"
+    },
+    "requests-mock": {
+        "author": "Jamie Lennox jamielennox@gmail.com",
+        "docker_images": [
+            "demisto/resilient"
+        ],
+        "home_page": "https://requests-mock.readthedocs.io/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-mock/",
+        "summary": "Mock out responses from the requests package"
+    },
+    "requests-ntlm": {
+        "author": "Ben Toews mastahyeti@gmail.com",
+        "docker_images": [
+            "demisto/py-ews",
+            "demisto/exchangelib",
+            "demisto/ews"
+        ],
+        "home_page": "https://github.com/requests/requests-ntlm",
+        "licenses": [
+            "License :: OSI Approved :: ISC License (ISCL)"
+        ],
+        "pypi_url": "https://pypi.org/project/requests_ntlm/",
+        "summary": "This package allows for HTTP NTLM authentication using the requests library."
+    },
+    "requests-oauthlib": {
+        "author": "Kenneth Reitz me@kennethreitz.com",
+        "docker_images": [
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
+        ],
+        "home_page": "https://github.com/requests/requests-oauthlib",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-oauthlib/",
+        "summary": "OAuthlib authentication support for Requests."
+    },
+    "requests-toolbelt": {
+        "author": "Ian Cordasco, Cory Benfield graffatcolmingov@gmail.com",
+        "docker_images": [
+            "demisto/resilient",
+            "demisto/zeep"
+        ],
+        "home_page": "https://toolbelt.readthedocs.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/requests-toolbelt/",
+        "summary": "A utility belt for advanced users of python-requests"
+    },
+    "resilient": {
+        "author": "IBM Resilient support@resilientsystems.com",
+        "docker_images": [
+            "demisto/resilient"
+        ],
+        "home_page": "https://developer.ibm.com/resilient",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/resilient/",
+        "summary": "Resilient API"
+    },
+    "rsa": {
+        "author": "Sybren A. Stuvel sybren@stuvel.eu",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/bigquery",
+            "demisto/btfl-soup",
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://stuvel.eu/rsa",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/rsa/",
+        "summary": "Pure-Python RSA implementation"
+    },
+    "rsa-archer": {
+        "author": "Aleksei Aikashev a.aykashev@gmail.com",
+        "docker_images": [
+            "demisto/archer"
+        ],
+        "home_page": "https://github.com/mwa21/rsa_archer",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/rsa-archer/",
+        "summary": "RSA Archer REST and GRC API library"
+    },
+    "s3transfer": {
+        "author": "Amazon Web Services kyknapp1@gmail.com",
+        "docker_images": [
+            "demisto/boto3",
+            "demisto/snowflake",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry"
+        ],
+        "home_page": "https://github.com/boto/s3transfer",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/s3transfer/",
+        "summary": "An Amazon S3 Transfer Manager"
+    },
+    "sane-doc-reports": {
+        "author": "UNKNOWN",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "UNKNOWN",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": null,
+        "summary": "UNKNOWN"
+    },
+    "scikit-image": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://scikit-image.org",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/scikit-image/",
+        "summary": "Image processing routines for SciPy"
+    },
+    "scikit-learn": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/machine-learning",
+            "demisto/ml",
+            "demisto/exchange"
+        ],
+        "home_page": "http://scikit-learn.org",
+        "licenses": [
+            "License: new BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/scikit-learn/",
+        "summary": "A set of python modules for machine learning and data mining"
+    },
+    "scipy": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/machine-learning",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/devo"
+        ],
+        "home_page": "https://www.scipy.org",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/scipy/",
+        "summary": "SciPy: Scientific Library for Python"
+    },
+    "selenium": {
+        "author": "",
+        "docker_images": [
+            "demisto/chromium"
+        ],
+        "home_page": "https://github.com/SeleniumHQ/selenium/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/selenium/",
+        "summary": "Python bindings for Selenium"
+    },
+    "servicenow": {
+        "author": "Francisco Freire francisco.freire@locaweb.com.br",
+        "docker_images": [
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/locaweb/python-servicenow",
+        "licenses": [
+            "License: Apache"
+        ],
+        "pypi_url": "https://pypi.org/project/servicenow/",
+        "summary": "Python Library to interact with and manage the ServiceNow database"
+    },
+    "setuptools": {
+        "author": "Python Packaging Authority distutils-sig@python.org",
+        "docker_images": [
+            "demisto/python",
+            "demisto/stix",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/tld",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/rasterize",
+            "demisto/splunksdk",
+            "demisto/psycopg2",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/langdetect",
+            "demisto/word-parser",
+            "demisto/bs4",
+            "demisto/cylance_protect_v2",
+            "demisto/dxl",
+            "demisto/unrar",
+            "demisto/python_zipfile",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/dnstwist",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/stomp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/dateutil",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/fasttext",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/servicenow",
+            "demisto/pyjwt",
+            "demisto/pandas",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/netaddr",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/libreoffice",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/iso8601",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/pcap",
+            "demisto/phishai",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/pypa/setuptools",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/setuptools/",
+        "summary": "Easily download, build, install, upgrade, and uninstall Python packages"
+    },
+    "simplejson": {
+        "author": "Bob Ippolito bob@redivi.com",
+        "docker_images": [
+            "demisto/stix2",
+            "demisto/pcap"
+        ],
+        "home_page": "https://github.com/simplejson/simplejson",
+        "licenses": [
+            "License :: OSI Approved :: Academic Free License (AFL)",
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/simplejson/",
+        "summary": "Simple, fast, extensible JSON encoder/decoder for Python"
+    },
+    "singledispatch": {
+        "author": "\u0141ukasz Langa lukasz@langa.pl",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://docs.python.org/3/library/functools.html#functools.singledispatch",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/singledispatch/",
+        "summary": "This library brings functools.singledispatch from Python 3.4 to Python 2.6-3.3."
+    },
+    "six": {
+        "author": "Benjamin Peterson benjamin@python.org",
+        "docker_images": [
+            "demisto/python",
+            "demisto/stix",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/tld",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/psycopg2",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/langdetect",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/servicenow",
+            "demisto/pandas",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pcap",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/benjaminp/six",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/six/",
+        "summary": "Python 2 and 3 compatibility utilities"
+    },
+    "slackclient": {
+        "author": "Slack Technologies, Inc. opensource@slack.com",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "https://github.com/slackapi/python-slackclient",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/slackclient/",
+        "summary": "Slack API clients for Web API and RTM API"
+    },
+    "smime": {
+        "author": "G. B. Versiani guibv@yahoo.com",
+        "docker_images": [
+            "demisto/smime-encrypt"
+        ],
+        "home_page": "https://github.com/balena/python-smime",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/smime/",
+        "summary": "Python S/MIME Toolkit"
+    },
+    "snowflake-connector-python": {
+        "author": "Snowflake, Inc support@snowflake.com",
+        "docker_images": [
+            "demisto/snowflake"
+        ],
+        "home_page": "https://www.snowflake.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/snowflake-connector-python/",
+        "summary": "Snowflake Connector for Python"
+    },
+    "soupsieve": {
+        "author": "Isaac Muse Isaac.Muse@gmail.com",
+        "docker_images": [
+            "demisto/btfl-soup"
+        ],
+        "home_page": "https://github.com/facelessuser/soupsieve",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/soupsieve/",
+        "summary": "A modern CSS selector implementation for Beautiful Soup."
+    },
+    "spacy": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://spacy.io",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/spacy/",
+        "summary": "Industrial-strength Natural Language Processing (NLP) with Python and Cython"
+    },
+    "splunk-sdk": {
+        "author": "Splunk, Inc. devinfo@splunk.com",
+        "docker_images": [
+            "demisto/splunksdk"
+        ],
+        "home_page": "http://github.com/splunk/splunk-sdk-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/splunk-sdk/",
+        "summary": "The Splunk Software Development Kit for Python."
+    },
+    "srsly": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/srsly/",
+        "summary": "Modern high-performance serialization utilities for Python"
+    },
+    "stix": {
+        "author": "STIX Project, MITRE Corporation stix@mitre.org",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/pytz",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pysmb"
+        ],
+        "home_page": "http://stix.mitre.org",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/stix/",
+        "summary": "An API for parsing and generating STIX content."
+    },
+    "stix2": {
+        "author": "OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org",
+        "docker_images": [
+            "demisto/stix2"
+        ],
+        "home_page": "https://oasis-open.github.io/cti-documentation/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/stix2/",
+        "summary": "Produce and consume STIX 2 JSON content"
+    },
+    "stix2-patterns": {
+        "author": "Chris Lenk clenk@mitre.org",
+        "docker_images": [
+            "demisto/stix2"
+        ],
+        "home_page": "https://github.com/oasis-open/cti-pattern-validator",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/stix2-patterns/",
+        "summary": "Validate STIX 2 Patterns."
+    },
+    "stomp.py": {
+        "author": "Jason R Briggs jasonrbriggs@gmail.com",
+        "docker_images": [
+            "demisto/stomp"
+        ],
+        "home_page": "https://github.com/jasonrbriggs/stomp.py",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/stomp.py/",
+        "summary": "Python STOMP client, supporting versions 1.0, 1.1 and 1.2 of the protocol"
+    },
+    "subprocess32": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/google/python-subprocess32",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/subprocess32/",
+        "summary": "A backport of the subprocess module from Python 3 for use on 2.x."
+    },
+    "tabulate": {
+        "author": "Sergey Astanin s.astanin@gmail.com",
+        "docker_images": [
+            "demisto/dl",
+            "demisto/pykafka",
+            "demisto/keepercommander"
+        ],
+        "home_page": "https://bitbucket.org/astanin/python-tabulate",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/tabulate/",
+        "summary": "Pretty-print tabular data"
+    },
+    "tenable-io": {
+        "author": "Tenable Network Security, Inc",
+        "docker_images": [
+            "demisto/tenable_io"
+        ],
+        "home_page": "https://github.com/tenable/Tenable.io-SDK-for-Python",
+        "licenses": [
+            "License: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/tenable-io/",
+        "summary": "Tenable.io API SDK"
+    },
+    "tensorboard": {
+        "author": "Google Inc. packages@tensorflow.org",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/tensorflow/tensorboard",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/tensorboard/",
+        "summary": "TensorBoard lets you watch Tensors Flow"
+    },
+    "tensorflow": {
+        "author": "Google Inc. packages@tensorflow.org",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://www.tensorflow.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/tensorflow/",
+        "summary": "TensorFlow is an open source machine learning framework for everyone."
+    },
+    "tensorflow-estimator": {
+        "author": "Google Inc.",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://www.tensorflow.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/tensorflow-estimator/",
+        "summary": "TensorFlow Estimator."
+    },
+    "termcolor": {
+        "author": "Konstantin Lepa konstantin.lepa@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "http://pypi.python.org/pypi/termcolor",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/termcolor/",
+        "summary": "ANSII Color formatting for output in terminal."
+    },
+    "text-unidecode": {
+        "author": "Mikhail Korobov kmike84@gmail.com",
+        "docker_images": [
+            "demisto/faker3"
+        ],
+        "home_page": "https://github.com/kmike/text-unidecode/",
+        "licenses": [
+            "License :: Artistic License"
+        ],
+        "pypi_url": "https://pypi.org/project/text-unidecode/",
+        "summary": "The most basic Text::Unidecode port"
+    },
+    "tflearn": {
+        "author": "TFLearn contributors aymeric.damien@gmail.com",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/tflearn/tflearn",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/tflearn/",
+        "summary": "Deep Learning Library featuring a higher-level API for TensorFlow"
+    },
+    "thinc": {
+        "author": "Matthew Honnibal matt@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/explosion/thinc",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/thinc/",
+        "summary": "Practical Machine Learning for NLP"
+    },
+    "threatconnect": {
+        "author": "ThreatConnect (support@threatconnect.com) support@threatconnect.com",
+        "docker_images": [
+            "demisto/threatconnect-sdk",
+            "demisto/threatconnect"
+        ],
+        "home_page": "https://github.com/ThreatConnect-Inc/threatconnect-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/threatconnect/",
+        "summary": "Python SDK for ThreatConnect API"
+    },
+    "tinydb": {
+        "author": "Markus Siemens markus@m-siemens.de",
+        "docker_images": [
+            "demisto/python_pancloud"
+        ],
+        "home_page": "https://github.com/msiemens/tinydb",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/tinydb/",
+        "summary": "TinyDB is a tiny, document oriented database optimized for your happiness :)"
+    },
+    "tld": {
+        "author": "Artur Barseghyan artur.barseghyan@gmail.com",
+        "docker_images": [
+            "demisto/tld"
+        ],
+        "home_page": "https://github.com/barseghyanartur/tld",
+        "licenses": [
+            "License :: GNU Lesser General Public License v2 or Later (LGPLv2+)"
+        ],
+        "pypi_url": "https://pypi.org/project/tld/",
+        "summary": "Extract the top level domain (TLD) from the URL given."
+    },
+    "tldextract": {
+        "author": "John Kurkowski john.kurkowski@gmail.com",
+        "docker_images": [
+            "demisto/machine-learning",
+            "demisto/tldextract",
+            "demisto/ml",
+            "demisto/exchange"
+        ],
+        "home_page": "https://github.com/john-kurkowski/tldextract",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/tldextract/",
+        "summary": "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List. By default, this includes the public ICANN TLDs and their exceptions. You can optionally support the Public Suffix List's private domains as well."
+    },
+    "toolz": {
+        "author": "https://raw.github.com/pytoolz/toolz/master/AUTHORS.md",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/pytoolz/toolz/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/toolz/",
+        "summary": "List processing tools and functional utilities"
+    },
+    "tqdm": {
+        "author": "",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://github.com/tqdm/tqdm",
+        "licenses": [
+            "License :: OSI Approved :: MIT License",
+            "License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)"
+        ],
+        "pypi_url": "https://pypi.org/project/tqdm/",
+        "summary": "Fast, Extensible Progress Meter"
+    },
+    "trustar": {
+        "author": "TruSTAR Technology, Inc. support@trustar.co",
+        "docker_images": [
+            "demisto/trustar"
+        ],
+        "home_page": "https://github.com/trustar/trustar-python",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/trustar/",
+        "summary": "Python SDK for the TruSTAR REST API"
+    },
+    "tzlocal": {
+        "author": "Lennart Regebro regebro@gmail.com",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/zeep",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/ews",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/regebro/tzlocal",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/tzlocal/",
+        "summary": "tzinfo object for the local timezone"
+    },
+    "unicodecsv": {
+        "author": "Jeremy Dunck jdunck@gmail.com",
+        "docker_images": [
+            "demisto/trustar"
+        ],
+        "home_page": "https://github.com/jdunck/python-unicodecsv",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/unicodecsv/",
+        "summary": "Python2's stdlib csv module is nice, but it doesn't support unicode. This module is a drop-in replacement which *does*."
+    },
+    "uritemplate": {
+        "author": "Ian Cordasco graffatcolmingov@gmail.com",
+        "docker_images": [
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/google-vision-api"
+        ],
+        "home_page": "https://uritemplate.readthedocs.org",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License",
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/uritemplate/",
+        "summary": "URI templates"
+    },
+    "urllib3": {
+        "author": "Andrey Petrov andrey.petrov@shazow.net",
+        "docker_images": [
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/splunksdk",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/cylance_protect_v2",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/ippysocks",
+            "demisto/vertica",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/boto3py3",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/pyjwt",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://urllib3.readthedocs.io/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/urllib3/",
+        "summary": "HTTP library with thread-safe connection pooling, file post, and more."
+    },
+    "uuid": {
+        "author": "Ka-Ping Yee ping@zesty.ca",
+        "docker_images": [
+            "demisto/cylance_protect_v2"
+        ],
+        "home_page": "http://zesty.ca/python/",
+        "licenses": [
+            "License :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/uuid/",
+        "summary": "UUID object and generation functions (Python 2.3 or higher)"
+    },
+    "validate-email": {
+        "author": "Syrus Akbary me@syrusakbary.com",
+        "docker_images": [
+            "demisto/tld"
+        ],
+        "home_page": "http://github.com/syrusakbary/validate_email",
+        "licenses": [
+            "License: LGPL"
+        ],
+        "pypi_url": "https://pypi.org/project/validate_email/",
+        "summary": "Validate_email verify if an email address is valid and really exists."
+    },
+    "vertica-python": {
+        "author": "Justin Berka, Alex Kim, Siting Ren justin.berka@gmail.com, alex.kim@uber.com, sitingren@hotmail.com",
+        "docker_images": [
+            "demisto/vertica"
+        ],
+        "home_page": "https://github.com/vertica/vertica-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/vertica-python/",
+        "summary": "A native Python client for the Vertica database."
+    },
+    "virtualenv": {
+        "author": "Ian Bicking ianb@colorstudy.com",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/threatconnect-sdk",
+            "demisto/tld",
+            "demisto/py-ews",
+            "demisto/pytz",
+            "demisto/rasterize",
+            "demisto/psycopg2",
+            "demisto/langdetect",
+            "demisto/word-parser",
+            "demisto/bs4",
+            "demisto/cylance_protect_v2",
+            "demisto/dxl",
+            "demisto/unrar",
+            "demisto/python_zipfile",
+            "demisto/machine-learning",
+            "demisto/pdfx",
+            "demisto/dnstwist",
+            "demisto/7zip",
+            "demisto/stomp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pytan",
+            "demisto/exifread",
+            "demisto/pysmb",
+            "demisto/ml-telemetry",
+            "demisto/pypdf2",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/exchangelib",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/servicenow",
+            "demisto/pyjwt",
+            "demisto/pandas",
+            "demisto/tldextract",
+            "demisto/netaddr",
+            "demisto/xmlparser",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/exchange",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/pcap",
+            "demisto/phishai",
+            "demisto/threatconnect"
+        ],
+        "home_page": "https://virtualenv.pypa.io/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/virtualenv/",
+        "summary": "Virtual Python Environment builder"
+    },
+    "wasabi": {
+        "author": "Ines Montani ines@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://ines.io",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": "https://pypi.org/project/wasabi/",
+        "summary": "A lightweight console printing and formatting toolkit"
+    },
+    "wcwidth": {
+        "author": "Jeff Quast contact@jeffquast.com",
+        "docker_images": [
+            "demisto/vmware"
+        ],
+        "home_page": "https://github.com/jquast/wcwidth",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/wcwidth/",
+        "summary": "Measures number of Terminal column cells of wide-character codes"
+    },
+    "weakrefmethod": {
+        "author": "Tommy Wang twang@august8.net",
+        "docker_images": [
+            "demisto/stix",
+            "demisto/pytz",
+            "demisto/bs4",
+            "demisto/unrar",
+            "demisto/pdfx",
+            "demisto/7zip",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/pysmb"
+        ],
+        "home_page": "http://github.com/twang817/weakrefmethod",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/weakrefmethod/",
+        "summary": "A WeakMethod class for storing bound methods using weak references."
+    },
+    "webcolors": {
+        "author": "James Bennett james@b-list.org",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "https://github.com/ubernostrum/webcolors",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/webcolors/",
+        "summary": "A library for working with color names and color values formats defined by HTML and CSS."
+    },
+    "webdriver-manager": {
+        "author": "Sergey Pirogov automationremarks@gmail.com",
+        "docker_images": [
+            "demisto/chromium"
+        ],
+        "home_page": "https://github.com/SergeyPirogov/webdriver_manager",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/webdriver-manager/",
+        "summary": "Library provides the way to automatically manage drivers for different browsers"
+    },
+    "webencodings": {
+        "author": "Geoffrey Sneddon me@gsnedders.com",
+        "docker_images": [
+            "demisto/pytan",
+            "demisto/pandas",
+            "demisto/xmlparser"
+        ],
+        "home_page": "https://github.com/SimonSapin/python-webencodings",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/webencodings/",
+        "summary": "Character encoding aliases for legacy web content"
+    },
+    "wheel": {
+        "author": "Daniel Holth dholth@fastmail.fm",
+        "docker_images": [
+            "demisto/python",
+            "demisto/stix",
+            "demisto/python3",
+            "demisto/threatconnect-sdk",
+            "demisto/tld",
+            "demisto/python3-deb",
+            "demisto/py-ews",
+            "demisto/sane-doc-reports",
+            "demisto/dl",
+            "demisto/pytz",
+            "demisto/rasterize",
+            "demisto/splunksdk",
+            "demisto/psycopg2",
+            "demisto/stix2",
+            "demisto/google-api",
+            "demisto/langdetect",
+            "demisto/word-parser",
+            "demisto/bs4",
+            "demisto/cylance_protect_v2",
+            "demisto/dxl",
+            "demisto/unrar",
+            "demisto/python_zipfile",
+            "demisto/boto3",
+            "demisto/machine-learning",
+            "demisto/pymisp",
+            "demisto/pdfx",
+            "demisto/ldap",
+            "demisto/nltk",
+            "demisto/python_pancloud",
+            "demisto/office-utils",
+            "demisto/gvault",
+            "demisto/dnstwist",
+            "demisto/7zip",
+            "demisto/hashicorp",
+            "demisto/pyotrs",
+            "demisto/stomp",
+            "demisto/openpyxl",
+            "demisto/ippysocks",
+            "demisto/xlrd",
+            "demisto/vertica",
+            "demisto/dateutil",
+            "demisto/duoadmin",
+            "demisto/pcap-http-extractor",
+            "demisto/pytan",
+            "demisto/tesseract",
+            "demisto/snowflake",
+            "demisto/exifread",
+            "demisto/bigquery",
+            "demisto/pysmb",
+            "demisto/crypto",
+            "demisto/cloaken",
+            "demisto/trustar",
+            "demisto/openssh",
+            "demisto/readpdf",
+            "demisto/python-deb",
+            "demisto/nmap",
+            "demisto/fasttext",
+            "demisto/boto3py3",
+            "demisto/ml-telemetry",
+            "demisto/pypdf2",
+            "demisto/iputils",
+            "demisto/blueliv",
+            "demisto/vmray",
+            "demisto/symantec_mss",
+            "demisto/vmware",
+            "demisto/exchangelib",
+            "demisto/slack",
+            "demisto/aquatone",
+            "demisto/resilient",
+            "demisto/zeep",
+            "demisto/servicenow",
+            "demisto/pyjwt",
+            "demisto/pandas",
+            "demisto/tldextract",
+            "demisto/pykafka",
+            "demisto/netaddr",
+            "demisto/xmlparser",
+            "demisto/docxpy",
+            "demisto/btfl-soup",
+            "demisto/faker3",
+            "demisto/archer",
+            "demisto/uptycs",
+            "demisto/libreoffice",
+            "demisto/powershell-core",
+            "demisto/teams",
+            "demisto/pymongo",
+            "demisto/google-cloud-storage",
+            "demisto/elasticsearch",
+            "demisto/tenable_io",
+            "demisto/ml",
+            "demisto/keepercommander",
+            "demisto/exchange",
+            "demisto/python3.7",
+            "demisto/pdfx2",
+            "demisto/iso8601",
+            "demisto/ews",
+            "demisto/pyquery",
+            "demisto/pcap",
+            "demisto/phishai",
+            "demisto/threatconnect",
+            "demisto/panads3",
+            "demisto/google-vision-api",
+            "demisto/chromium",
+            "demisto/pyjwt3",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/circleci",
+            "demisto/m2crypto",
+            "demisto/devo"
+        ],
+        "home_page": "https://github.com/pypa/wheel",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/wheel/",
+        "summary": "A built-package format for Python."
+    },
+    "whois": {
+        "author": "DannyCork ddarko@ddarko.org",
+        "docker_images": [
+            "demisto/dnstwist"
+        ],
+        "home_page": "https://github.com/DannyCork/python-whois/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/whois/",
+        "summary": "Python package for retrieving WHOIS information of domains."
+    },
+    "wrapt": {
+        "author": "Graham Dumpleton Graham.Dumpleton@gmail.com",
+        "docker_images": [
+            "demisto/pymisp"
+        ],
+        "home_page": "https://github.com/GrahamDumpleton/wrapt",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/wrapt/",
+        "summary": "Module for decorators, wrappers and monkey patching."
+    },
+    "wstools": {
+        "author": "Makina Corpus python@makina-corpus.com",
+        "docker_images": [
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/pycontribs/wstools",
+        "licenses": [
+            "License: BSD"
+        ],
+        "pypi_url": "https://pypi.org/project/wstools/",
+        "summary": "WSDL parsing services package for Web Services for Python."
+    },
+    "xlrd": {
+        "author": "John Machin sjmachin@lexicon.net",
+        "docker_images": [
+            "demisto/xlrd"
+        ],
+        "home_page": "http://www.python-excel.org/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/xlrd/",
+        "summary": "Library for developers to extract data from Microsoft Excel (tm) spreadsheet files"
+    },
+    "xmltodict": {
+        "author": "Martin Blech martinblech@gmail.com",
+        "docker_images": [
+            "demisto/servicenow"
+        ],
+        "home_page": "https://github.com/martinblech/xmltodict",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/xmltodict/",
+        "summary": "Makes working with XML feel like you are working with JSON"
+    },
+    "yarl": {
+        "author": "Andrew Svetlov andrew.svetlov@gmail.com",
+        "docker_images": [
+            "demisto/slack"
+        ],
+        "home_page": "https://github.com/aio-libs/yarl/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/yarl/",
+        "summary": "Yet another URL library"
+    },
+    "zeep": {
+        "author": "Michael van Tellingen michaelvantellingen@gmail.com",
+        "docker_images": [
+            "demisto/zeep"
+        ],
+        "home_page": "http://docs.python-zeep.org",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/zeep/",
+        "summary": "A modern/fast Python SOAP client based on lxml / requests"
+    }
+}
