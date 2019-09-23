@@ -2,7 +2,9 @@
 
 This branch contains package and os information about each docker image available via Demisto's Docker Hub repositories at:  https://hub.docker.com/u/demisto/ .
 
-Each information file is maintained as a markdown file in its relevant folder. The last available tag of each docker image is kept in a file named `last.md` in a folder named as the docker image.
+Each information file is maintained as a markdown file in its relevant folder. The last available tag of each docker image is kept in a file named `last.md` in a folder named as the docker image. The listing and information is automatically generated on a nightly basis.
+
+If you are searching for a specific package and want to see if it is available in a published docker image, you can use the [used_packages.csv](used_packages.csv) file which contains a listing of packages and all docker images using that package.
 
 ## Docker Image List
 * [demisto/7zip](demisto/7zip/last.md)
