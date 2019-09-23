@@ -1,0 +1,14 @@
+jobs:
+  docker_build:
+    docker:
+      - image: devdemisto/dockerbuild:1.0.0.56
+    steps:
+      - checkout
+      - run:
+          name: Build disabled for repository-info branch
+          command: echo 'Build disabled for repository-info branch. It is run via master nightly build.'
+workflows:
+  version: 2
+  full_build:
+    jobs:
+      - docker_build
