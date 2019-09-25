@@ -226,7 +226,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -256,7 +255,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -264,7 +262,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -299,7 +299,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -331,7 +330,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -339,7 +337,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -702,8 +702,8 @@
             "demisto/resilient",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -731,7 +731,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/crypto",
@@ -783,7 +782,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -791,7 +789,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -844,7 +844,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/crypto",
@@ -896,7 +895,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -904,7 +902,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1121,7 +1121,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -1152,7 +1151,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -1160,7 +1158,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1528,8 +1528,8 @@
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -1558,8 +1558,8 @@
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -1680,8 +1680,8 @@
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -1759,8 +1759,8 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -1788,7 +1788,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/crypto",
@@ -1840,7 +1839,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -1848,7 +1846,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2269,8 +2269,8 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -2313,7 +2313,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/pysmb",
             "demisto/crypto",
@@ -2347,7 +2346,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -2355,7 +2353,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2536,7 +2536,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/pysmb",
@@ -2599,7 +2598,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -2607,7 +2605,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2671,8 +2671,8 @@
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -2742,8 +2742,8 @@
             "demisto/btfl-soup",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2758,8 +2758,8 @@
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -3050,7 +3050,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/pysmb",
             "demisto/crypto",
@@ -3092,7 +3091,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3100,7 +3098,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3168,7 +3168,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -3209,7 +3208,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3217,7 +3215,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3287,7 +3287,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -3319,7 +3318,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3327,7 +3325,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3365,7 +3365,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/pysmb",
@@ -3419,7 +3418,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3427,7 +3425,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3547,8 +3547,8 @@
             "demisto/btfl-soup",
             "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/bigquery",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/bigquery"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -3704,7 +3704,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/pysmb",
@@ -3767,7 +3766,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3775,7 +3773,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3841,7 +3841,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/pysmb",
             "demisto/crypto",
@@ -3892,7 +3891,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -3900,7 +3898,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4275,7 +4275,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/crypto",
             "demisto/cloaken",
@@ -4309,7 +4308,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -4317,7 +4315,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4374,7 +4374,6 @@
             "demisto/vertica",
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/crypto",
@@ -4426,7 +4425,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -4434,7 +4432,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4660,7 +4660,6 @@
             "demisto/duoadmin",
             "demisto/pcap-http-extractor",
             "demisto/pytan",
-            "demisto/tesseract",
             "demisto/snowflake",
             "demisto/exifread",
             "demisto/pysmb",
@@ -4723,7 +4722,6 @@
             "demisto/pymisp",
             "demisto/office-utils",
             "demisto/hashicorp",
-            "demisto/bigquery",
             "demisto/boto3py3",
             "demisto/pykafka",
             "demisto/teams",
@@ -4731,7 +4729,9 @@
             "demisto/google-vision-api",
             "demisto/oauthlib",
             "demisto/netutils",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/tesseract",
+            "demisto/bigquery"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
