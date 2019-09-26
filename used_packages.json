@@ -264,7 +264,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -339,7 +340,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -703,7 +705,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -791,7 +794,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -904,7 +908,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1160,7 +1165,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1543,7 +1549,8 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -1559,7 +1566,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -1573,7 +1581,8 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -1760,7 +1769,8 @@
             "demisto/gvault",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -1848,7 +1858,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2270,7 +2281,8 @@
             "demisto/gvault",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -2355,7 +2367,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2607,7 +2620,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2743,7 +2757,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2759,7 +2774,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -3100,7 +3116,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3217,7 +3234,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3327,7 +3345,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3427,7 +3446,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3548,7 +3568,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -3775,7 +3796,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3900,7 +3922,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4317,7 +4340,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4343,7 +4367,8 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -4434,7 +4459,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4731,7 +4757,8 @@
             "demisto/netutils",
             "demisto/smime-encrypt",
             "demisto/tesseract",
-            "demisto/bigquery"
+            "demisto/bigquery",
+            "demisto/googleapi-python3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
