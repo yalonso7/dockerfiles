@@ -235,7 +235,6 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/btfl-soup",
@@ -265,7 +264,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -310,7 +310,6 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/btfl-soup",
@@ -341,7 +340,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -529,9 +529,9 @@
     "attrs": {
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
-            "demisto/slack",
             "demisto/zeep",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -750,7 +750,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -795,7 +794,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -813,13 +813,13 @@
             "demisto/crypto",
             "demisto/symantec_mss",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/resilient",
             "demisto/ews",
             "demisto/teams",
             "demisto/pyjwt3",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -864,7 +864,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -909,7 +908,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1135,7 +1135,6 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/btfl-soup",
@@ -1166,7 +1165,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1814,7 +1814,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -1859,7 +1858,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2335,7 +2335,6 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/zeep",
             "demisto/docxpy",
@@ -2368,7 +2367,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2568,7 +2568,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -2621,7 +2620,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2830,13 +2830,13 @@
             "demisto/crypto",
             "demisto/symantec_mss",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/resilient",
             "demisto/ews",
             "demisto/teams",
             "demisto/pyjwt3",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3079,7 +3079,6 @@
             "demisto/iputils",
             "demisto/blueliv",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pandas",
             "demisto/xmlparser",
@@ -3117,7 +3116,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3196,7 +3196,6 @@
             "demisto/iputils",
             "demisto/blueliv",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pandas",
             "demisto/xmlparser",
@@ -3235,7 +3234,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3314,7 +3314,6 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/btfl-soup",
@@ -3346,7 +3345,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3401,7 +3401,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -3447,7 +3446,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3744,7 +3744,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -3797,7 +3796,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3879,7 +3879,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/resilient",
             "demisto/zeep",
             "demisto/servicenow",
@@ -3923,7 +3922,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4309,7 +4309,6 @@
             "demisto/iputils",
             "demisto/blueliv",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/btfl-soup",
@@ -4341,7 +4340,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4415,7 +4415,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -4460,7 +4459,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4705,7 +4705,6 @@
             "demisto/symantec_mss",
             "demisto/vmware",
             "demisto/exchangelib",
-            "demisto/slack",
             "demisto/aquatone",
             "demisto/resilient",
             "demisto/zeep",
@@ -4758,7 +4757,8 @@
             "demisto/smime-encrypt",
             "demisto/tesseract",
             "demisto/bigquery",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
