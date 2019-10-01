@@ -215,9 +215,6 @@
     "PySocks": {
         "author": "Anorov anorov.vorona@gmail.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/ldap",
             "demisto/nltk",
             "demisto/python_pancloud",
@@ -231,7 +228,6 @@
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -265,7 +261,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -289,9 +289,6 @@
     "PyYAML": {
         "author": "Kirill Simonov xi@resolvent.net",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/dl",
             "demisto/ldap",
             "demisto/nltk",
@@ -306,7 +303,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -341,7 +337,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -718,9 +718,6 @@
     "certifi": {
         "author": "Kenneth Reitz me@kennethreitz.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/splunksdk",
@@ -741,7 +738,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/pypdf2",
             "demisto/iputils",
@@ -795,7 +791,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -831,9 +831,6 @@
     "chardet": {
         "author": "Daniel Blanchard dan.blanchard@gmail.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/splunksdk",
@@ -855,7 +852,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/pypdf2",
             "demisto/iputils",
@@ -909,7 +905,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1116,9 +1116,6 @@
     "dateparser": {
         "author": "Scrapinghub info@scrapinghub.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/ldap",
             "demisto/nltk",
             "demisto/python_pancloud",
@@ -1131,7 +1128,6 @@
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -1166,7 +1162,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1782,9 +1782,6 @@
     "idna": {
         "author": "Kim Davies kim@cynosure.com.au",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/splunksdk",
@@ -1805,7 +1802,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/pypdf2",
             "demisto/iputils",
@@ -1859,7 +1855,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2307,9 +2307,6 @@
     "olefile": {
         "author": "Philippe Lagadec nospam@decalage.info",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/pytz",
             "demisto/bs4",
             "demisto/unrar",
@@ -2331,7 +2328,6 @@
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -2368,7 +2364,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2511,12 +2511,9 @@
     "pip": {
         "author": "The pip developers pypa-dev@groups.google.com",
         "docker_images": [
-            "demisto/python",
             "demisto/stix",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
             "demisto/tld",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -2557,7 +2554,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/fasttext",
             "demisto/ml-telemetry",
@@ -2621,7 +2617,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3040,11 +3040,8 @@
     "python-dateutil": {
         "author": "Gustavo Niemeyer gustavo@niemeyer.net",
         "docker_images": [
-            "demisto/python",
             "demisto/stix",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -3073,7 +3070,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/ml-telemetry",
             "demisto/iputils",
@@ -3117,7 +3113,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3169,9 +3169,6 @@
     "pytz": {
         "author": "Stuart Bishop stuart@stuartbishop.net",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -3191,7 +3188,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -3235,7 +3231,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3295,9 +3295,6 @@
     "regex": {
         "author": "Matthew Barnett regex@mrabarnett.plus.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/ldap",
             "demisto/nltk",
             "demisto/python_pancloud",
@@ -3310,7 +3307,6 @@
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -3346,7 +3342,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3358,10 +3358,7 @@
     "requests": {
         "author": "Kenneth Reitz me@kennethreitz.org",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -3392,7 +3389,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/pypdf2",
             "demisto/iputils",
@@ -3447,7 +3443,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3687,12 +3687,9 @@
     "setuptools": {
         "author": "Python Packaging Authority distutils-sig@python.org",
         "docker_images": [
-            "demisto/python",
             "demisto/stix",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
             "demisto/tld",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -3733,7 +3730,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/fasttext",
             "demisto/ml-telemetry",
@@ -3797,7 +3793,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3835,12 +3835,9 @@
     "six": {
         "author": "Benjamin Peterson benjamin@python.org",
         "docker_images": [
-            "demisto/python",
             "demisto/stix",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
             "demisto/tld",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -3870,7 +3867,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/ml-telemetry",
             "demisto/pypdf2",
@@ -3923,7 +3919,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4287,9 +4287,6 @@
     "tzlocal": {
         "author": "Lennart Regebro regebro@gmail.com",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/ldap",
             "demisto/nltk",
@@ -4304,7 +4301,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
@@ -4341,7 +4337,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4381,9 +4381,6 @@
     "urllib3": {
         "author": "Andrey Petrov andrey.petrov@shazow.net",
         "docker_images": [
-            "demisto/python",
-            "demisto/python3",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/splunksdk",
@@ -4406,7 +4403,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/pypdf2",
             "demisto/iputils",
@@ -4460,7 +4456,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4648,12 +4648,9 @@
     "wheel": {
         "author": "Daniel Holth dholth@fastmail.fm",
         "docker_images": [
-            "demisto/python",
             "demisto/stix",
-            "demisto/python3",
             "demisto/threatconnect-sdk",
             "demisto/tld",
-            "demisto/python3-deb",
             "demisto/py-ews",
             "demisto/dl",
             "demisto/pytz",
@@ -4694,7 +4691,6 @@
             "demisto/trustar",
             "demisto/openssh",
             "demisto/readpdf",
-            "demisto/python-deb",
             "demisto/nmap",
             "demisto/fasttext",
             "demisto/ml-telemetry",
@@ -4758,7 +4754,11 @@
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/googleapi-python3",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/python",
+            "demisto/python3",
+            "demisto/python3-deb",
+            "demisto/python-deb"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
