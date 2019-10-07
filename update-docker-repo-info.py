@@ -82,6 +82,14 @@ def get_latest_tag(image_name):
     return (last_tag, last_date)
 
 
+def get_os_release(image_name):
+    res = subprocess.run(["docker", "run", "--rm", image_name, "cat", "/etc/os-release"], text=True, capture_output=True)
+    if res.returncode != 0:
+        print("failed getting os release for: {} stderr: {}".format(image_name, res.stderr))
+        return []
+    return res.stdout.splitlines()
+
+
 def inspect_image(image_name, out_file):
     inspect_format = '''- Image ID: `{{ .Id }}`
 - Created: `{{ .Created }}`
@@ -93,6 +101,13 @@ def inspect_image(image_name, out_file):
 '''
     docker_info = subprocess.check_output(["docker", "inspect", "-f", inspect_format, image_name], text=True)
     out_file.write('## Docker Metadata\n- Image Size: `{}`\n{}'.format(get_docker_image_size(image_name), docker_info))
+    os_info = '- OS Release:'
+    release_info = get_os_release(image_name)
+    if not release_info:
+        os_info += ' `Failed getting os release info`'
+    for l in release_info:
+        os_info += '\n  - `{}`'.format(l)
+    out_file.write(os_info + '\n\n')
 
 
 PKG_INFO = '''
