@@ -14,9 +14,45 @@ import random
 import glob
 import re
 import csv
+import time
 
 
 assert sys.version_info >= (3, 7), "Script compatible with python 3.7 and higher only"
+
+VERIFY_SSL = True
+
+
+def http_get(url, **kwargs):
+    """wrapper function around reqeusts.get which set verfiy to what we got in the args
+
+    Arguments:
+        url {string} -- url to get
+
+    Returns:
+        requests.Response -- response from reqeusts.get§
+    """
+    return requests.get(url, verify=VERIFY_SSL, **kwargs)
+
+
+def get_docker_image_size(docker_image):
+    """Get the size of the image form docker hub
+    Arguments:
+        docker_image {string} -- the full name of hthe image
+    """
+    size = "failed querying size"
+    for i in (1, 2, 3):
+        try:
+            name, tag = docker_image.split(':')
+            res = http_get('https://hub.docker.com/v2/repositories/{}/tags/{}/'.format(name, tag))
+            res.raise_for_status()
+            size_bytes = res.json()['images'][0]['size']
+            size = '{0:.2f} MB'.format(float(size_bytes)/1024/1024)
+        except Exception as ex:
+            print("[{}] failed getting image size for image: {}. Err: {}".format(i, docker_image, ex))
+            if i != 3:
+                print("Sleeping 5 seconds and trying again...")
+                time.sleep(5)
+    return size
 
 
 def get_latest_tag(image_name):
@@ -25,7 +61,7 @@ def get_latest_tag(image_name):
     url = "https://registry.hub.docker.com/v2/repositories/{}/tags/?page_size=25".format(image_name)
     while True:
         print("Querying docker hub url: {}".format(url))
-        res = requests.get(url)
+        res = http_get(url)
         res.raise_for_status()
         obj = res.json()
         for result in obj['results']:
@@ -47,9 +83,7 @@ def get_latest_tag(image_name):
 
 
 def inspect_image(image_name, out_file):
-    inspect_format = '''
-## Docker Metadata
-- Image ID: `{{ .Id }}`
+    inspect_format = '''- Image ID: `{{ .Id }}`
 - Created: `{{ .Created }}`
 - Arch: `{{ .Os }}`/`{{ .Architecture }}`
 {{ if .Config.Entrypoint }}- Entrypoint: `{{ json .Config.Entrypoint }}`
@@ -58,7 +92,7 @@ def inspect_image(image_name, out_file):
 - Labels:{{ range $key, $value := .ContainerConfig.Labels }}{{ "\\n" }}  - `{{ $key }}:{{ $value }}`{{ end }}
 '''
     docker_info = subprocess.check_output(["docker", "inspect", "-f", inspect_format, image_name], text=True)
-    out_file.write(docker_info + "\n")
+    out_file.write('## Docker Metadata\n- Image Size: `{}`\n{}'.format(get_docker_image_size(image_name), docker_info))
 
 
 PKG_INFO = '''
@@ -109,7 +143,7 @@ def add_package_used(package_name, base_image, licenses, home_page, pypi_url, su
 def generate_pkg_data(image_name, out_file):
     if not hasattr(generate_pkg_data, "cache"):
         generate_pkg_data.cache = {}
-        res = requests.get(
+        res = http_get(
             'https://raw.githubusercontent.com/demisto/dockerfiles/master/docker/known_licenses.json?{}'.format(random.randint(1, 1000)))
         res.raise_for_status()
         generate_pkg_data.known_licenses = res.json()["packages"]
@@ -140,7 +174,7 @@ def generate_pkg_data(image_name, out_file):
         pip_show = None
         if not pip_info:
             try:
-                res = requests.get("https://pypi.org/pypi/{}/json".format(name))
+                res = http_get("https://pypi.org/pypi/{}/json".format(name))
                 res.raise_for_status()
                 pip_info = res.json()
                 generate_pkg_data.cache[name] = pip_info
@@ -249,7 +283,7 @@ def process_org(org_name, force):
         print("ingore list: {}".format(ignore_list))
     while True:
         print("Querying docker hub url: {}".format(url))
-        res = requests.get(url)
+        res = http_get(url)
         res.raise_for_status()
         obj = res.json()
         for result in obj['results']:
@@ -287,7 +321,7 @@ def generate_csv():
         csv_writer.writerow(['Package Name', 'License', 'Homepage', 'Pypi Link', 'Author', 'Summary', 'Docker images'])
         for name, value in sorted(USED_PACKAGES.items(), key=lambda name_val: name_val[0].lower()):
             lic = ", ".join(map(short_license, value.get('licenses')))
-            csv_writer.writerow([name, lic, value.get('home_page'), value.get('pypi_url'), 
+            csv_writer.writerow([name, lic, value.get('home_page'), value.get('pypi_url'),
                                 value.get('author'), value.get('summary'), ", ".join(value.get('docker_images'))])
 
 
@@ -297,7 +331,10 @@ def main():
     parser.add_argument("docker_image", help="The docker image name to use (ie: demisto/python). Optional." +
                         "If not specified will scan all images in the demisto organization", nargs="?")
     parser.add_argument("--force", help="Force refetch even if license data already exists", action='store_true')
+    parser.add_argument("--no-verify-ssl", help="Don't verify ssl certs for requests (for testing behind corp firewall)", action='store_true')
     args = parser.parse_args()
+    global VERIFY_SSL
+    VERIFY_SSL = not args.no_verify_ssl
     global USED_PACKAGES
     used_packages_path = "{}/{}".format(sys.path[0], USED_PACKAGES_FILE)
     if os.path.isfile(used_packages_path):
