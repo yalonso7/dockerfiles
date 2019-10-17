@@ -1,8 +1,8 @@
-# `demisto/google-vision-api:1.0.0.2717`
+# `demisto/google-kms:1.0.0.2689`
 ## Docker Metadata
-- Image Size: `71.26 MB`
-- Image ID: `sha256:48dbc0eada5b35bbf758d2761c8a91db6827451024f0f5e4559089994cbc5efc`
-- Created: `2019-10-16T10:12:19.149671406Z`
+- Image Size: `73.45 MB`
+- Image ID: `sha256:12da1347f9d79d299554a17e851a7a807458dc3b008aba5c2b33575522addda2`
+- Created: `2019-10-16T06:47:15.220590913Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -15,8 +15,8 @@
   - `PYTHON_GET_PIP_SHA256=57e3643ff19f018f8a00dfaa6b7e4620e3c1a7a2171fd218425366ec006b3bfe`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:90b319309dcdb2105ca52d8c2177ae2f658322a7`
-  - `org.opencontainers.image.version:1.0.0.2717`
+  - `org.opencontainers.image.revision:73d7534d0e573a0297b7573bad0338c22abd5543`
+  - `org.opencontainers.image.version:1.0.0.2689`
 
 - OS Release:
   - `PRETTY_NAME="Debian GNU/Linux 10 (buster)"`
@@ -31,6 +31,15 @@
 
 ## `Python Packages`
 
+
+### `asn1crypto`
+
+* Summary: Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP
+* Version: 1.0.1
+* Pypi: https://pypi.org/project/asn1crypto/
+* Homepage: https://github.com/wbond/asn1crypto
+* Author: wbond will@wbond.net
+* License :: OSI Approved :: MIT License
 
 ### `cachetools`
 
@@ -50,6 +59,15 @@
 * Author: Kenneth Reitz me@kennethreitz.com
 * License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
 
+### `cffi`
+
+* Summary: Foreign Function Interface for Python calling C code.
+* Version: 1.12.3
+* Pypi: https://pypi.org/project/cffi/
+* Homepage: http://cffi.readthedocs.org
+* Author: Armin Rigo, Maciej Fijalkowski python-cffi@googlegroups.com
+* License: MIT
+
 ### `chardet`
 
 * Summary: Universal encoding detector for Python 2 and 3
@@ -58,6 +76,16 @@
 * Homepage: https://github.com/chardet/chardet
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+
+### `cryptography`
+
+* Summary: cryptography is a package which provides cryptographic recipes and primitives to Python developers.
+* Version: 2.7
+* Pypi: https://pypi.org/project/cryptography/
+* Homepage: https://github.com/pyca/cryptography
+* Author: The cryptography developers cryptography-dev@python.org
+* License :: OSI Approved :: Apache Software License
+* License :: OSI Approved :: BSD License
 
 ### `dateparser`
 
@@ -77,15 +105,6 @@
 * Author: Google LLC googleapis-packages@google.com
 * License :: OSI Approved :: Apache Software License
 
-### `google-api-python-client`
-
-* Summary: Google API Client Library for Python
-* Version: 1.7.11
-* Pypi: https://pypi.org/project/google-api-python-client/
-* Homepage: http://github.com/google/google-api-python-client/
-* Author: Google Inc.
-* License :: OSI Approved :: Apache Software License
-
 ### `google-auth`
 
 * Summary: Google Authentication Library
@@ -95,29 +114,11 @@
 * Author: Google Cloud Platform jonwayne+google-auth@google.com
 * License :: OSI Approved :: Apache Software License
 
-### `google-auth-httplib2`
+### `google-cloud-kms`
 
-* Summary: Google Authentication Library: httplib2 transport
-* Version: 0.0.3
-* Pypi: https://pypi.org/project/google-auth-httplib2/
-* Homepage: https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2
-* Author: Google Cloud Platform jonwayne+google-auth@google.com
-* License :: OSI Approved :: Apache Software License
-
-### `google-auth-oauthlib`
-
-* Summary: Google Authentication Library
-* Version: 0.4.1
-* Pypi: https://pypi.org/project/google-auth-oauthlib/
-* Homepage: https://github.com/GoogleCloudPlatform/google-auth-library-python-oauthlib
-* Author: Google Cloud Platform jonwayne+google-auth@google.com
-* License :: OSI Approved :: Apache Software License
-
-### `google-cloud-vision`
-
-* Summary: Cloud Vision API API client library
-* Version: 0.39.0
-* Pypi: https://pypi.org/project/google-cloud-vision/
+* Summary: Cloud Key Management Service (KMS) API API client library
+* Version: 1.2.1
+* Pypi: https://pypi.org/project/google-cloud-kms/
 * Homepage: https://github.com/GoogleCloudPlatform/google-cloud-python
 * Author: Google LLC googleapis-packages@google.com
 * License :: OSI Approved :: Apache Software License
@@ -131,6 +132,15 @@
 * Author: Google LLC googleapis-packages@google.com
 * License :: OSI Approved :: Apache Software License
 
+### `grpc-google-iam-v1`
+
+* Summary: GRPC library for the google-iam-v1 service
+* Version: 0.12.3
+* Pypi: https://pypi.org/project/grpc-google-iam-v1/
+* Homepage: https://github.com/googleapis/googleapis
+* Author: Google Inc googleapis-packages@google.com
+* License :: OSI Approved :: Apache Software License
+
 ### `grpcio`
 
 * Summary: HTTP/2-based RPC framework
@@ -140,15 +150,6 @@
 * Author: The gRPC Authors grpc-io@googlegroups.com
 * License :: OSI Approved :: Apache Software License
 
-### `httplib2`
-
-* Summary: A comprehensive HTTP client library.
-* Version: 0.14.0
-* Pypi: https://pypi.org/project/httplib2/
-* Homepage: https://github.com/httplib2/httplib2
-* Author: Joe Gregorio joe@bitworking.org
-* License :: OSI Approved :: MIT License
-
 ### `idna`
 
 * Summary: Internationalized Domain Names in Applications (IDNA)
@@ -156,24 +157,6 @@
 * Pypi: https://pypi.org/project/idna/
 * Homepage: https://github.com/kjd/idna
 * Author: Kim Davies kim@cynosure.com.au
-* License :: OSI Approved :: BSD License
-
-### `oauth2client`
-
-* Summary: OAuth 2.0 client library
-* Version: 4.1.3
-* Pypi: https://pypi.org/project/oauth2client/
-* Homepage: http://github.com/google/oauth2client/
-* Author: Google Inc. jonwayne+oauth2client@google.com
-* License :: OSI Approved :: Apache Software License
-
-### `oauthlib`
-
-* Summary: A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
-* Version: 3.1.0
-* Pypi: https://pypi.org/project/oauthlib/
-* Homepage: https://github.com/oauthlib/oauthlib
-* Author: The OAuthlib Community idan@gazit.me
 * License :: OSI Approved :: BSD License
 
 ### `olefile`
@@ -215,10 +198,19 @@
 ### `pyasn1-modules`
 
 * Summary: A collection of ASN.1-based protocols modules.
-* Version: 0.2.6
+* Version: 0.2.7
 * Pypi: https://pypi.org/project/pyasn1-modules/
 * Homepage: https://github.com/etingof/pyasn1-modules
 * Author: Ilya Etingof <etingof@gmail.com> etingof@gmail.com
+* License :: OSI Approved :: BSD License
+
+### `pycparser`
+
+* Summary: C parser in Python
+* Version: 2.19
+* Pypi: https://pypi.org/project/pycparser/
+* Homepage: https://github.com/eliben/pycparser
+* Author: Eli Bendersky eliben@gmail.com
 * License :: OSI Approved :: BSD License
 
 ### `PySocks`
@@ -276,15 +268,6 @@
 * Author: Kenneth Reitz me@kennethreitz.org
 * License :: OSI Approved :: Apache Software License
 
-### `requests-oauthlib`
-
-* Summary: OAuthlib authentication support for Requests.
-* Version: 1.2.0
-* Pypi: https://pypi.org/project/requests-oauthlib/
-* Homepage: https://github.com/requests/requests-oauthlib
-* Author: Kenneth Reitz me@kennethreitz.com
-* License :: OSI Approved :: BSD License
-
 ### `rsa`
 
 * Summary: Pure-Python RSA implementation
@@ -320,16 +303,6 @@
 * Homepage: https://github.com/regebro/tzlocal
 * Author: Lennart Regebro regebro@gmail.com
 * License :: OSI Approved :: MIT License
-
-### `uritemplate`
-
-* Summary: URI templates
-* Version: 3.0.0
-* Pypi: https://pypi.org/project/uritemplate/
-* Homepage: https://uritemplate.readthedocs.org
-* Author: Ian Cordasco graffatcolmingov@gmail.com
-* License :: OSI Approved :: Apache Software License
-* License :: OSI Approved :: BSD License
 
 ### `urllib3`
 
