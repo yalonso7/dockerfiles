@@ -184,7 +184,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -220,7 +219,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -260,7 +260,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -296,7 +295,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -679,7 +679,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -716,7 +715,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -795,7 +795,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -832,7 +831,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1043,7 +1043,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -1079,7 +1078,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1702,7 +1702,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -1739,7 +1738,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2201,7 +2201,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -2237,7 +2236,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2466,7 +2466,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -2503,7 +2502,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2634,14 +2634,14 @@
         "docker_images": [
             "demisto/pysmb",
             "demisto/googleapi-python3",
-            "demisto/btfl-soup",
             "demisto/ldap",
             "demisto/bigquery",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2966,7 +2966,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3003,7 +3002,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3085,7 +3085,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3122,7 +3121,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3198,7 +3198,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3234,7 +3233,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3299,7 +3299,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3336,7 +3335,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3453,13 +3453,13 @@
         "author": "Sybren A. Stuvel sybren@stuvel.eu",
         "docker_images": [
             "demisto/googleapi-python3",
-            "demisto/btfl-soup",
             "demisto/bigquery",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
             "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -3651,7 +3651,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3688,7 +3687,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3778,7 +3778,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -3815,7 +3814,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4126,7 +4126,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -4162,7 +4161,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4245,7 +4245,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -4282,7 +4281,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4544,7 +4544,6 @@
             "demisto/blueliv",
             "demisto/zeep",
             "demisto/pykafka",
-            "demisto/btfl-soup",
             "demisto/archer",
             "demisto/uptycs",
             "demisto/pymongo",
@@ -4581,7 +4580,8 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/devo",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
