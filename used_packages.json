@@ -203,13 +203,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -220,7 +218,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -279,13 +279,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -296,7 +294,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -459,8 +459,8 @@
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
             "demisto/pymisp",
-            "demisto/slack",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -697,13 +697,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -714,7 +712,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -738,8 +738,8 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud",
             "demisto/crypto",
-            "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/slack"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -813,13 +813,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -830,7 +828,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1060,13 +1060,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -1077,7 +1075,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1720,13 +1720,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -1737,7 +1735,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2131,8 +2131,8 @@
             "demisto/panads3",
             "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/chromium",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/chromium"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2218,13 +2218,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -2235,7 +2233,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2484,13 +2484,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -2501,7 +2499,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2718,8 +2718,8 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud",
             "demisto/crypto",
-            "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -2984,13 +2984,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3001,7 +2999,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3103,13 +3103,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3120,7 +3118,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3215,13 +3215,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3232,7 +3230,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3317,13 +3317,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3334,7 +3332,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3669,13 +3669,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3686,7 +3684,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3796,13 +3796,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -3813,7 +3811,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4143,13 +4143,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -4160,7 +4158,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4263,13 +4263,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -4280,7 +4278,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4562,13 +4562,11 @@
             "demisto/nmap",
             "demisto/iputils",
             "demisto/blueliv",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/pykafka",
             "demisto/faker3",
             "demisto/btfl-soup",
             "demisto/archer",
-            "demisto/chromium",
             "demisto/docxpy",
             "demisto/uptycs",
             "demisto/google-vision-api",
@@ -4579,7 +4577,9 @@
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/slack",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
