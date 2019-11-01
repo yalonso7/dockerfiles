@@ -191,7 +191,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -220,7 +219,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -267,7 +267,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -296,7 +295,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -684,7 +684,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -713,7 +712,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -736,9 +736,9 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/python_pancloud",
-            "demisto/crypto",
             "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/crypto"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -800,7 +800,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -829,7 +828,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -940,8 +940,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/python_pancloud",
-            "demisto/crypto",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1047,7 +1047,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -1076,7 +1075,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1707,7 +1707,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -1736,7 +1735,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2205,7 +2205,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -2234,7 +2233,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2471,7 +2471,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -2500,7 +2499,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2716,9 +2716,9 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/python_pancloud",
-            "demisto/crypto",
             "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -2971,7 +2971,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3000,7 +2999,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3090,7 +3090,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3119,7 +3118,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3202,7 +3202,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3231,7 +3230,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3304,7 +3304,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3333,7 +3332,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3656,7 +3656,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3685,7 +3684,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3783,7 +3783,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -3812,7 +3811,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4130,7 +4130,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -4159,7 +4158,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4250,7 +4250,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -4279,7 +4278,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4549,7 +4549,6 @@
             "demisto/vertica",
             "demisto/boto3py3",
             "demisto/bigquery",
-            "demisto/crypto",
             "demisto/cloaken",
             "demisto/openssh",
             "demisto/readpdf",
@@ -4578,7 +4577,8 @@
             "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/crypto"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
