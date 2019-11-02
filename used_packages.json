@@ -3,9 +3,9 @@
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
             "demisto/pyotrs",
-            "demisto/teams",
             "demisto/sane-doc-reports",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -129,10 +129,10 @@
             "demisto/cylance_protect_v2",
             "demisto/pyjwt",
             "demisto/snowflake",
-            "demisto/teams",
+            "demisto/uptycs",
             "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/uptycs"
+            "demisto/teams",
+            "demisto/oauthlib"
         ],
         "home_page": "http://github.com/jpadilla/pyjwt",
         "licenses": [
@@ -170,12 +170,7 @@
         "author": "Anorov anorov.vorona@gmail.com",
         "docker_images": [
             "demisto/ippysocks",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -216,11 +211,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -246,12 +246,7 @@
         "docker_images": [
             "demisto/trustar",
             "demisto/powershell-core",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -292,11 +287,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -430,9 +430,6 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
             "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/wbond/asn1crypto",
@@ -622,8 +619,8 @@
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -662,12 +659,7 @@
             "demisto/pyquery",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -709,11 +701,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -731,14 +728,14 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/python_pancloud",
             "demisto/slack",
             "demisto/google-kms",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -778,12 +775,7 @@
             "demisto/pyquery",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -825,11 +817,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -935,13 +932,13 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/python_pancloud",
             "demisto/google-kms",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1026,12 +1023,7 @@
         "author": "Scrapinghub info@scrapinghub.com",
         "docker_images": [
             "demisto/powershell-core",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -1072,11 +1064,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1407,8 +1404,8 @@
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -1440,8 +1437,8 @@
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -1576,8 +1573,8 @@
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -1615,8 +1612,8 @@
         "author": "The gRPC Authors grpc-io@googlegroups.com",
         "docker_images": [
             "demisto/google-cloud-storage",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://grpc.io",
         "licenses": [
@@ -1685,12 +1682,7 @@
             "demisto/pyquery",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -1732,11 +1724,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2159,8 +2156,8 @@
     "oauthlib": {
         "author": "The OAuthlib Community idan@gazit.me",
         "docker_images": [
-            "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
         ],
         "home_page": "https://github.com/oauthlib/oauthlib",
         "licenses": [
@@ -2184,12 +2181,7 @@
             "demisto/aquatone",
             "demisto/powershell-core",
             "demisto/pdfx2",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -2230,11 +2222,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2449,12 +2446,7 @@
             "demisto/phishai",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -2496,11 +2488,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2564,8 +2561,8 @@
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -2637,8 +2634,8 @@
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2655,8 +2652,8 @@
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -2711,14 +2708,14 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/python_pancloud",
             "demisto/slack",
             "demisto/google-kms",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -2949,12 +2946,7 @@
             "demisto/ews",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -2996,11 +2988,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3068,12 +3065,7 @@
             "demisto/ews",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -3115,11 +3107,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3181,12 +3178,7 @@
         "docker_images": [
             "demisto/powershell-core",
             "demisto/pcap",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -3227,11 +3219,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3282,12 +3279,7 @@
             "demisto/pyquery",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -3329,11 +3321,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3411,8 +3408,8 @@
     "requests-oauthlib": {
         "author": "Kenneth Reitz me@kennethreitz.com",
         "docker_images": [
-            "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
         ],
         "home_page": "https://github.com/requests/requests-oauthlib",
         "licenses": [
@@ -3455,8 +3452,8 @@
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -3634,12 +3631,7 @@
             "demisto/phishai",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -3681,11 +3673,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3761,12 +3758,7 @@
             "demisto/pcap",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -3808,11 +3800,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4109,12 +4106,7 @@
             "demisto/exchangelib",
             "demisto/powershell-core",
             "demisto/ews",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/chromium",
             "demisto/python",
             "demisto/python3",
@@ -4155,11 +4147,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4228,12 +4225,7 @@
             "demisto/pyquery",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -4275,11 +4267,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4527,12 +4524,7 @@
             "demisto/phishai",
             "demisto/threatconnect",
             "demisto/panads3",
-            "demisto/tesseract",
             "demisto/snowflake",
-            "demisto/teams",
-            "demisto/pyjwt3",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
             "demisto/dl",
             "demisto/chromium",
             "demisto/python",
@@ -4574,11 +4566,16 @@
             "demisto/blueliv",
             "demisto/pykafka",
             "demisto/docxpy",
-            "demisto/google-vision-api",
             "demisto/netutils",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/crypto"
+            "demisto/crypto",
+            "demisto/tesseract",
+            "demisto/google-vision-api",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/smime-encrypt"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
