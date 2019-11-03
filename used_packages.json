@@ -191,7 +191,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -220,7 +219,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -267,7 +267,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -296,7 +295,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -455,8 +455,8 @@
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
             "demisto/pymisp",
-            "demisto/slack",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -681,7 +681,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -710,7 +709,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -729,13 +729,13 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/google-kms",
             "demisto/crypto",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -797,7 +797,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -826,7 +825,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1044,7 +1044,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -1073,7 +1072,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1704,7 +1704,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -1733,7 +1732,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2202,7 +2202,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -2231,7 +2230,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2468,7 +2468,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -2497,7 +2496,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2709,13 +2709,13 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/google-kms",
             "demisto/crypto",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -2968,7 +2968,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -2997,7 +2996,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3087,7 +3087,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -3116,7 +3115,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3199,7 +3199,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -3228,7 +3227,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3301,7 +3301,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -3330,7 +3329,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3653,7 +3653,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -3682,7 +3681,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3780,7 +3780,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -3809,7 +3808,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4127,7 +4127,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -4156,7 +4155,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4247,7 +4247,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -4276,7 +4275,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4546,7 +4546,6 @@
             "demisto/readpdf",
             "demisto/nmap",
             "demisto/iputils",
-            "demisto/slack",
             "demisto/zeep",
             "demisto/faker3",
             "demisto/btfl-soup",
@@ -4575,7 +4574,8 @@
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
