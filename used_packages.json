@@ -220,7 +220,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -296,7 +297,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -710,7 +712,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -826,7 +829,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1073,7 +1077,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1384,6 +1389,30 @@
         ],
         "pypi_url": "https://pypi.org/project/futures/",
         "summary": "Backport of the concurrent.futures package from Python 3"
+    },
+    "geographiclib": {
+        "author": "Charles Karney charles@karney.com",
+        "docker_images": [
+            "demisto/geopy"
+        ],
+        "home_page": "https://geographiclib.sourceforge.io/1.50/python",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/geographiclib/",
+        "summary": "The geodesic routines from GeographicLib"
+    },
+    "geopy": {
+        "author": "GeoPy Contributors uijllji@gmail.com",
+        "docker_images": [
+            "demisto/geopy"
+        ],
+        "home_page": "https://github.com/geopy/geopy",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/geopy/",
+        "summary": "Python Geocoding Toolbox"
     },
     "gevent": {
         "author": "Denis Bilenko denis.bilenko@gmail.com",
@@ -1733,7 +1762,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2231,7 +2261,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2497,7 +2528,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2997,7 +3029,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3116,7 +3149,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3228,7 +3262,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3330,7 +3365,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3682,7 +3718,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3809,7 +3846,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4156,7 +4194,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4276,7 +4315,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4575,7 +4615,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/slack",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/geopy"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
