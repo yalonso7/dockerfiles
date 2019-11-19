@@ -172,8 +172,6 @@
             "demisto/ippysocks",
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -221,7 +219,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -248,8 +248,6 @@
             "demisto/trustar",
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -298,7 +296,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -663,8 +663,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -713,7 +711,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -780,8 +780,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -830,7 +828,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1028,8 +1028,6 @@
         "docker_images": [
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -1078,7 +1076,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1713,8 +1713,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -1763,7 +1761,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -1996,11 +1996,11 @@
             "demisto/xmlparser",
             "demisto/ews",
             "demisto/pyquery",
-            "demisto/office-utils",
             "demisto/sane-doc-reports",
             "demisto/pcap-http-extractor",
             "demisto/zeep",
-            "demisto/docxpy"
+            "demisto/docxpy",
+            "demisto/office-utils"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2212,8 +2212,6 @@
             "demisto/pdfx2",
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -2262,7 +2260,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2479,8 +2479,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -2529,7 +2527,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2980,8 +2980,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3030,7 +3028,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3044,9 +3044,9 @@
         "author": "Steve Canny python-docx@googlegroups.com",
         "docker_images": [
             "demisto/word-parser",
-            "demisto/office-utils",
             "demisto/sane-doc-reports",
-            "demisto/docxpy"
+            "demisto/docxpy",
+            "demisto/office-utils"
         ],
         "home_page": "https://github.com/python-openxml/python-docx",
         "licenses": [
@@ -3100,8 +3100,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3150,7 +3148,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3213,8 +3213,6 @@
             "demisto/pcap",
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3263,7 +3261,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3316,8 +3316,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3366,7 +3364,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3669,8 +3669,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3719,7 +3717,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3797,8 +3797,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -3847,7 +3845,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4145,8 +4145,6 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -4195,7 +4193,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4266,8 +4266,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -4316,7 +4314,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4566,8 +4566,6 @@
             "demisto/snowflake",
             "demisto/dl",
             "demisto/chromium",
-            "demisto/office-utils",
-            "demisto/netutils",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
@@ -4616,7 +4614,9 @@
             "demisto/google-vision-api",
             "demisto/docxpy",
             "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/office-utils",
+            "demisto/netutils"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
