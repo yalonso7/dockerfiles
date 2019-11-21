@@ -222,7 +222,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -300,7 +301,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -504,6 +506,18 @@
         ],
         "pypi_url": "https://pypi.org/project/azure-storage-common/",
         "summary": "Microsoft Azure Storage Common Client Library for Python"
+    },
+    "backoff": {
+        "author": "Bob Green rgreen@goscoutgo.com",
+        "docker_images": [
+            "demisto/marketo"
+        ],
+        "home_page": "https://github.com/litl/backoff",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/backoff/",
+        "summary": "Function decoration for backoff and retry"
     },
     "backports.functools-lru-cache": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
@@ -717,7 +731,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -836,7 +851,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1086,7 +1102,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1776,7 +1793,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2021,6 +2039,18 @@
         ],
         "pypi_url": "https://pypi.org/project/lxml/",
         "summary": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
+    },
+    "marketorestpython": {
+        "author": "Jep Castelein jep@castelein.net",
+        "docker_images": [
+            "demisto/marketo"
+        ],
+        "home_page": "https://github.com/jepcastelein/marketo-rest-python",
+        "licenses": [
+            "License: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/marketorestpython/",
+        "summary": "Python Client for the Marketo REST API"
     },
     "matplotlib": {
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
@@ -2277,7 +2307,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2545,7 +2576,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3050,7 +3082,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3171,7 +3204,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3285,7 +3319,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3389,7 +3424,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3744,7 +3780,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3873,7 +3910,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4222,7 +4260,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4345,7 +4384,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4646,7 +4686,8 @@
             "demisto/google-kms",
             "demisto/office-utils",
             "demisto/netutils",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/marketo"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
