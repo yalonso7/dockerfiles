@@ -3,9 +3,9 @@
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
             "demisto/pyotrs",
-            "demisto/teams",
             "demisto/devo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -129,10 +129,10 @@
             "demisto/cylance_protect_v2",
             "demisto/pyjwt",
             "demisto/snowflake",
+            "demisto/uptycs",
             "demisto/pyjwt3",
             "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/uptycs"
+            "demisto/oauthlib"
         ],
         "home_page": "http://github.com/jpadilla/pyjwt",
         "licenses": [
@@ -172,12 +172,6 @@
             "demisto/ippysocks",
             "demisto/snowflake",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -223,7 +217,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -251,12 +251,6 @@
             "demisto/snowflake",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -302,7 +296,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -632,14 +632,14 @@
         "author": "Thomas Kemmer tkemmer@computer.org",
         "docker_images": [
             "demisto/resilient",
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -681,12 +681,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -732,7 +726,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -750,15 +750,15 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
+            "demisto/python_pancloud",
+            "demisto/crypto",
+            "demisto/slack",
+            "demisto/google-kms",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
-            "demisto/google-api-py3",
-            "demisto/python_pancloud",
-            "demisto/crypto",
-            "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-api-py3"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -801,12 +801,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -852,7 +846,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -958,14 +958,14 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
+            "demisto/python_pancloud",
+            "demisto/crypto",
+            "demisto/google-kms",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
-            "demisto/google-api-py3",
-            "demisto/python_pancloud",
-            "demisto/crypto",
-            "demisto/google-kms"
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1052,12 +1052,6 @@
             "demisto/snowflake",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -1103,7 +1097,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1430,7 +1430,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1528,11 +1534,11 @@
     "google-api-python-client": {
         "author": "Google Inc.",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -1544,14 +1550,14 @@
     "google-auth": {
         "author": "Google Cloud Platform jonwayne+google-auth@google.com",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -1563,11 +1569,11 @@
     "google-auth-httplib2": {
         "author": "Google Cloud Platform jonwayne+google-auth@google.com",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -1753,12 +1759,12 @@
     "httplib2": {
         "author": "Joe Gregorio joe@bitworking.org",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
             "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -1800,12 +1806,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -1851,7 +1851,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2294,12 +2300,12 @@
     "oauth2client": {
         "author": "Google Inc. jonwayne+oauth2client@google.com",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
             "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -2311,8 +2317,8 @@
     "oauthlib": {
         "author": "The OAuthlib Community idan@gazit.me",
         "docker_images": [
-            "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
         ],
         "home_page": "https://github.com/oauthlib/oauthlib",
         "licenses": [
@@ -2338,12 +2344,6 @@
             "demisto/snowflake",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -2389,7 +2389,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2607,12 +2613,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -2658,7 +2658,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2788,7 +2794,6 @@
         "author": "Ilya Etingof etingof@gmail.com",
         "docker_images": [
             "demisto/pysmb",
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/ldap",
             "demisto/gvault",
@@ -2797,7 +2802,8 @@
             "demisto/btfl-soup",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2809,14 +2815,14 @@
     "pyasn1-modules": {
         "author": "Ilya Etingof etingof@gmail.com",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -2871,15 +2877,15 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
+            "demisto/python_pancloud",
+            "demisto/crypto",
+            "demisto/slack",
+            "demisto/google-kms",
             "demisto/pyjwt3",
             "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
-            "demisto/google-api-py3",
-            "demisto/python_pancloud",
-            "demisto/crypto",
-            "demisto/slack",
-            "demisto/google-kms"
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3113,12 +3119,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3164,7 +3164,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3235,12 +3241,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3286,7 +3286,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3350,12 +3356,6 @@
             "demisto/snowflake",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3401,7 +3401,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3455,12 +3461,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3506,7 +3506,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3584,8 +3590,8 @@
     "requests-oauthlib": {
         "author": "Kenneth Reitz me@kennethreitz.com",
         "docker_images": [
-            "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/oauthlib"
         ],
         "home_page": "https://github.com/requests/requests-oauthlib",
         "licenses": [
@@ -3622,7 +3628,6 @@
     "rsa": {
         "author": "Sybren A. Stuvel sybren@stuvel.eu",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bigquery",
@@ -3630,7 +3635,8 @@
             "demisto/btfl-soup",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -3811,12 +3817,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3862,7 +3862,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -3941,12 +3947,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3992,7 +3992,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4291,12 +4297,6 @@
             "demisto/snowflake",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4342,7 +4342,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4366,11 +4372,11 @@
     "uritemplate": {
         "author": "Ian Cordasco graffatcolmingov@gmail.com",
         "docker_images": [
-            "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -4415,12 +4421,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4466,7 +4466,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4717,12 +4723,6 @@
             "demisto/dl",
             "demisto/powershell-core",
             "demisto/office-utils",
-            "demisto/netutils",
-            "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib",
-            "demisto/smime-encrypt",
-            "demisto/google-api-py3",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4768,7 +4768,13 @@
             "demisto/devo",
             "demisto/circleci",
             "demisto/marketo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyjwt3",
+            "demisto/teams",
+            "demisto/oauthlib",
+            "demisto/netutils",
+            "demisto/smime-encrypt",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
