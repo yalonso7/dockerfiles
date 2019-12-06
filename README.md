@@ -119,10 +119,11 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/vertica](demisto/vertica/last.md)
 * [demisto/vmray](demisto/vmray/last.md)
 * [demisto/vmware](demisto/vmware/last.md)
+* [demisto/winrm](demisto/winrm/last.md)
 * [demisto/word-parser](demisto/word-parser/last.md)
 * [demisto/xlrd](demisto/xlrd/last.md)
 * [demisto/xmlparser](demisto/xmlparser/last.md)
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2019-12-05 01:12:38.084239
+Last updated: 2019-12-06 01:04:49.691411

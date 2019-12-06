@@ -1,8 +1,8 @@
-# `demisto/teams:1.0.0.4541`
+# `demisto/winrm:1.0.0.4555`
 ## Docker Metadata
-- Image Size: `49.69 MB`
-- Image ID: `sha256:60d43cfe0f01053696a0ce771992d17707c79b896aabbf5a31b4126d332ca30b`
-- Created: `2019-12-05T13:43:07.421112034Z`
+- Image Size: `41.88 MB`
+- Image ID: `sha256:adfa07c97cfea136541776a9768dd2a951a42d76b55be9c7d23d9e856a85dec9`
+- Created: `2019-12-05T19:31:49.019892394Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -15,8 +15,8 @@
   - `PYTHON_GET_PIP_SHA256=b86f36cc4345ae87bfd4f10ef6b2dbfa7a872fbff70608a1e43944d283fd0eee`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:a96b2b8c7c73b7e6b2052fc7a57e468f81fd4ee5`
-  - `org.opencontainers.image.version:1.0.0.4541`
+  - `org.opencontainers.image.revision:e6fbe934595c6eaddc34a6d0ffb267a1b604d972`
+  - `org.opencontainers.image.version:1.0.0.4555`
 
 - OS Release:
   - `NAME="Alpine Linux"`
@@ -56,15 +56,6 @@
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
 
-### `Click`
-
-* Summary: Composable command line interface toolkit
-* Version: 7.0
-* Pypi: https://pypi.org/project/click/
-* Homepage: https://palletsprojects.com/p/click/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
-
 ### `cryptography`
 
 * Summary: cryptography is a package which provides cryptographic recipes and primitives to Python developers.
@@ -84,15 +75,6 @@
 * Author: Scrapinghub info@scrapinghub.com
 * License :: OSI Approved :: BSD License
 
-### `Flask`
-
-* Summary: A simple framework for building complex web applications.
-* Version: 1.1.1
-* Pypi: https://pypi.org/project/Flask/
-* Homepage: https://palletsprojects.com/p/flask/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
-
 ### `funcy`
 
 * Summary: A fancy and practical functional tools
@@ -101,24 +83,6 @@
 * Homepage: http://github.com/Suor/funcy
 * Author: Alexander Schepanovski suor.web@gmail.com
 * License :: OSI Approved :: BSD License
-
-### `gevent`
-
-* Summary: Coroutine-based network library
-* Version: 1.4.0
-* Pypi: https://pypi.org/project/gevent/
-* Homepage: http://www.gevent.org/
-* Author: Denis Bilenko denis.bilenko@gmail.com
-* License :: OSI Approved :: MIT License
-
-### `greenlet`
-
-* Summary: Lightweight in-process concurrent programming
-* Version: 0.4.15
-* Pypi: https://pypi.org/project/greenlet/
-* Homepage: https://github.com/python-greenlet/greenlet
-* Author: Alexey Borzenkov snaury@gmail.com
-* License :: OSI Approved :: MIT License
 
 ### `idna`
 
@@ -129,41 +93,14 @@
 * Author: Kim Davies kim@cynosure.com.au
 * License :: OSI Approved :: BSD License
 
-### `itsdangerous`
+### `ntlm-auth`
 
-* Summary: Various helpers to pass data to untrusted environments and back.
-* Version: 1.1.0
-* Pypi: https://pypi.org/project/itsdangerous/
-* Homepage: https://palletsprojects.com/p/itsdangerous/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
-
-### `Jinja2`
-
-* Summary: A very fast and expressive template engine.
-* Version: 2.10.3
-* Pypi: https://pypi.org/project/Jinja2/
-* Homepage: https://palletsprojects.com/p/jinja/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
-
-### `jwt`
-
-* Summary: JSON Web Token library for Python 3.
-* Version: 0.6.1
-* Pypi: https://pypi.org/project/jwt/
-* Homepage: https://github.com/GehirnInc/python-jwt
-* Author: Kohei YOSHIDA kohei.yoshida@gehirn.co.jp
-* License :: OSI Approved :: Apache Software License
-
-### `MarkupSafe`
-
-* Summary: Safely add untrusted strings to HTML/XML markup.
-* Version: 1.1.1
-* Pypi: https://pypi.org/project/MarkupSafe/
-* Homepage: https://palletsprojects.com/p/markupsafe/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
+* Summary: Creates NTLM authentication structures
+* Version: 1.4.0
+* Pypi: https://pypi.org/project/ntlm-auth/
+* Homepage: https://github.com/jborean93/ntlm-auth
+* Author: Jordan Borean jborean93@gmail.com
+* License :: OSI Approved :: MIT License
 
 ### `olefile`
 
@@ -191,15 +128,6 @@
 * Homepage: https://github.com/eliben/pycparser
 * Author: Eli Bendersky eliben@gmail.com
 * License :: OSI Approved :: BSD License
-
-### `PyJWT`
-
-* Summary: JSON Web Token implementation in Python
-* Version: 1.7.1
-* Pypi: https://pypi.org/project/PyJWT/
-* Homepage: http://github.com/jpadilla/pyjwt
-* Author: Jose Padilla hello@jpadilla.com
-* License :: OSI Approved :: MIT License
 
 ### `PySocks`
 
@@ -229,6 +157,15 @@
 * Author: Stuart Bishop stuart@stuartbishop.net
 * License :: OSI Approved :: MIT License
 
+### `pywinrm`
+
+* Summary: Python library for Windows Remote Management
+* Version: 0.4.1
+* Pypi: https://pypi.org/project/pywinrm/
+* Homepage: http://github.com/diyan/pywinrm/
+* Author: Alexey Diyan alexey.diyan@gmail.com
+* License :: OSI Approved :: MIT License
+
 ### `PyYAML`
 
 * Summary: YAML parser and emitter for Python
@@ -255,6 +192,15 @@
 * Homepage: http://python-requests.org
 * Author: Kenneth Reitz me@kennethreitz.org
 * License :: OSI Approved :: Apache Software License
+
+### `requests-ntlm`
+
+* Summary: This package allows for HTTP NTLM authentication using the requests library.
+* Version: 1.1.0
+* Pypi: https://pypi.org/project/requests_ntlm/
+* Homepage: https://github.com/requests/requests-ntlm
+* Author: Ben Toews mastahyeti@gmail.com
+* License :: OSI Approved :: ISC License (ISCL)
 
 ### `setuptools`
 
@@ -292,15 +238,6 @@
 * Author: Andrey Petrov andrey.petrov@shazow.net
 * License :: OSI Approved :: MIT License
 
-### `Werkzeug`
-
-* Summary: The comprehensive WSGI web application library.
-* Version: 0.16.0
-* Pypi: https://pypi.org/project/Werkzeug/
-* Homepage: https://palletsprojects.com/p/werkzeug/
-* Author: Armin Ronacher armin.ronacher@active-4.com
-* License :: OSI Approved :: BSD License
-
 ### `wheel`
 
 * Summary: A built-package format for Python.
@@ -308,6 +245,15 @@
 * Pypi: https://pypi.org/project/wheel/
 * Homepage: https://github.com/pypa/wheel
 * Author: Daniel Holth dholth@fastmail.fm
+* License :: OSI Approved :: MIT License
+
+### `xmltodict`
+
+* Summary: Makes working with XML feel like you are working with JSON
+* Version: 0.12.0
+* Pypi: https://pypi.org/project/xmltodict/
+* Homepage: https://github.com/martinblech/xmltodict
+* Author: Martin Blech martinblech@gmail.com
 * License :: OSI Approved :: MIT License
 
 ## `OS Packages`
