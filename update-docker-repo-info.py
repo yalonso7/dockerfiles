@@ -110,6 +110,14 @@ def inspect_image(image_name, out_file):
     out_file.write(os_info + '\n\n')
 
 
+def docker_trust(image_name, out_file):
+    try:
+        trust_info = subprocess.check_output(["docker", "trust", "inspect", "--pretty", image_name], text=True)
+    except Exception:
+        trust_info = "No trust data is available"
+    out_file.write('## Docker Trust\n```\n{}\n```\n\n'.format(trust_info))
+
+
 PKG_INFO = '''
 ### `{name}`
 
@@ -276,6 +284,7 @@ def process_image(image_name, force):
     try:
         temp_file.write("# `{}:{}`\n".format(image_name, last_tag))
         inspect_image(full_name, temp_file)
+        docker_trust(full_name, temp_file)
         temp_file.write("## `Python Packages`\n\n")
         generate_pkg_data(full_name, temp_file)
         temp_file.write("\n## `OS Packages`\n\n")
