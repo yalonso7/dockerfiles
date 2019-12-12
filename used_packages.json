@@ -224,7 +224,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -304,7 +305,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -438,7 +440,8 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/smime-encrypt"
+            "demisto/smime-encrypt",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/wbond/asn1crypto",
         "licenses": [
@@ -735,7 +738,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -857,7 +861,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -927,6 +932,18 @@
         ],
         "pypi_url": "https://pypi.org/project/colorama/",
         "summary": "Cross-platform colored terminal text."
+    },
+    "configobj": {
+        "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers) rdennis+configobj@gmail.com, eli@courtwright.org, fuzzyman@voidspace.co.uk, nico@tekNico.net",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "https://github.com/DiffSK/configobj",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/configobj/",
+        "summary": "Config file reading, writing and validation."
     },
     "configparser": {
         "author": "\u0141ukasz Langa lukasz@langa.pl",
@@ -1110,7 +1127,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1221,6 +1239,18 @@
         ],
         "pypi_url": "https://pypi.org/project/duo-client/",
         "summary": "Reference client for Duo Security APIs"
+    },
+    "dxlbootstrap": {
+        "author": "McAfee, LLC",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "http://www.mcafee.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/dxlbootstrap/",
+        "summary": "OpenDXL Bootstrap Application"
     },
     "dxlclient": {
         "author": "McAfee, Inc.",
@@ -1445,7 +1475,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1867,7 +1898,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2220,6 +2252,18 @@
         "pypi_url": "https://pypi.org/project/more-itertools/",
         "summary": "More routines for operating on iterables, beyond itertools"
     },
+    "msgpack": {
+        "author": "INADA Naoki songofacandy@gmail.com",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "https://msgpack.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/msgpack/",
+        "summary": "MessagePack (de)serializer."
+    },
     "multidict": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
@@ -2419,7 +2463,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2460,6 +2505,18 @@
         ],
         "pypi_url": "https://pypi.org/project/ordered-set/",
         "summary": "A MutableSet that remembers its order, so that every entry has an index."
+    },
+    "oscrypto": {
+        "author": "wbond will@wbond.net",
+        "docker_images": [
+            "demisto/dxl"
+        ],
+        "home_page": "https://github.com/wbond/oscrypto",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/oscrypto/",
+        "summary": "TLS (SSL) sockets, key generation, encryption, decryption, signing, verification and KDFs using the OS crypto libraries. Does not require a compiler, and relies on the OS for patching. Works on Windows, OS X and Linux/BSD."
     },
     "packaging": {
         "author": "Donald Stufft and individual contributors donald@stufft.io",
@@ -2586,7 +2643,6 @@
             "demisto/word-parser",
             "demisto/bs4",
             "demisto/cylance_protect_v2",
-            "demisto/dxl",
             "demisto/unrar",
             "demisto/python_zipfile",
             "demisto/boto3",
@@ -2689,7 +2745,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3197,7 +3254,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3320,7 +3378,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3448,7 +3507,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3554,7 +3614,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3809,7 +3870,6 @@
             "demisto/word-parser",
             "demisto/bs4",
             "demisto/cylance_protect_v2",
-            "demisto/dxl",
             "demisto/unrar",
             "demisto/python_zipfile",
             "demisto/boto3",
@@ -3912,7 +3972,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4043,7 +4104,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4394,7 +4456,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4519,7 +4582,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4578,7 +4642,6 @@
             "demisto/word-parser",
             "demisto/bs4",
             "demisto/cylance_protect_v2",
-            "demisto/dxl",
             "demisto/unrar",
             "demisto/python_zipfile",
             "demisto/machine-learning",
@@ -4719,7 +4782,6 @@
             "demisto/word-parser",
             "demisto/bs4",
             "demisto/cylance_protect_v2",
-            "demisto/dxl",
             "demisto/unrar",
             "demisto/python_zipfile",
             "demisto/boto3",
@@ -4822,7 +4884,8 @@
             "demisto/smime-encrypt",
             "demisto/devo",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/dxl"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
