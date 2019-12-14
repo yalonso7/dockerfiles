@@ -39,6 +39,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/google-api](demisto/google-api/last.md)
 * [demisto/google-api-py3](demisto/google-api-py3/last.md)
 * [demisto/google-cloud-storage](demisto/google-cloud-storage/last.md)
+* [demisto/google-cloud-translate](demisto/google-cloud-translate/last.md)
 * [demisto/google-kms](demisto/google-kms/last.md)
 * [demisto/google-vision-api](demisto/google-vision-api/last.md)
 * [demisto/googleapi-python3](demisto/googleapi-python3/last.md)
@@ -126,4 +127,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2019-12-13 01:03:43.877760
+Last updated: 2019-12-14 01:04:37.824654
