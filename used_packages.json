@@ -226,7 +226,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -308,7 +310,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -529,7 +533,8 @@
     "backports.functools-lru-cache": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/jaraco/backports.functools_lru_cache",
         "licenses": [
@@ -545,7 +550,8 @@
             "demisto/pytan",
             "demisto/pandas",
             "demisto/xmlparser",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "http://www.crummy.com/software/BeautifulSoup/bs4/",
         "licenses": [
@@ -743,7 +749,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -770,7 +778,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/akamai"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -867,7 +876,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -993,7 +1004,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1134,7 +1146,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1293,6 +1307,18 @@
         ],
         "pypi_url": "https://pypi.org/project/dxltieclient/",
         "summary": "McAfee Threat Intelligence Exchange (TIE) DXL client library"
+    },
+    "edgegrid-python": {
+        "author": "Jonathan Landis jlandis@akamai.com",
+        "docker_images": [
+            "demisto/akamai"
+        ],
+        "home_page": "https://github.com/akamai-open/AkamaiOPEN-edgegrid-python",
+        "licenses": [
+            "License :: Apache License 2.0"
+        ],
+        "pypi_url": "https://pypi.org/project/edgegrid-python/",
+        "summary": "{OPEN} client authentication protocol for python-requests"
     },
     "editdistance": {
         "author": "Hiroyuki Tanaka aflc0x@gmail.com",
@@ -1483,7 +1509,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1924,7 +1952,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2173,7 +2203,8 @@
             "demisto/office-utils",
             "demisto/zeep",
             "demisto/docxpy",
-            "demisto/pcap-http-extractor"
+            "demisto/pcap-http-extractor",
+            "demisto/taxii"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2313,10 +2344,23 @@
         "pypi_url": "https://pypi.org/project/murmurhash/",
         "summary": "Cython bindings for MurmurHash"
     },
+    "ndg-httpsclient": {
+        "author": "Richard Wilkinson and Philip Kershaw Philip.Kershaw@stfc.ac.uk",
+        "docker_images": [
+            "demisto/akamai"
+        ],
+        "home_page": "https://github.com/cedadev/ndg_httpsclient/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/ndg-httpsclient/",
+        "summary": "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL"
+    },
     "netaddr": {
         "author": "Stefan Nordhausen stefan.nordhausen@immobilienscout24.de",
         "docker_images": [
-            "demisto/netaddr"
+            "demisto/netaddr",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2490,7 +2534,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2773,7 +2819,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -2891,7 +2939,8 @@
         "author": "The pyOpenSSL developers cryptography-dev@python.org",
         "docker_images": [
             "demisto/symantec_mss",
-            "demisto/snowflake"
+            "demisto/snowflake",
+            "demisto/akamai"
         ],
         "home_page": "https://pyopenssl.org/",
         "licenses": [
@@ -2914,7 +2963,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -2998,7 +3048,8 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3286,7 +3337,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3411,7 +3464,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3541,7 +3596,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3649,7 +3706,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4009,7 +4068,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4142,7 +4203,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4190,7 +4253,8 @@
     "soupsieve": {
         "author": "Isaac Muse Isaac.Muse@gmail.com",
         "docker_images": [
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/facelessuser/soupsieve",
         "licenses": [
@@ -4495,7 +4559,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4622,7 +4688,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4925,7 +4993,9 @@
             "demisto/winrm",
             "demisto/dxl",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii",
+            "demisto/akamai"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
