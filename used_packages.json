@@ -3,9 +3,9 @@
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
             "demisto/pyotrs",
-            "demisto/sane-doc-reports",
             "demisto/teams",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -13,6 +13,18 @@
         ],
         "pypi_url": "https://pypi.org/project/click/",
         "summary": "Composable command line interface toolkit"
+    },
+    "Cython": {
+        "author": "Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. cython-devel@python.org",
+        "docker_images": [
+            "demisto/sane-doc-reports"
+        ],
+        "home_page": "http://cython.org/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/Cython/",
+        "summary": "The Cython compiler for writing C extensions for the Python language."
     },
     "Deprecated": {
         "author": "Laurent LAPORTE tantale.solutions@gmail.com",
@@ -171,7 +183,6 @@
         "docker_images": [
             "demisto/ippysocks",
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -228,7 +239,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -254,7 +266,6 @@
         "docker_images": [
             "demisto/trustar",
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -312,7 +323,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -427,8 +439,8 @@
     "arrow": {
         "author": "Chris Smith crsmithdev@gmail.com",
         "docker_images": [
-            "demisto/sane-doc-reports",
-            "demisto/python_pancloud"
+            "demisto/python_pancloud",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://arrow.readthedocs.io",
         "licenses": [
@@ -693,7 +705,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -751,7 +762,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -820,7 +832,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -878,7 +889,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1090,7 +1102,6 @@
         "author": "Scrapinghub info@scrapinghub.com",
         "docker_images": [
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -1148,7 +1159,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1454,7 +1466,6 @@
     "funcy": {
         "author": "Alexander Schepanovski suor.web@gmail.com",
         "docker_images": [
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -1511,7 +1522,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1896,7 +1908,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -1954,7 +1965,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2199,12 +2211,12 @@
             "demisto/xmlparser",
             "demisto/ews",
             "demisto/pyquery",
-            "demisto/sane-doc-reports",
             "demisto/office-utils",
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/pcap-http-extractor",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2422,9 +2434,9 @@
             "demisto/exchange",
             "demisto/panads3",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/chromium",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2478,7 +2490,6 @@
             "demisto/aquatone",
             "demisto/pdfx2",
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -2536,7 +2547,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2763,7 +2775,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -2821,7 +2832,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3281,7 +3293,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3339,7 +3350,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3353,9 +3365,9 @@
         "author": "Steve Canny python-docx@googlegroups.com",
         "docker_images": [
             "demisto/word-parser",
-            "demisto/sane-doc-reports",
             "demisto/office-utils",
-            "demisto/docxpy"
+            "demisto/docxpy",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/python-openxml/python-docx",
         "licenses": [
@@ -3408,7 +3420,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3466,7 +3477,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3540,7 +3552,6 @@
         "docker_images": [
             "demisto/pcap",
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3598,7 +3609,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3650,7 +3662,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -3708,7 +3719,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4012,7 +4024,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4070,7 +4081,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4147,7 +4159,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4205,7 +4216,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4503,7 +4515,6 @@
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/snowflake",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4561,7 +4572,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4632,7 +4644,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4690,7 +4701,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -4937,7 +4949,6 @@
             "demisto/panads3",
             "demisto/snowflake",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/python",
             "demisto/python3",
             "demisto/python3-deb",
@@ -4995,7 +5006,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
             "demisto/taxii",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
