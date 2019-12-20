@@ -240,7 +240,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -324,7 +325,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -763,7 +765,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -890,7 +893,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1160,7 +1164,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1523,7 +1528,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1966,7 +1972,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2072,7 +2079,8 @@
             "demisto/ml-telemetry",
             "demisto/snowflake",
             "demisto/python_pancloud",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/jmespath/jmespath.py",
         "licenses": [
@@ -2548,7 +2556,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2833,7 +2842,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3351,7 +3361,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3478,7 +3489,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3610,7 +3622,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3720,7 +3733,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4082,7 +4096,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4217,7 +4232,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4573,7 +4589,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4702,7 +4719,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5007,7 +5025,8 @@
             "demisto/google-cloud-translate",
             "demisto/taxii",
             "demisto/akamai",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/jmespath"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
