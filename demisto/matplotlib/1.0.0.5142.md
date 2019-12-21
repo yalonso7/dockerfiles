@@ -1,8 +1,8 @@
-# `demisto/vertica:1.0.0.5139`
+# `demisto/matplotlib:1.0.0.5142`
 ## Docker Metadata
-- Image Size: `39.06 MB`
-- Image ID: `sha256:39e5e4c992323661b35928d3615fc7219fb2f2329156a559d902727ecc9436a2`
-- Created: `2019-12-20T03:35:49.567789856Z`
+- Image Size: `79.00 MB`
+- Image ID: `sha256:e47925b289122dc2d4143e4ba751b1993af34907e87c20c05b9639576811bd78`
+- Created: `2019-12-20T15:48:29.569887947Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -15,8 +15,8 @@
   - `PYTHON_GET_PIP_SHA256=b86f36cc4345ae87bfd4f10ef6b2dbfa7a872fbff70608a1e43944d283fd0eee`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:be5c19aec85ccccd68165548b149074bfdc1c734`
-  - `org.opencontainers.image.version:1.0.0.5139`
+  - `org.opencontainers.image.revision:b2bb8d17d9c6fe1de7774a627ba243f69e780c41`
+  - `org.opencontainers.image.version:1.0.0.5142`
 
 - OS Release:
   - `NAME="Alpine Linux"`
@@ -29,15 +29,15 @@
 ## Docker Trust
 ```
 
-Signatures for demisto/vertica:1.0.0.5139
+Signatures for demisto/matplotlib:1.0.0.5142
 
 SIGNED TAG          DIGEST                                                             SIGNERS
-1.0.0.5139          4a7bde4f969243dccbe5d5c5110c87f56f2e0a857e170ecb76874e1a6e429d90   (Repo Admin)
+1.0.0.5142          b1def6aaa45fae33a8fdb8763ba363a153219070f78a3d791c0652b7712f2af3   (Repo Admin)
 
-Administrative keys for demisto/vertica:1.0.0.5139
+Administrative keys for demisto/matplotlib:1.0.0.5142
 
-  Repository Key:	288843b141b29b5a8898c5d49046057ea531337894169b1210a1ce27ae395859
-  Root Key:	d838222b133744eb87b6e22e5f9bf9f6959986a617160b7a087786eb7d0f2227
+  Repository Key:	6d942d811a412fe2805808077c2a1c6919b41047305ee2ff0fc364eb2b89201f
+  Root Key:	8a7871ea87cf157433f507e4c26c86c6925faa9902ac60805d30230210f24fd9
 
 ```
 
@@ -62,6 +62,24 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
 
+### `cycler`
+
+* Summary: Composable style cycles
+* Version: 0.10.0
+* Pypi: https://pypi.org/project/Cycler/
+* Homepage: http://github.com/matplotlib/cycler
+* Author: Thomas A Caswell matplotlib-users@python.org
+* License: BSD
+
+### `Cython`
+
+* Summary: The Cython compiler for writing C extensions for the Python language.
+* Version: 0.29.14
+* Pypi: https://pypi.org/project/Cython/
+* Homepage: http://cython.org/
+* Author: Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. cython-devel@python.org
+* License :: OSI Approved :: Apache Software License
+
 ### `dateparser`
 
 * Summary: Date parsing library designed to parse dates from HTML pages
@@ -80,15 +98,6 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * Author: Alexander Schepanovski suor.web@gmail.com
 * License :: OSI Approved :: BSD License
 
-### `future`
-
-* Summary: Clean single-source support for Python 3 and 2
-* Version: 0.18.2
-* Pypi: https://pypi.org/project/future/
-* Homepage: https://python-future.org
-* Author: Ed Schofield ed@pythoncharmers.com
-* License :: OSI Approved :: MIT License
-
 ### `idna`
 
 * Summary: Internationalized Domain Names in Applications (IDNA)
@@ -97,6 +106,33 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * Homepage: https://github.com/kjd/idna
 * Author: Kim Davies kim@cynosure.com.au
 * License :: OSI Approved :: BSD License
+
+### `kiwisolver`
+
+* Summary: A fast implementation of the Cassowary constraint solver
+* Version: 1.1.0
+* Pypi: https://pypi.org/project/kiwisolver/
+* Homepage: https://github.com/nucleic/kiwi
+* Author: The Nucleic Development Team sccolbert@gmail.com
+* License :: BSD 3-Clause License
+
+### `matplotlib`
+
+* Summary: Python plotting package
+* Version: 3.1.2
+* Pypi: https://pypi.org/project/matplotlib/
+* Homepage: https://matplotlib.org
+* Author: John D. Hunter, Michael Droettboom matplotlib-users@python.org
+* License :: OSI Approved :: Python Software Foundation License
+
+### `numpy`
+
+* Summary: NumPy is the fundamental package for array computing with Python.
+* Version: 1.17.4
+* Pypi: https://pypi.org/project/numpy/
+* Homepage: https://www.numpy.org
+* Author: Travis E. Oliphant et al.
+* License: BSD
 
 ### `olefile`
 
@@ -114,6 +150,15 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * Pypi: https://pypi.org/project/pip/
 * Homepage: https://pip.pypa.io/
 * Author: The pip developers pypa-dev@groups.google.com
+* License :: OSI Approved :: MIT License
+
+### `pyparsing`
+
+* Summary: Python parsing module
+* Version: 2.4.5
+* Pypi: https://pypi.org/project/pyparsing/
+* Homepage: https://github.com/pyparsing/pyparsing/
+* Author: Paul McGuire ptmcg@users.sourceforge.net
 * License :: OSI Approved :: MIT License
 
 ### `PySocks`
@@ -207,15 +252,6 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * Author: Andrey Petrov andrey.petrov@shazow.net
 * License :: OSI Approved :: MIT License
 
-### `vertica-python`
-
-* Summary: A native Python client for the Vertica database.
-* Version: 0.10.0
-* Pypi: https://pypi.org/project/vertica-python/
-* Homepage: https://github.com/vertica/vertica-python
-* Author: Justin Berka, Alex Kim, Siting Ren justin.berka@gmail.com, alex.kim@uber.com, sitingren@hotmail.com
-* License :: OSI Approved :: Apache Software License
-
 ### `wheel`
 
 * Summary: A built-package format for Python.
@@ -235,7 +271,9 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * ca-certificates-20190108-r0 x86_64 {ca-certificates}
 * ca-certificates-cacert-20190108-r0 x86_64 {ca-certificates}
 * expat-2.2.8-r0 x86_64 {expat}
+* freetype-2.10.0-r0 x86_64 {freetype}
 * gdbm-1.13-r1 x86_64 {gdbm}
+* jpeg-8-r6 x86_64 {jpeg}
 * keyutils-libs-1.6-r1 x86_64 {keyutils}
 * krb5-conf-1.0-r1 x86_64 {krb5-conf}
 * krb5-libs-1.17-r0 x86_64 {krb5}
@@ -244,13 +282,22 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * libcom_err-1.45.2-r1 x86_64 {e2fsprogs}
 * libcrypto1.1-1.1.1d-r0 x86_64 {openssl}
 * libffi-3.2.1-r6 x86_64 {libffi}
+* libgcc-8.3.0-r0 x86_64 {gcc}
+* libgcrypt-1.8.5-r0 x86_64 {libgcrypt}
+* libgpg-error-1.36-r2 x86_64 {libgpg-error}
 * libintl-0.19.8.1-r4 x86_64 {gettext}
+* libjpeg-turbo-2.0.3-r0 x86_64 {libjpeg-turbo}
+* libjpeg-turbo-utils-2.0.3-r0 x86_64 {libjpeg-turbo}
 * libnsl-1.2.0-r0 x86_64 {libnsl}
+* libpng-1.6.37-r1 x86_64 {libpng}
 * libssl1.1-1.1.1d-r0 x86_64 {openssl}
+* libstdc++-8.3.0-r0 x86_64 {gcc}
 * libtirpc-1.1.4-r0 x86_64 {libtirpc}
 * libtls-standalone-2.9.1-r0 x86_64 {libtls-standalone}
 * libuuid-2.33.2-r0 x86_64 {util-linux}
 * libverto-0.3.1-r0 x86_64 {libverto}
+* libxml2-2.9.9-r2 x86_64 {libxml2}
+* libxslt-1.1.33-r2 x86_64 {libxslt}
 * musl-1.1.22-r3 x86_64 {musl}
 * musl-utils-1.1.22-r3 x86_64 {musl}
 * ncurses-libs-6.1_p20190518-r0 x86_64 {ncurses}
@@ -260,5 +307,6 @@ Administrative keys for demisto/vertica:1.0.0.5139
 * scanelf-1.2.3-r0 x86_64 {pax-utils}
 * sqlite-libs-3.28.0-r1 x86_64 {sqlite}
 * ssl_client-1.30.1-r3 x86_64 {busybox}
+* tzdata-2019c-r0 x86_64 {tzdata}
 * xz-libs-5.2.4-r0 x86_64 {xz}
 * zlib-1.2.11-r1 x86_64 {zlib}
