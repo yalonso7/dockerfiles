@@ -236,14 +236,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -322,14 +322,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -550,8 +550,7 @@
     "backports.functools-lru-cache": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/taxii"
+            "demisto/dl"
         ],
         "home_page": "https://github.com/jaraco/backports.functools_lru_cache",
         "licenses": [
@@ -763,14 +762,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -892,14 +891,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1165,14 +1164,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1530,14 +1529,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1975,14 +1974,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2232,9 +2231,9 @@
             "demisto/zeep",
             "demisto/docxpy",
             "demisto/pcap-http-extractor",
-            "demisto/taxii",
             "demisto/sane-doc-reports",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2246,7 +2245,8 @@
     "markdownify": {
         "author": "Matthew Tretter m@tthewwithanm.com",
         "docker_images": [
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "http://github.com/matthewwithanm/python-markdownify",
         "licenses": [
@@ -2391,8 +2391,8 @@
         "author": "Stefan Nordhausen stefan.nordhausen@immobilienscout24.de",
         "docker_images": [
             "demisto/netaddr",
-            "demisto/taxii",
-            "demisto/netutils"
+            "demisto/netutils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2564,14 +2564,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2851,14 +2851,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3001,7 +3001,8 @@
             "demisto/google-api-py3",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/akamai"
+            "demisto/akamai",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3110,7 +3111,8 @@
     "pycryptodome": {
         "author": "Helder Eijs helderijs@gmail.com",
         "docker_images": [
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://www.pycryptodome.org",
         "licenses": [
@@ -3372,14 +3374,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3501,14 +3503,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3635,14 +3637,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3747,14 +3749,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3880,7 +3882,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/google-vision-api",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/taxii"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4111,14 +4114,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4248,14 +4251,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4606,14 +4609,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4737,14 +4740,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5044,14 +5047,14 @@
             "demisto/dxl",
             "demisto/google-vision-api",
             "demisto/google-cloud-translate",
-            "demisto/taxii",
             "demisto/akamai",
             "demisto/sane-doc-reports",
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/matplotlib",
             "demisto/netutils",
-            "demisto/office-utils"
+            "demisto/office-utils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
