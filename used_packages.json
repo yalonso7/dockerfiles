@@ -243,7 +243,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -329,7 +330,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -769,7 +771,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -898,7 +901,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1171,7 +1175,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1536,7 +1541,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1981,7 +1987,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2571,7 +2578,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2858,7 +2866,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3381,7 +3390,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3510,7 +3520,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3644,7 +3655,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3756,7 +3768,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4121,7 +4134,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4258,7 +4272,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4266,6 +4281,18 @@
         ],
         "pypi_url": "https://pypi.org/project/six/",
         "summary": "Python 2 and 3 compatibility utilities"
+    },
+    "sixgill-clients": {
+        "author": "Sixgill Support@cybersixgill.com",
+        "docker_images": [
+            "demisto/sixgill"
+        ],
+        "home_page": "https://bitbucket.org/Sterenson/sixgill-client",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/sixgill-clients/",
+        "summary": "Sixgill clients package"
     },
     "slackclient": {
         "author": "Slack Technologies, Inc. opensource@slack.com",
@@ -4616,7 +4643,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4747,7 +4775,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5054,7 +5083,8 @@
             "demisto/matplotlib",
             "demisto/netutils",
             "demisto/office-utils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
