@@ -244,7 +244,8 @@
             "demisto/pymongo",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -331,7 +332,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -772,7 +774,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -902,7 +905,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1176,7 +1180,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1542,7 +1547,8 @@
             "demisto/pymongo",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1988,7 +1994,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2579,7 +2586,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2867,7 +2875,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3391,7 +3400,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3521,7 +3531,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3656,7 +3667,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3769,7 +3781,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4135,7 +4148,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4273,7 +4287,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4644,7 +4659,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4776,7 +4792,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5084,7 +5101,8 @@
             "demisto/powershell-core",
             "demisto/google-kms",
             "demisto/devo",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5153,6 +5171,18 @@
         ],
         "pypi_url": "https://pypi.org/project/xmltodict/",
         "summary": "Makes working with XML feel like you are working with JSON"
+    },
+    "yara-python": {
+        "author": "Victor M. Alvarez plusvic@gmail.com, vmalvarez@virustotal.com",
+        "docker_images": [
+            "demisto/yarapy"
+        ],
+        "home_page": "https://github.com/VirusTotal/yara-python",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/yara-python/",
+        "summary": "Python interface for YARA"
     },
     "yarl": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
