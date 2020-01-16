@@ -245,7 +245,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -333,7 +334,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -775,7 +777,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -906,7 +909,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1181,7 +1185,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1474,8 +1479,8 @@
     "fasttext": {
         "author": "Onur Celebi celebio@fb.com",
         "docker_images": [
-            "demisto/fasttext",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/facebookresearch/fastText",
         "licenses": [
@@ -1548,7 +1553,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1995,7 +2001,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2461,7 +2468,6 @@
         "docker_images": [
             "demisto/machine-learning",
             "demisto/pytan",
-            "demisto/fasttext",
             "demisto/pandas",
             "demisto/xmlparser",
             "demisto/ml",
@@ -2471,7 +2477,8 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/chromium",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/fasttext"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2587,7 +2594,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2783,7 +2791,6 @@
             "demisto/exifread",
             "demisto/pysmb",
             "demisto/trustar",
-            "demisto/fasttext",
             "demisto/ml-telemetry",
             "demisto/pypdf2",
             "demisto/vmray",
@@ -2876,7 +2883,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3064,8 +3072,8 @@
     "pybind11": {
         "author": "Wenzel Jakob wenzel.jakob@epfl.ch",
         "docker_images": [
-            "demisto/fasttext",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/pybind/pybind11",
         "licenses": [
@@ -3401,7 +3409,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3532,7 +3541,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3668,7 +3678,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3782,7 +3793,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4056,7 +4068,6 @@
             "demisto/exifread",
             "demisto/pysmb",
             "demisto/trustar",
-            "demisto/fasttext",
             "demisto/ml-telemetry",
             "demisto/pypdf2",
             "demisto/vmray",
@@ -4149,7 +4160,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4288,7 +4300,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4660,7 +4673,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4793,7 +4807,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5009,7 +5024,6 @@
             "demisto/exifread",
             "demisto/pysmb",
             "demisto/trustar",
-            "demisto/fasttext",
             "demisto/ml-telemetry",
             "demisto/pypdf2",
             "demisto/vmray",
@@ -5102,7 +5116,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/fasttext"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
