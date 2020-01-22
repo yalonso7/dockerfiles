@@ -246,7 +246,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -335,7 +336,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -470,7 +472,8 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/smime-encrypt",
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/wbond/asn1crypto",
         "licenses": [
@@ -778,7 +781,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -910,7 +914,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -984,7 +989,8 @@
     "configobj": {
         "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers) rdennis+configobj@gmail.com, eli@courtwright.org, fuzzyman@voidspace.co.uk, nico@tekNico.net",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/DiffSK/configobj",
         "licenses": [
@@ -1186,7 +1192,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1301,7 +1308,8 @@
     "dxlbootstrap": {
         "author": "McAfee, LLC",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "http://www.mcafee.com/",
         "licenses": [
@@ -1313,7 +1321,8 @@
     "dxlclient": {
         "author": "McAfee, Inc.",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "http://www.mcafee.com/",
         "licenses": [
@@ -1325,7 +1334,8 @@
     "dxlmarclient": {
         "author": "McAfee LLC",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "http://www.mcafee.com/",
         "licenses": [
@@ -1337,7 +1347,8 @@
     "dxltieclient": {
         "author": "McAfee LLC",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "http://www.mcafee.com/",
         "licenses": [
@@ -1554,7 +1565,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2002,7 +2014,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2363,7 +2376,8 @@
     "msgpack": {
         "author": "INADA Naoki songofacandy@gmail.com",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "https://msgpack.org/",
         "licenses": [
@@ -2595,7 +2609,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2640,7 +2655,8 @@
     "oscrypto": {
         "author": "wbond will@wbond.net",
         "docker_images": [
-            "demisto/dxl"
+            "demisto/dxl",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/wbond/oscrypto",
         "licenses": [
@@ -2884,7 +2900,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3423,7 +3440,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3555,7 +3573,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3692,7 +3711,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3807,7 +3827,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4174,7 +4195,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4314,7 +4336,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4687,7 +4710,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4821,7 +4845,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5130,7 +5155,8 @@
             "demisto/google-cloud-storage",
             "demisto/yarapy",
             "demisto/sane-doc-reports",
-            "demisto/sixgill"
+            "demisto/sixgill",
+            "demisto/dxl2"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

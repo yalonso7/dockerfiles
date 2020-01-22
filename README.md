@@ -29,6 +29,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/docxpy](demisto/docxpy/last.md)
 * [demisto/duoadmin](demisto/duoadmin/last.md)
 * [demisto/dxl](demisto/dxl/last.md)
+* [demisto/dxl2](demisto/dxl2/last.md)
 * [demisto/elasticsearch](demisto/elasticsearch/last.md)
 * [demisto/ews](demisto/ews/last.md)
 * [demisto/exchange](demisto/exchange/last.md)
@@ -133,4 +134,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-01-21 01:03:45.492028
+Last updated: 2020-01-22 01:04:27.747466
