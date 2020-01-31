@@ -213,7 +213,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -247,7 +246,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -302,7 +302,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -337,7 +336,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -747,7 +747,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -782,7 +781,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -808,9 +808,9 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/akamai",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/winrm"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -880,7 +880,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -915,7 +914,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1041,9 +1041,9 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/akamai",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1158,7 +1158,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -1193,7 +1192,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1532,7 +1532,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -1566,7 +1565,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1980,7 +1980,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -2015,7 +2014,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2575,7 +2575,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -2610,7 +2609,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2866,7 +2866,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -2901,7 +2900,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3141,9 +3141,9 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/akamai",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3234,7 +3234,8 @@
         "author": "",
         "docker_images": [
             "demisto/py-ews",
-            "demisto/exchangelib"
+            "demisto/exchangelib",
+            "demisto/winrm"
         ],
         "home_page": "",
         "licenses": [
@@ -3406,7 +3407,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -3441,7 +3441,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3539,7 +3540,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -3574,7 +3574,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3677,7 +3678,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -3712,7 +3712,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3793,7 +3794,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -3828,7 +3828,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4161,7 +4162,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -4196,7 +4196,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4302,7 +4303,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -4337,7 +4337,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4676,7 +4677,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -4711,7 +4711,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4811,7 +4812,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -4846,7 +4846,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5121,7 +5122,6 @@
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/google-api-py3",
-            "demisto/winrm",
             "demisto/dxl",
             "demisto/akamai",
             "demisto/jmespath",
@@ -5156,7 +5156,8 @@
             "demisto/google-kms",
             "demisto/devo",
             "demisto/google-cloud-translate",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/winrm"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
