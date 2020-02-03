@@ -129,9 +129,10 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/winrm](demisto/winrm/last.md)
 * [demisto/word-parser](demisto/word-parser/last.md)
 * [demisto/xlrd](demisto/xlrd/last.md)
+* [demisto/xlrd-py3](demisto/xlrd-py3/last.md)
 * [demisto/xmlparser](demisto/xmlparser/last.md)
 * [demisto/yarapy](demisto/yarapy/last.md)
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-02-02 01:03:37.720032
+Last updated: 2020-02-03 01:04:43.715691

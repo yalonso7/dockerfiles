@@ -247,7 +247,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -337,7 +338,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -782,7 +784,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -915,7 +918,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1193,7 +1197,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1566,7 +1571,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2015,7 +2021,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2610,7 +2617,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2901,7 +2909,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3442,7 +3451,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3575,7 +3585,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3713,7 +3724,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3829,7 +3841,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4197,7 +4210,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4338,7 +4352,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4712,7 +4727,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4847,7 +4863,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5157,7 +5174,8 @@
             "demisto/devo",
             "demisto/google-cloud-translate",
             "demisto/yarapy",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/xlrd-py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5205,7 +5223,8 @@
     "xlrd": {
         "author": "John Machin sjmachin@lexicon.net",
         "docker_images": [
-            "demisto/xlrd"
+            "demisto/xlrd",
+            "demisto/xlrd-py3"
         ],
         "home_page": "http://www.python-excel.org/",
         "licenses": [
