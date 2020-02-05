@@ -4,8 +4,8 @@
         "docker_images": [
             "demisto/pyotrs",
             "demisto/teams",
-            "demisto/sane-doc-reports",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -233,7 +233,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -248,7 +247,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -324,7 +324,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -339,7 +338,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -770,7 +770,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -785,7 +784,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -904,7 +904,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -919,7 +918,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1183,7 +1183,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -1198,7 +1197,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1557,7 +1557,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -1572,7 +1571,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2007,7 +2007,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -2022,7 +2021,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2497,9 +2497,9 @@
             "demisto/dl",
             "demisto/matplotlib",
             "demisto/chromium",
-            "demisto/sane-doc-reports",
             "demisto/fasttext",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2603,7 +2603,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -2618,7 +2617,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2895,7 +2895,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -2910,7 +2909,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3437,7 +3437,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -3452,7 +3451,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3571,7 +3571,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -3586,7 +3585,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3710,7 +3710,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -3725,7 +3724,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3827,7 +3827,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -3842,7 +3841,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4196,7 +4196,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -4211,7 +4210,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4338,7 +4338,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -4353,7 +4352,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4713,7 +4713,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -4728,7 +4727,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4849,7 +4849,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -4864,7 +4863,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5160,7 +5160,6 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/sane-doc-reports",
             "demisto/sixgill",
             "demisto/dxl2",
             "demisto/python",
@@ -5175,7 +5174,8 @@
             "demisto/google-cloud-translate",
             "demisto/yarapy",
             "demisto/winrm",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
