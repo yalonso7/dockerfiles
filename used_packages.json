@@ -217,7 +217,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -248,7 +247,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -307,7 +307,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -339,7 +338,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -753,7 +753,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -785,7 +784,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -887,7 +887,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -919,7 +918,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1166,7 +1166,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -1198,7 +1197,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1541,7 +1541,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -1572,7 +1571,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1990,7 +1990,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2022,7 +2021,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2495,11 +2495,11 @@
             "demisto/exchange",
             "demisto/panads3",
             "demisto/dl",
-            "demisto/chromium",
             "demisto/fasttext",
             "demisto/devo",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2586,7 +2586,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2618,7 +2617,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2878,7 +2878,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2910,7 +2909,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3420,7 +3420,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3452,7 +3451,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3554,7 +3554,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3586,7 +3585,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3693,7 +3693,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3725,7 +3724,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3810,7 +3810,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3842,7 +3841,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4179,7 +4179,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4211,7 +4210,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4321,7 +4321,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4353,7 +4352,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4696,7 +4696,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4728,7 +4727,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4832,7 +4832,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4864,7 +4863,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5143,7 +5143,6 @@
             "demisto/vertica",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/chromium",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -5175,7 +5174,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
             "demisto/google-cloud-translate",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
