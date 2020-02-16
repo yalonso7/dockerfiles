@@ -248,7 +248,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -339,7 +340,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -422,6 +424,30 @@
         ],
         "pypi_url": "https://pypi.org/project/aiohttp/",
         "summary": "Async http client/server framework (asyncio)"
+    },
+    "algorithmia": {
+        "author": "Algorithmia support@algorithmia.com",
+        "docker_images": [
+            "demisto/algorithmia"
+        ],
+        "home_page": "http://github.com/algorithmiaio/algorithmia-python",
+        "licenses": [
+            "License :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/algorithmia/",
+        "summary": "Algorithmia Python Client"
+    },
+    "algorithmia-api-client": {
+        "author": "support@algorithmia.com",
+        "docker_images": [
+            "demisto/algorithmia"
+        ],
+        "home_page": "",
+        "licenses": [
+            "License :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/algorithmia-api-client/",
+        "summary": "Algorithmia Management APIs"
     },
     "antlr4-python3-runtime": {
         "author": "Eric Vergnaud, Terence Parr, Sam Harwell eric.vergnaud@wanadoo.fr",
@@ -785,7 +811,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -919,7 +946,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1198,7 +1226,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1445,7 +1474,8 @@
             "demisto/exchangelib",
             "demisto/resilient",
             "demisto/ews",
-            "demisto/threatconnect"
+            "demisto/threatconnect",
+            "demisto/algorithmia"
         ],
         "home_page": "https://bitbucket.org/stoneleaf/enum34",
         "licenses": [
@@ -1572,7 +1602,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2022,7 +2053,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2618,7 +2650,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2910,7 +2943,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3452,7 +3486,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3586,7 +3621,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3725,7 +3761,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3842,7 +3879,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4211,7 +4249,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4353,7 +4392,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4728,7 +4768,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4864,7 +4905,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5175,7 +5217,8 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

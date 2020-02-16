@@ -9,6 +9,7 @@ If you are searching for a specific package and want to see if it is available i
 ## Docker Image List
 * [demisto/7zip](demisto/7zip/last.md)
 * [demisto/akamai](demisto/akamai/last.md)
+* [demisto/algorithmia](demisto/algorithmia/last.md)
 * [demisto/aquatone](demisto/aquatone/last.md)
 * [demisto/archer](demisto/archer/last.md)
 * [demisto/bigquery](demisto/bigquery/last.md)
@@ -135,4 +136,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-02-15 01:00:50.181244
+Last updated: 2020-02-16 01:01:10.066251
