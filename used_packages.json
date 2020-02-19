@@ -126,8 +126,8 @@
     "Pillow": {
         "author": "Alex Clark (Fork Author) aclark@aclark.net",
         "docker_images": [
-            "demisto/dl",
-            "demisto/chromium"
+            "demisto/chromium",
+            "demisto/dl"
         ],
         "home_page": "http://python-pillow.org",
         "licenses": [
@@ -585,7 +585,7 @@
         "summary": "Function decoration for backoff and retry"
     },
     "backports.functools-lru-cache": {
-        "author": "Jason R. Coombs jaraco@jaraco.com",
+        "author": "Raymond Hettinger raymond.hettinger@gmail.com",
         "docker_images": [
             "demisto/dl"
         ],
@@ -593,8 +593,8 @@
         "licenses": [
             "License :: OSI Approved :: MIT License"
         ],
-        "pypi_url": "https://pypi.org/project/backports.functools_lru_cache/",
-        "summary": "backports.functools_lru_cache"
+        "pypi_url": "https://pypi.org/project/backports.functools-lru-cache/",
+        "summary": "Backport of functools.lru_cache"
     },
     "beautifulsoup4": {
         "author": "Leonard Richardson leonardr@segfault.org",
@@ -745,7 +745,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -812,7 +811,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -880,7 +880,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -947,7 +946,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1122,9 +1122,9 @@
     "cycler": {
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
-            "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/dl"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1246,7 +1246,7 @@
             "License :: OSI Approved :: BSD License"
         ],
         "pypi_url": "https://pypi.org/project/decorator/",
-        "summary": "Better living through Python with decorators"
+        "summary": "Decorators for Humans"
     },
     "defusedxml": {
         "author": "Christian Heimes christian@python.org",
@@ -1525,8 +1525,8 @@
     "fasttext": {
         "author": "Onur Celebi celebio@fb.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/fasttext"
+            "demisto/fasttext",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/facebookresearch/fastText",
         "licenses": [
@@ -1987,7 +1987,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -2054,7 +2053,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2343,9 +2343,9 @@
     "matplotlib": {
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
-            "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/dl"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -2491,8 +2491,8 @@
     "nltk": {
         "author": "Steven Bird stevenbird1@gmail.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/nltk"
+            "demisto/nltk",
+            "demisto/dl"
         ],
         "home_page": "http://nltk.org/",
         "licenses": [
@@ -2526,12 +2526,12 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/dl",
             "demisto/fasttext",
             "demisto/devo",
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/chromium"
+            "demisto/chromium",
+            "demisto/dl"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2744,8 +2744,8 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/dl",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/dl"
         ],
         "home_page": "http://pandas.pydata.org",
         "licenses": [
@@ -2877,7 +2877,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -2944,7 +2943,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3145,8 +3145,8 @@
     "pybind11": {
         "author": "Wenzel Jakob wenzel.jakob@epfl.ch",
         "docker_images": [
-            "demisto/dl",
-            "demisto/fasttext"
+            "demisto/fasttext",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pybind/pybind11",
         "licenses": [
@@ -3330,9 +3330,9 @@
             "demisto/langdetect",
             "demisto/pypdf2",
             "demisto/pcap",
-            "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -3420,7 +3420,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -3487,7 +3486,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3555,7 +3555,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -3622,7 +3621,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3813,7 +3813,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -3880,7 +3879,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4088,8 +4088,8 @@
             "demisto/machine-learning",
             "demisto/ml",
             "demisto/exchange",
-            "demisto/dl",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/dl"
         ],
         "home_page": "https://www.scipy.org",
         "licenses": [
@@ -4183,7 +4183,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -4250,7 +4249,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4326,7 +4326,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -4393,7 +4392,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4488,11 +4488,11 @@
         "summary": "The Splunk Software Development Kit for Python."
     },
     "srsly": {
-        "author": "Explosion AI contact@explosion.ai",
+        "author": "Explosion contact@explosion.ai",
         "docker_images": [
             "demisto/dl"
         ],
-        "home_page": "https://explosion.ai",
+        "home_page": "https://github.com/explosion/srsly",
         "licenses": [
             "License :: OSI Approved :: MIT License"
         ],
@@ -4572,8 +4572,8 @@
         "author": "Sergey Astanin s.astanin@gmail.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/dl",
-            "demisto/pykafka"
+            "demisto/pykafka",
+            "demisto/dl"
         ],
         "home_page": "https://bitbucket.org/astanin/python-tabulate",
         "licenses": [
@@ -4839,7 +4839,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -4906,7 +4905,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5151,7 +5151,6 @@
             "demisto/threatconnect",
             "demisto/panads3",
             "demisto/snowflake",
-            "demisto/dl",
             "demisto/ldap",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -5218,7 +5217,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
