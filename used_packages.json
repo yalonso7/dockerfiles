@@ -17,8 +17,8 @@
     "Cython": {
         "author": "Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. cython-devel@python.org",
         "docker_images": [
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://cython.org/",
         "licenses": [
@@ -238,7 +238,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -249,7 +248,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -330,7 +330,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -341,7 +340,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -800,7 +800,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -812,7 +811,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -935,7 +935,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -947,7 +946,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1122,9 +1122,9 @@
     "cycler": {
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
-            "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1216,7 +1216,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -1227,7 +1226,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1592,7 +1592,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -1603,7 +1602,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2042,7 +2042,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -2054,7 +2053,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2235,8 +2235,8 @@
     "kiwisolver": {
         "author": "The Nucleic Development Team sccolbert@gmail.com",
         "docker_images": [
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/nucleic/kiwi",
         "licenses": [
@@ -2343,9 +2343,9 @@
     "matplotlib": {
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
-            "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -2528,10 +2528,10 @@
             "demisto/panads3",
             "demisto/fasttext",
             "demisto/devo",
-            "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/chromium",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2640,7 +2640,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -2651,7 +2650,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2932,7 +2932,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -2944,7 +2943,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3330,9 +3330,9 @@
             "demisto/langdetect",
             "demisto/pypdf2",
             "demisto/pcap",
-            "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -3475,7 +3475,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -3487,7 +3486,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3610,7 +3610,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -3622,7 +3621,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3751,7 +3751,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -3762,7 +3761,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3868,7 +3868,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -3880,7 +3879,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4238,7 +4238,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -4250,7 +4249,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4381,7 +4381,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -4393,7 +4392,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4758,7 +4758,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -4769,7 +4768,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-api-py3",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4894,7 +4894,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -4906,7 +4905,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5206,7 +5206,6 @@
             "demisto/yarapy",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/sane-doc-reports",
             "demisto/crypto",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -5218,7 +5217,8 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
