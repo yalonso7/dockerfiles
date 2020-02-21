@@ -5,7 +5,8 @@
             "demisto/pyotrs",
             "demisto/teams",
             "demisto/devo",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -78,7 +79,8 @@
     "Flask": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/flask/",
         "licenses": [
@@ -90,7 +92,8 @@
     "Jinja2": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/jinja/",
         "licenses": [
@@ -114,7 +117,8 @@
     "MarkupSafe": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/markupsafe/",
         "licenses": [
@@ -216,7 +220,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -249,7 +252,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -307,7 +312,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -341,7 +345,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -392,7 +398,8 @@
     "Werkzeug": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/werkzeug/",
         "licenses": [
@@ -679,6 +686,18 @@
         "pypi_url": "https://pypi.org/project/bs4/",
         "summary": "Dummy package for Beautiful Soup"
     },
+    "cabby": {
+        "author": "EclecticIQ cabby@eclecticiq.com",
+        "docker_images": [
+            "demisto/taxii"
+        ],
+        "home_page": "https://github.com/EclecticIQ/cabby/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cabby/",
+        "summary": "TAXII client library"
+    },
     "cached-property": {
         "author": "Daniel Greenfeld pydanny@gmail.com",
         "docker_images": [
@@ -777,7 +796,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -812,7 +830,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -912,7 +932,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -947,7 +966,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1017,6 +1038,18 @@
         ],
         "pypi_url": "https://pypi.org/project/colorama/",
         "summary": "Cross-platform colored terminal text."
+    },
+    "colorlog": {
+        "author": "Sam Clements sam@borntyping.co.uk",
+        "docker_images": [
+            "demisto/taxii"
+        ],
+        "home_page": "https://github.com/borntyping/python-colorlog",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/colorlog/",
+        "summary": "Log formatting with colors!"
     },
     "configobj": {
         "author": "Rob Dennis, Eli Courtwright (Michael Foord & Nicola Larosa original maintainers) rdennis+configobj@gmail.com, eli@courtwright.org, fuzzyman@voidspace.co.uk, nico@tekNico.net",
@@ -1110,7 +1143,8 @@
             "demisto/openpyxl",
             "demisto/ippysocks",
             "demisto/xlrd",
-            "demisto/pysmb"
+            "demisto/pysmb",
+            "demisto/taxii-server"
         ],
         "home_page": "http://cybox.mitre.org",
         "licenses": [
@@ -1193,7 +1227,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -1227,7 +1260,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1570,7 +1605,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -1603,7 +1637,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1611,6 +1647,18 @@
         ],
         "pypi_url": "https://pypi.org/project/funcy/",
         "summary": "A fancy and practical functional tools"
+    },
+    "furl": {
+        "author": "Ansgar Grunseid grunseid@gmail.com",
+        "docker_images": [
+            "demisto/taxii"
+        ],
+        "home_page": "https://github.com/gruns/furl",
+        "licenses": [
+            "License :: Public Domain"
+        ],
+        "pypi_url": "https://pypi.org/project/furl/",
+        "summary": "URL manipulation made simple."
     },
     "future": {
         "author": "Ed Schofield ed@pythoncharmers.com",
@@ -1672,7 +1720,8 @@
     "gevent": {
         "author": "Denis Bilenko denis.bilenko@gmail.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "http://www.gevent.org/",
         "licenses": [
@@ -1889,7 +1938,8 @@
     "greenlet": {
         "author": "Alexey Borzenkov snaury@gmail.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/python-greenlet/greenlet",
         "licenses": [
@@ -2019,7 +2069,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2054,7 +2103,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2132,7 +2183,8 @@
     "itsdangerous": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/taxii-server"
         ],
         "home_page": "https://palletsprojects.com/p/itsdangerous/",
         "licenses": [
@@ -2269,6 +2321,19 @@
         "pypi_url": "https://pypi.org/project/ldap3/",
         "summary": "A strictly RFC 4510 conforming LDAP V3 pure Python client library"
     },
+    "libtaxii": {
+        "author": "The MITRE Corporation taxii@mitre.org",
+        "docker_images": [
+            "demisto/taxii",
+            "demisto/taxii-server"
+        ],
+        "home_page": "https://taxiiproject.github.io/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/libtaxii/",
+        "summary": "TAXII 1.X Library."
+    },
     "lime": {
         "author": "Marco Tulio Ribeiro marcotcr@gmail.com",
         "docker_images": [
@@ -2302,11 +2367,12 @@
             "demisto/ews",
             "demisto/pyquery",
             "demisto/zeep",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/docxpy",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2314,6 +2380,18 @@
         ],
         "pypi_url": "https://pypi.org/project/lxml/",
         "summary": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."
+    },
+    "lz4": {
+        "author": "Jonathan Underwood jonathan.underwood@gmail.com",
+        "docker_images": [
+            "demisto/taxii-server"
+        ],
+        "home_page": "https://github.com/python-lz4/python-lz4",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/lz4/",
+        "summary": "LZ4 Bindings for Python"
     },
     "markdownify": {
         "author": "Matthew Tretter m@tthewwithanm.com",
@@ -2391,7 +2469,8 @@
             "demisto/openpyxl",
             "demisto/ippysocks",
             "demisto/xlrd",
-            "demisto/pysmb"
+            "demisto/pysmb",
+            "demisto/taxii-server"
         ],
         "home_page": "http://github.com/CybOXProject/mixbox",
         "licenses": [
@@ -2466,7 +2545,8 @@
         "docker_images": [
             "demisto/netaddr",
             "demisto/netutils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2617,7 +2697,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2651,7 +2730,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2684,7 +2765,8 @@
             "demisto/openpyxl",
             "demisto/ippysocks",
             "demisto/xlrd",
-            "demisto/pysmb"
+            "demisto/pysmb",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/LuminosoInsight/ordered-set",
         "licenses": [
@@ -2692,6 +2774,30 @@
         ],
         "pypi_url": "https://pypi.org/project/ordered-set/",
         "summary": "A MutableSet that remembers its order, so that every entry has an index."
+    },
+    "ordereddict": {
+        "author": "Raymond Hettinger",
+        "docker_images": [
+            "demisto/taxii-server"
+        ],
+        "home_page": "UNKNOWN",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/ordereddict/",
+        "summary": "A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6."
+    },
+    "orderedmultidict": {
+        "author": "Ansgar Grunseid grunseid@gmail.com",
+        "docker_images": [
+            "demisto/taxii"
+        ],
+        "home_page": "https://github.com/gruns/orderedmultidict",
+        "licenses": [
+            "License :: Unlicense"
+        ],
+        "pypi_url": "https://pypi.org/project/orderedmultidict/",
+        "summary": "Ordered Multivalue Dictionary"
     },
     "oscrypto": {
         "author": "wbond will@wbond.net",
@@ -2909,7 +3015,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -2944,7 +3049,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3093,7 +3200,6 @@
             "demisto/btfl-soup",
             "demisto/googleapi-python3",
             "demisto/akamai",
-            "demisto/taxii",
             "demisto/google-kms",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -3101,7 +3207,8 @@
             "demisto/google-cloud-translate",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3452,7 +3559,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3487,7 +3593,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3587,7 +3695,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3622,7 +3729,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3728,7 +3837,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3762,7 +3870,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3845,7 +3955,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -3880,7 +3989,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -3999,7 +4110,6 @@
         "docker_images": [
             "demisto/btfl-soup",
             "demisto/googleapi-python3",
-            "demisto/taxii",
             "demisto/google-kms",
             "demisto/google-vision-api",
             "demisto/bigquery",
@@ -4007,7 +4117,8 @@
             "demisto/google-cloud-translate",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/taxii"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4215,7 +4326,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4250,7 +4360,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4358,7 +4470,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4393,7 +4504,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4511,7 +4624,8 @@
             "demisto/openpyxl",
             "demisto/ippysocks",
             "demisto/xlrd",
-            "demisto/pysmb"
+            "demisto/pysmb",
+            "demisto/taxii-server"
         ],
         "home_page": "http://stix.mitre.org",
         "licenses": [
@@ -4519,6 +4633,18 @@
         ],
         "pypi_url": "https://pypi.org/project/stix/",
         "summary": "An API for parsing and generating STIX content."
+    },
+    "stix-validator": {
+        "author": "The MITRE Corporation stix@mitre.org",
+        "docker_images": [
+            "demisto/taxii-server"
+        ],
+        "home_page": "http://stix.mitre.org/",
+        "licenses": [
+            "License :: BSD 3-Clause License"
+        ],
+        "pypi_url": "https://pypi.org/project/stix-validator/",
+        "summary": "APIs and scripts for validating STIX and CybOX documents."
     },
     "stix2": {
         "author": "OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org",
@@ -4735,7 +4861,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4769,7 +4894,9 @@
             "demisto/gvault",
             "demisto/google-api-py3",
             "demisto/algorithmia",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -4871,7 +4998,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -4906,7 +5032,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5183,7 +5311,6 @@
             "demisto/jmespath",
             "demisto/vertica",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/hashicorp",
@@ -5218,7 +5345,9 @@
             "demisto/google-api-py3",
             "demisto/algorithmia",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii",
+            "demisto/taxii-server"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5267,7 +5396,8 @@
         "author": "John Machin sjmachin@lexicon.net",
         "docker_images": [
             "demisto/xlrd",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/taxii-server"
         ],
         "home_page": "http://www.python-excel.org/",
         "licenses": [
