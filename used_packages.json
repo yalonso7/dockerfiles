@@ -254,7 +254,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -347,7 +348,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -832,7 +834,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -968,7 +971,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1262,7 +1266,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1639,7 +1644,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2105,7 +2111,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2720,7 +2727,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2915,7 +2923,6 @@
         "docker_images": [
             "demisto/stix",
             "demisto/threatconnect-sdk",
-            "demisto/tld",
             "demisto/py-ews",
             "demisto/pytz",
             "demisto/rasterize",
@@ -3039,7 +3046,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3583,7 +3591,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3719,7 +3728,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3860,7 +3870,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3979,7 +3990,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4226,7 +4238,6 @@
         "docker_images": [
             "demisto/stix",
             "demisto/threatconnect-sdk",
-            "demisto/tld",
             "demisto/py-ews",
             "demisto/pytz",
             "demisto/rasterize",
@@ -4350,7 +4361,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4390,7 +4402,6 @@
         "docker_images": [
             "demisto/stix",
             "demisto/threatconnect-sdk",
-            "demisto/tld",
             "demisto/py-ews",
             "demisto/pytz",
             "demisto/psycopg2",
@@ -4494,7 +4505,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4767,7 +4779,7 @@
             "License :: GNU Lesser General Public License v2 or Later (LGPLv2+)"
         ],
         "pypi_url": "https://pypi.org/project/tld/",
-        "summary": "Extract the top level domain (TLD) from the URL given."
+        "summary": "Extract the top-level domain (TLD) from the URL given."
     },
     "tldextract": {
         "author": "John Kurkowski john.kurkowski@gmail.com",
@@ -4884,7 +4896,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5022,7 +5035,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5072,7 +5086,6 @@
         "docker_images": [
             "demisto/stix",
             "demisto/threatconnect-sdk",
-            "demisto/tld",
             "demisto/py-ews",
             "demisto/pytz",
             "demisto/rasterize",
@@ -5211,7 +5224,6 @@
         "docker_images": [
             "demisto/stix",
             "demisto/threatconnect-sdk",
-            "demisto/tld",
             "demisto/py-ews",
             "demisto/pytz",
             "demisto/rasterize",
@@ -5335,7 +5347,8 @@
             "demisto/google-cloud-translate",
             "demisto/jmespath",
             "demisto/dxl2",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/tld"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

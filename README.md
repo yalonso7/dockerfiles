@@ -80,6 +80,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/powershell](demisto/powershell/last.md)
 * [demisto/powershell-core](demisto/powershell-core/last.md)
 * [demisto/powershell-deb](demisto/powershell-deb/last.md)
+* [demisto/powershell-ubuntu](demisto/powershell-ubuntu/last.md)
 * [demisto/psycopg2](demisto/psycopg2/last.md)
 * [demisto/pwsh-remoting](demisto/pwsh-remoting/last.md)
 * [demisto/py-ews](demisto/py-ews/last.md)
@@ -139,4 +140,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-02-26 01:01:03.992232
+Last updated: 2020-02-27 01:02:38.486461
