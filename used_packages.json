@@ -255,7 +255,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -349,7 +350,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -835,7 +837,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -972,7 +975,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1267,7 +1271,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1645,7 +1650,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2112,7 +2118,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2728,7 +2735,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3047,7 +3055,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3173,6 +3182,18 @@
         ],
         "pypi_url": "https://pypi.org/project/py2-ipaddress/",
         "summary": "Python 2.6 backport of 3.4's ipaddress module"
+    },
+    "py42": {
+        "author": "",
+        "docker_images": [
+            "demisto/py42"
+        ],
+        "home_page": "",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/py42/",
+        "summary": "The Official Code42 Python API Client"
     },
     "pyOpenSSL": {
         "author": "The pyOpenSSL developers cryptography-dev@python.org",
@@ -3592,7 +3613,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3729,7 +3751,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3871,7 +3894,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3991,7 +4015,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4362,7 +4387,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4506,7 +4532,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4897,7 +4924,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5036,7 +5064,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5348,7 +5377,8 @@
             "demisto/jmespath",
             "demisto/dxl2",
             "demisto/taxii",
-            "demisto/tld"
+            "demisto/tld",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
