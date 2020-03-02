@@ -256,7 +256,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -351,7 +352,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -492,7 +494,8 @@
         "author": "Chris Smith crsmithdev@gmail.com",
         "docker_images": [
             "demisto/python_pancloud",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://arrow.readthedocs.io",
         "licenses": [
@@ -838,7 +841,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -866,7 +870,8 @@
             "demisto/winrm",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -976,7 +981,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1116,7 +1122,8 @@
             "demisto/winrm",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1272,7 +1279,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1651,7 +1659,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2119,7 +2128,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2227,7 +2237,8 @@
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/boto3py3",
-            "demisto/jmespath"
+            "demisto/jmespath",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/jmespath/jmespath.py",
         "licenses": [
@@ -2736,7 +2747,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2835,7 +2847,8 @@
     "pancloud": {
         "author": "Steven Serrata sserrata@paloaltonetworks.com",
         "docker_images": [
-            "demisto/python_pancloud"
+            "demisto/python_pancloud",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/PaloAltoNetworks/pancloud",
         "licenses": [
@@ -3056,7 +3069,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3310,7 +3324,8 @@
             "demisto/winrm",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3614,7 +3629,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3752,7 +3768,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3895,7 +3912,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4016,7 +4034,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4388,7 +4407,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4533,7 +4553,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4787,7 +4808,8 @@
     "tinydb": {
         "author": "Markus Siemens markus@m-siemens.de",
         "docker_images": [
-            "demisto/python_pancloud"
+            "demisto/python_pancloud",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/msiemens/tinydb",
         "licenses": [
@@ -4925,7 +4947,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5065,7 +5088,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5378,7 +5402,8 @@
             "demisto/dxl2",
             "demisto/taxii",
             "demisto/tld",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
