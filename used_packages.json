@@ -3,10 +3,10 @@
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
             "demisto/pyotrs",
-            "demisto/teams",
             "demisto/taxii-server",
             "demisto/sane-doc-reports",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -79,8 +79,8 @@
     "Flask": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/flask/",
         "licenses": [
@@ -92,8 +92,8 @@
     "Jinja2": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/jinja/",
         "licenses": [
@@ -117,8 +117,8 @@
     "MarkupSafe": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/markupsafe/",
         "licenses": [
@@ -148,8 +148,8 @@
             "demisto/snowflake",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/jpadilla/pyjwt",
         "licenses": [
@@ -206,7 +206,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -222,7 +221,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -257,7 +255,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -301,7 +301,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -317,7 +316,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -353,7 +351,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -404,8 +404,8 @@
     "Werkzeug": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/werkzeug/",
         "licenses": [
@@ -789,7 +789,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -805,7 +804,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -842,7 +840,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -863,15 +863,15 @@
             "demisto/python_pancloud",
             "demisto/slack",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/akamai",
             "demisto/winrm",
-            "demisto/crypto",
             "demisto/google-api-py3",
             "demisto/google-kms",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -929,7 +929,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -945,7 +944,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -982,7 +980,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1115,15 +1115,15 @@
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/akamai",
             "demisto/winrm",
-            "demisto/crypto",
             "demisto/google-api-py3",
             "demisto/google-kms",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1228,7 +1228,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -1244,7 +1243,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -1280,7 +1278,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1609,7 +1609,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -1625,7 +1624,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -1660,7 +1658,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1741,8 +1741,8 @@
     "gevent": {
         "author": "Denis Bilenko denis.bilenko@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "http://www.gevent.org/",
         "licenses": [
@@ -1959,8 +1959,8 @@
     "greenlet": {
         "author": "Alexey Borzenkov snaury@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/python-greenlet/greenlet",
         "licenses": [
@@ -2076,7 +2076,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -2092,7 +2091,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -2129,7 +2127,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2207,8 +2207,8 @@
     "itsdangerous": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/itsdangerous/",
         "licenses": [
@@ -2262,8 +2262,8 @@
     "jwt": {
         "author": "Kohei YOSHIDA kohei.yoshida@gehirn.co.jp",
         "docker_images": [
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/GehirnInc/python-jwt",
         "licenses": [
@@ -2559,7 +2559,8 @@
             "demisto/netaddr",
             "demisto/taxii-server",
             "demisto/netutils",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2696,7 +2697,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -2712,7 +2712,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -2748,7 +2747,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3017,7 +3018,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -3033,7 +3033,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -3070,7 +3069,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3317,15 +3318,15 @@
             "demisto/python_pancloud",
             "demisto/slack",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/akamai",
             "demisto/winrm",
-            "demisto/crypto",
             "demisto/google-api-py3",
             "demisto/google-kms",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3577,7 +3578,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -3593,7 +3593,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -3630,7 +3629,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3716,7 +3717,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -3732,7 +3732,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -3769,7 +3768,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3861,7 +3862,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -3877,7 +3877,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -3913,7 +3912,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -3982,7 +3983,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -3998,7 +3998,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -4035,7 +4034,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4355,7 +4356,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -4371,7 +4371,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -4408,7 +4407,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4501,7 +4502,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -4517,7 +4517,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -4554,7 +4553,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4896,7 +4897,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -4912,7 +4912,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -4948,7 +4947,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5036,7 +5037,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -5052,7 +5052,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -5089,7 +5088,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5350,7 +5351,6 @@
             "demisto/faker3",
             "demisto/pyjwt3",
             "demisto/uptycs",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/smime-encrypt",
             "demisto/dxl",
@@ -5366,7 +5366,6 @@
             "demisto/pymongo",
             "demisto/winrm",
             "demisto/xlrd-py3",
-            "demisto/crypto",
             "demisto/bigquery",
             "demisto/google-cloud-storage",
             "demisto/matplotlib",
@@ -5403,7 +5402,9 @@
             "demisto/tld",
             "demisto/py42",
             "demisto/python_pancloud_v2",
-            "demisto/ldap"
+            "demisto/ldap",
+            "demisto/crypto",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
