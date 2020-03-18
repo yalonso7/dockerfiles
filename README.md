@@ -39,6 +39,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/exifread](demisto/exifread/last.md)
 * [demisto/faker3](demisto/faker3/last.md)
 * [demisto/fasttext](demisto/fasttext/last.md)
+* [demisto/genericsql](demisto/genericsql/last.md)
 * [demisto/geopy](demisto/geopy/last.md)
 * [demisto/google-api](demisto/google-api/last.md)
 * [demisto/google-api-py3](demisto/google-api-py3/last.md)
@@ -143,4 +144,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-03-17 01:02:41.910468
+Last updated: 2020-03-18 01:01:28.652394

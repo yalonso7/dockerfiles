@@ -157,6 +157,18 @@
         "pypi_url": "https://pypi.org/project/PyJWT/",
         "summary": "JSON Web Token implementation in Python"
     },
+    "PyMySQL": {
+        "author": "yutaka.matsubara yutaka.matsubara@gmail.com",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "https://github.com/PyMySQL/PyMySQL/",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/PyMySQL/",
+        "summary": "Pure Python MySQL Driver"
+    },
     "PyOTRS": {
         "author": "Robert Habermann mail@rhab.de",
         "docker_images": [
@@ -259,7 +271,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -358,7 +371,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -393,6 +407,18 @@
         ],
         "pypi_url": "https://pypi.org/project/SOAPpy/",
         "summary": "SOAP Services for Python"
+    },
+    "SQLAlchemy": {
+        "author": "Mike Bayer mike_mp@zzzcomputing.com",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "http://www.sqlalchemy.org",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/SQLAlchemy/",
+        "summary": "Database Abstraction Library"
     },
     "SecretStorage": {
         "author": "Dmitry Shachnev mitya57@gmail.com",
@@ -853,7 +879,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -996,7 +1023,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1297,7 +1325,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1680,7 +1709,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2154,7 +2184,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2775,7 +2806,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3097,7 +3129,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3197,6 +3230,19 @@
             "License :: OSI Approved :: Zope Public License"
         ],
         "pypi_url": "https://pypi.org/project/psycopg2/",
+        "summary": "psycopg2 - Python-PostgreSQL Database Adapter"
+    },
+    "psycopg2-binary": {
+        "author": "Federico Di Gregorio fog@initd.org",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "http://initd.org/psycopg/",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
+            "License :: OSI Approved :: Zope Public License"
+        ],
+        "pypi_url": "https://pypi.org/project/psycopg2-binary/",
         "summary": "psycopg2 - Python-PostgreSQL Database Adapter"
     },
     "py": {
@@ -3490,6 +3536,18 @@
         "pypi_url": "https://pypi.org/project/pymongo/",
         "summary": "Python driver for MongoDB <http://www.mongodb.org>"
     },
+    "pyodbc": {
+        "author": "",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "https://github.com/mkleehammer/pyodbc",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyodbc/",
+        "summary": "DB API Module for ODBC"
+    },
     "pyparsing": {
         "author": "Paul McGuire ptmcg@users.sourceforge.net",
         "docker_images": [
@@ -3659,7 +3717,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3800,7 +3859,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3947,7 +4007,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4071,7 +4132,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4445,7 +4507,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4592,7 +4655,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4989,7 +5053,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5133,7 +5198,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5444,7 +5510,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
