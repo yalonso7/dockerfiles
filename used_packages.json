@@ -225,7 +225,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -272,7 +271,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -324,7 +325,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -372,7 +372,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -497,7 +499,8 @@
     "antlr4-python3-runtime": {
         "author": "Eric Vergnaud, Terence Parr, Sam Harwell eric.vergnaud@wanadoo.fr",
         "docker_images": [
-            "demisto/stix2"
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "http://www.antlr.org",
         "licenses": [
@@ -832,7 +835,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -880,7 +882,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -976,7 +980,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1024,7 +1027,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1278,7 +1283,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1326,7 +1330,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1663,7 +1669,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1710,7 +1715,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2137,7 +2144,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -2185,7 +2191,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2759,7 +2767,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -2807,7 +2814,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3082,7 +3091,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3130,7 +3138,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3670,7 +3680,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3718,7 +3727,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3812,7 +3823,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3860,7 +3870,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3960,7 +3972,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4008,7 +4019,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4085,7 +4098,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4133,7 +4145,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4460,7 +4474,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4508,7 +4521,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4521,7 +4536,8 @@
         "author": "Bob Ippolito bob@redivi.com",
         "docker_images": [
             "demisto/pcap",
-            "demisto/stix2"
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/simplejson/simplejson",
         "licenses": [
@@ -4608,7 +4624,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4656,7 +4671,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4799,7 +4816,8 @@
     "stix2": {
         "author": "OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org",
         "docker_images": [
-            "demisto/stix2"
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://oasis-open.github.io/cti-documentation/",
         "licenses": [
@@ -4811,7 +4829,8 @@
     "stix2-patterns": {
         "author": "Chris Lenk clenk@mitre.org",
         "docker_images": [
-            "demisto/stix2"
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/oasis-open/cti-pattern-validator",
         "licenses": [
@@ -4857,6 +4876,18 @@
         ],
         "pypi_url": "https://pypi.org/project/tabulate/",
         "summary": "Pretty-print tabular data"
+    },
+    "taxii2-client": {
+        "author": "OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org",
+        "docker_images": [
+            "demisto/taxii2"
+        ],
+        "home_page": "https://github.com/oasis-open/cti-taxii-client",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/taxii2-client/",
+        "summary": "TAXII 2 Client Library"
     },
     "tenable-io": {
         "author": "Tenable Network Security, Inc",
@@ -5006,7 +5037,6 @@
             "demisto/algorithmia",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5054,7 +5084,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5151,7 +5183,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5199,7 +5230,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5463,7 +5496,6 @@
             "demisto/dl",
             "demisto/netutils",
             "demisto/sixgill",
-            "demisto/stix2",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5511,7 +5543,9 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/py42",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/stix2",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

@@ -122,6 +122,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/symantec_mss](demisto/symantec_mss/last.md)
 * [demisto/taxii](demisto/taxii/last.md)
 * [demisto/taxii-server](demisto/taxii-server/last.md)
+* [demisto/taxii2](demisto/taxii2/last.md)
 * [demisto/teams](demisto/teams/last.md)
 * [demisto/tenable_io](demisto/tenable_io/last.md)
 * [demisto/tesseract](demisto/tesseract/last.md)
@@ -144,4 +145,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-03-18 01:01:28.652394
+Last updated: 2020-03-19 01:01:38.797643
