@@ -273,7 +273,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -375,7 +376,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -885,7 +887,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1030,7 +1033,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1335,7 +1339,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1720,7 +1725,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2196,7 +2202,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2819,7 +2826,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3144,7 +3152,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3733,7 +3742,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3877,7 +3887,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3933,6 +3944,18 @@
         ],
         "pypi_url": "https://pypi.org/project/pywinrm/",
         "summary": "Python library for Windows Remote Management"
+    },
+    "pyzabbix": {
+        "author": "Luke Cyca me@lukecyca.com",
+        "docker_images": [
+            "demisto/zabbix"
+        ],
+        "home_page": "http://github.com/lukecyca/pyzabbix",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)"
+        ],
+        "pypi_url": "https://pypi.org/project/pyzabbix/",
+        "summary": "Zabbix API Python interface"
     },
     "redis": {
         "author": "Andy McCurdy sedrik@gmail.com",
@@ -4027,7 +4050,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4153,7 +4177,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4530,7 +4555,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4681,7 +4707,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5096,7 +5123,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5242,7 +5270,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5557,7 +5586,8 @@
             "demisto/sane-pdf-reports",
             "demisto/devo",
             "demisto/yarapy",
-            "demisto/google-cloud-translate"
+            "demisto/google-cloud-translate",
+            "demisto/zabbix"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

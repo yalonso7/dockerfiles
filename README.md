@@ -143,7 +143,8 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/xlrd-py3](demisto/xlrd-py3/last.md)
 * [demisto/xmlparser](demisto/xmlparser/last.md)
 * [demisto/yarapy](demisto/yarapy/last.md)
+* [demisto/zabbix](demisto/zabbix/last.md)
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-03-27 01:02:00.950372
+Last updated: 2020-03-28 01:01:49.707840
