@@ -223,7 +223,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -274,7 +273,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -325,7 +325,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -377,7 +376,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -835,7 +835,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -888,7 +887,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -981,7 +981,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1034,7 +1033,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1288,7 +1288,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1340,7 +1339,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1675,7 +1675,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -1726,7 +1725,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2150,7 +2150,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -2203,7 +2202,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2775,7 +2775,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -2827,7 +2826,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3099,7 +3099,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3153,7 +3152,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3690,7 +3690,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3743,7 +3742,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3835,7 +3835,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -3888,7 +3887,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3999,7 +3999,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4051,7 +4050,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4125,7 +4125,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4178,7 +4177,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4502,7 +4502,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4556,7 +4555,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4655,7 +4655,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -4708,7 +4707,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5071,7 +5071,6 @@
             "demisto/google-cloud-storage",
             "demisto/algorithmia",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5124,7 +5123,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5218,7 +5218,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5271,7 +5270,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5533,7 +5533,6 @@
             "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
-            "demisto/sixgill",
             "demisto/btfl-soup",
             "demisto/elasticsearch",
             "demisto/archer",
@@ -5587,7 +5586,8 @@
             "demisto/devo",
             "demisto/yarapy",
             "demisto/google-cloud-translate",
-            "demisto/zabbix"
+            "demisto/zabbix",
+            "demisto/sixgill"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
