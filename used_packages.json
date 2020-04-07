@@ -195,7 +195,6 @@
     "PySocks": {
         "author": "Anorov anorov.vorona@gmail.com",
         "docker_images": [
-            "demisto/ippysocks",
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/iputils",
@@ -223,7 +222,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -236,7 +234,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
@@ -267,14 +264,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -325,7 +325,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -338,7 +337,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -370,14 +368,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -519,7 +519,8 @@
             "demisto/langdetect",
             "demisto/pypdf2",
             "demisto/pcap",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/ippysocks"
         ],
         "home_page": "http://github.com/ActiveState/appdirs",
         "licenses": [
@@ -656,9 +657,9 @@
         "docker_images": [
             "demisto/pytan",
             "demisto/xmlparser",
-            "demisto/taxii",
             "demisto/bs4",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "http://www.crummy.com/software/BeautifulSoup/bs4/",
         "licenses": [
@@ -835,7 +836,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -848,7 +848,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -881,14 +880,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -981,7 +982,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -994,7 +994,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -1027,14 +1026,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1138,7 +1139,8 @@
         "docker_images": [
             "demisto/resilient",
             "demisto/chromium",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/ippysocks"
         ],
         "home_page": "https://github.com/jaraco/configparser/",
         "licenses": [
@@ -1146,6 +1148,18 @@
         ],
         "pypi_url": "https://pypi.org/project/configparser/",
         "summary": "Updated configparser from Python 3.7 for Python 2.6+."
+    },
+    "contextlib2": {
+        "author": "Nick Coghlan ncoghlan@gmail.com",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "http://contextlib2.readthedocs.org",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/contextlib2/",
+        "summary": "Backports and enhancements for the contextlib module"
     },
     "crayons": {
         "author": "Kenneth Reitz me@kennethreitz.com",
@@ -1210,7 +1224,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/taxii-server"
@@ -1290,7 +1303,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -1303,7 +1315,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -1335,14 +1346,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1400,6 +1413,18 @@
         ],
         "pypi_url": "https://pypi.org/project/devodsconnector/",
         "summary": "APIs for querying and loading data into Devo"
+    },
+    "distlib": {
+        "author": "Vinay Sajip vinay_sajip@red-dove.com",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://bitbucket.org/pypa/distlib",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/distlib/",
+        "summary": "Distribution utilities"
     },
     "dnspython": {
         "author": "Bob Halley halley@dnspython.org",
@@ -1649,6 +1674,18 @@
         "pypi_url": "https://pypi.org/project/fasttext/",
         "summary": "fasttext Python bindings"
     },
+    "filelock": {
+        "author": "Benedikt Schmitt benedikt@benediktschmitt.de",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://github.com/benediktschmitt/py-filelock",
+        "licenses": [
+            "License :: Public Domain"
+        ],
+        "pypi_url": "https://pypi.org/project/filelock/",
+        "summary": "A platform independent file lock."
+    },
     "funcy": {
         "author": "Alexander Schepanovski suor.web@gmail.com",
         "docker_images": [
@@ -1678,7 +1715,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -1691,7 +1727,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
@@ -1722,14 +1757,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1753,12 +1790,12 @@
     "future": {
         "author": "Ed Schofield ed@pythoncharmers.com",
         "docker_images": [
-            "demisto/ippysocks",
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/snowflake",
             "demisto/py-ews",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/ippysocks"
         ],
         "home_page": "https://python-future.org",
         "licenses": [
@@ -2153,7 +2190,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -2166,7 +2202,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -2199,14 +2234,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2230,7 +2267,8 @@
     "importlib-metadata": {
         "author": "Barry Warsaw barry@python.org",
         "docker_images": [
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/ippysocks"
         ],
         "home_page": "http://importlib-metadata.readthedocs.io/",
         "licenses": [
@@ -2238,6 +2276,18 @@
         ],
         "pypi_url": "https://pypi.org/project/importlib-metadata/",
         "summary": "Read metadata from Python packages"
+    },
+    "importlib-resources": {
+        "author": "Barry Warsaw barry@python.org",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "http://importlib-resources.readthedocs.io/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/importlib-resources/",
+        "summary": "Read resources from Python packages"
     },
     "ipaddress": {
         "author": "Philipp Hagemeister phihag@phihag.de",
@@ -2313,8 +2363,8 @@
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/jmespath",
-            "demisto/boto3py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/jmespath/jmespath.py",
         "licenses": [
@@ -2425,8 +2475,8 @@
     "libtaxii": {
         "author": "The MITRE Corporation taxii@mitre.org",
         "docker_images": [
-            "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/taxii"
         ],
         "home_page": "https://taxiiproject.github.io/",
         "licenses": [
@@ -2457,7 +2507,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/vmware",
@@ -2469,10 +2518,10 @@
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/docxpy",
-            "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/py-ews",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/taxii"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2496,8 +2545,8 @@
     "markdownify": {
         "author": "Matthew Tretter m@tthewwithanm.com",
         "docker_images": [
-            "demisto/taxii",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "http://github.com/matthewwithanm/python-markdownify",
         "licenses": [
@@ -2566,7 +2615,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/taxii-server"
@@ -2633,9 +2681,9 @@
         "docker_images": [
             "demisto/netaddr",
             "demisto/netutils",
-            "demisto/taxii",
             "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2747,7 +2795,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/aquatone",
@@ -2779,7 +2826,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -2792,7 +2838,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -2824,14 +2869,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -2861,7 +2908,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/taxii-server"
@@ -2971,6 +3017,18 @@
         "pypi_url": "https://pypi.org/project/pathlib/",
         "summary": "Object-oriented filesystem paths"
     },
+    "pathlib2": {
+        "author": "Matthias C. M. Troffaes matthias.troffaes@gmail.com",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://github.com/mcmtroffaes/pathlib2",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/pathlib2/",
+        "summary": "Object-oriented filesystem paths"
+    },
     "pdf2image": {
         "author": "Edouard Belval edouard@belval.org",
         "docker_images": [
@@ -3042,7 +3100,6 @@
             "demisto/pyotrs",
             "demisto/stomp",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/dateutil",
             "demisto/pytan",
@@ -3103,7 +3160,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -3116,7 +3172,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -3150,14 +3205,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3264,7 +3322,7 @@
         "docker_images": [
             "demisto/genericsql"
         ],
-        "home_page": "http://initd.org/psycopg/",
+        "home_page": "https://psycopg.org/",
         "licenses": [
             "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
             "License :: OSI Approved :: Zope Public License"
@@ -3329,7 +3387,6 @@
         "docker_images": [
             "demisto/pysmb",
             "demisto/bigquery",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/akamai",
             "demisto/googleapi-python3",
@@ -3340,7 +3397,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-vision-api",
             "demisto/google-api-py3",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3450,8 +3508,8 @@
     "pycryptodome": {
         "author": "Helder Eijs helderijs@gmail.com",
         "docker_images": [
-            "demisto/taxii",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://www.pycryptodome.org",
         "licenses": [
@@ -3653,7 +3711,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/dateutil",
             "demisto/pytan",
@@ -3694,7 +3751,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -3707,7 +3763,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -3740,14 +3795,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3839,7 +3896,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -3852,7 +3908,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -3885,14 +3940,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4004,7 +4061,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -4017,7 +4073,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -4049,14 +4104,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4078,7 +4135,6 @@
             "demisto/7zip",
             "demisto/pyotrs",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/exifread",
             "demisto/pysmb",
@@ -4130,7 +4186,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -4143,7 +4198,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -4176,14 +4230,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4301,7 +4357,6 @@
         "author": "Sybren A. Stuvel sybren@stuvel.eu",
         "docker_images": [
             "demisto/bigquery",
-            "demisto/taxii",
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-cloud-translate",
@@ -4310,7 +4365,8 @@
             "demisto/google-cloud-storage",
             "demisto/google-vision-api",
             "demisto/google-api-py3",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4357,6 +4413,18 @@
         ],
         "pypi_url": null,
         "summary": "UNKNOWN"
+    },
+    "scandir": {
+        "author": "Ben Hoyt benhoyt@gmail.com",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://github.com/benhoyt/scandir",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/scandir/",
+        "summary": "scandir, a better directory iterator and faster os.walk()"
     },
     "scikit-image": {
         "author": "",
@@ -4446,7 +4514,6 @@
             "demisto/pyotrs",
             "demisto/stomp",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/dateutil",
             "demisto/pytan",
@@ -4507,7 +4574,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -4520,7 +4586,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -4554,14 +4619,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4588,7 +4656,8 @@
     "singledispatch": {
         "author": "\u0141ukasz Langa lukasz@langa.pl",
         "docker_images": [
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/ippysocks"
         ],
         "home_page": "http://docs.python.org/3/library/functools.html#functools.singledispatch",
         "licenses": [
@@ -4611,7 +4680,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pytan",
             "demisto/pysmb",
@@ -4660,7 +4728,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -4673,7 +4740,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -4706,14 +4772,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -4773,9 +4842,9 @@
     "soupsieve": {
         "author": "Isaac Muse Isaac.Muse@gmail.com",
         "docker_images": [
-            "demisto/taxii",
             "demisto/bs4",
-            "demisto/btfl-soup"
+            "demisto/btfl-soup",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/facelessuser/soupsieve",
         "licenses": [
@@ -4829,7 +4898,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb",
             "demisto/taxii-server"
@@ -5044,6 +5112,18 @@
         "pypi_url": "https://pypi.org/project/trustar/",
         "summary": "Python SDK for the TruSTAR REST API"
     },
+    "typing": {
+        "author": "Guido van Rossum, Jukka Lehtosalo, \u0141ukasz Langa, Ivan Levkivskyi jukka.lehtosalo@iki.fi",
+        "docker_images": [
+            "demisto/ippysocks"
+        ],
+        "home_page": "https://docs.python.org/3/library/typing.html",
+        "licenses": [
+            "License :: OSI Approved :: Python Software Foundation License"
+        ],
+        "pypi_url": "https://pypi.org/project/typing/",
+        "summary": "Type Hints for Python"
+    },
     "tzlocal": {
         "author": "Lennart Regebro regebro@gmail.com",
         "docker_images": [
@@ -5076,7 +5156,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -5089,7 +5168,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -5122,14 +5200,16 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5174,7 +5254,6 @@
             "demisto/boto3",
             "demisto/machine-learning",
             "demisto/pyotrs",
-            "demisto/ippysocks",
             "demisto/exifread",
             "demisto/pypdf2",
             "demisto/vmray",
@@ -5223,7 +5302,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -5236,7 +5314,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -5269,14 +5346,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5340,7 +5420,6 @@
             "demisto/7zip",
             "demisto/stomp",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pytan",
             "demisto/exifread",
@@ -5366,7 +5445,8 @@
             "demisto/phishai",
             "demisto/threatconnect",
             "demisto/py-ews",
-            "demisto/splunksdk"
+            "demisto/splunksdk",
+            "demisto/ippysocks"
         ],
         "home_page": "https://virtualenv.pypa.io/",
         "licenses": [
@@ -5408,7 +5488,6 @@
             "demisto/pdfx",
             "demisto/7zip",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/pysmb"
         ],
@@ -5477,7 +5556,6 @@
             "demisto/pyotrs",
             "demisto/stomp",
             "demisto/openpyxl",
-            "demisto/ippysocks",
             "demisto/xlrd",
             "demisto/dateutil",
             "demisto/pytan",
@@ -5538,7 +5616,6 @@
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
-            "demisto/taxii",
             "demisto/ldap",
             "demisto/bs4",
             "demisto/vertica",
@@ -5551,7 +5628,6 @@
             "demisto/winrm",
             "demisto/googleapi-python3",
             "demisto/aiohttp",
-            "demisto/genericsql",
             "demisto/powershell-core",
             "demisto/pandas",
             "demisto/py42",
@@ -5585,14 +5661,17 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/taxii",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5704,7 +5783,8 @@
     "zipp": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/ippysocks"
         ],
         "home_page": "https://github.com/jaraco/zipp",
         "licenses": [
