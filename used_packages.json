@@ -218,7 +218,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -271,10 +270,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -321,7 +321,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -375,9 +374,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -488,7 +489,7 @@
         "summary": "Algorithmia Python Client"
     },
     "algorithmia-api-client": {
-        "author": "support@algorithmia.com",
+        "author": "Algorithmia Support Team support@algorithmia.com",
         "docker_images": [
             "demisto/algorithmia"
         ],
@@ -519,8 +520,7 @@
             "demisto/langdetect",
             "demisto/pypdf2",
             "demisto/pcap",
-            "demisto/zeep",
-            "demisto/ippysocks"
+            "demisto/zeep"
         ],
         "home_page": "http://github.com/ActiveState/appdirs",
         "licenses": [
@@ -831,7 +831,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -887,9 +886,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -977,7 +978,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -1033,9 +1033,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1139,8 +1141,7 @@
         "docker_images": [
             "demisto/resilient",
             "demisto/chromium",
-            "demisto/trustar",
-            "demisto/ippysocks"
+            "demisto/trustar"
         ],
         "home_page": "https://github.com/jaraco/configparser/",
         "licenses": [
@@ -1148,18 +1149,6 @@
         ],
         "pypi_url": "https://pypi.org/project/configparser/",
         "summary": "Updated configparser from Python 3.7 for Python 2.6+."
-    },
-    "contextlib2": {
-        "author": "Nick Coghlan ncoghlan@gmail.com",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "http://contextlib2.readthedocs.org",
-        "licenses": [
-            "License :: OSI Approved :: Python Software Foundation License"
-        ],
-        "pypi_url": "https://pypi.org/project/contextlib2/",
-        "summary": "Backports and enhancements for the contextlib module"
     },
     "crayons": {
         "author": "Kenneth Reitz me@kennethreitz.com",
@@ -1299,7 +1288,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -1353,9 +1341,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1413,18 +1403,6 @@
         ],
         "pypi_url": "https://pypi.org/project/devodsconnector/",
         "summary": "APIs for querying and loading data into Devo"
-    },
-    "distlib": {
-        "author": "Vinay Sajip vinay_sajip@red-dove.com",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "https://bitbucket.org/pypa/distlib",
-        "licenses": [
-            "License :: OSI Approved :: Python Software Foundation License"
-        ],
-        "pypi_url": "https://pypi.org/project/distlib/",
-        "summary": "Distribution utilities"
     },
     "dnspython": {
         "author": "Bob Halley halley@dnspython.org",
@@ -1613,8 +1591,8 @@
             "demisto/resilient",
             "demisto/ews",
             "demisto/threatconnect",
-            "demisto/algorithmia",
-            "demisto/py-ews"
+            "demisto/py-ews",
+            "demisto/algorithmia"
         ],
         "home_page": "https://bitbucket.org/stoneleaf/enum34",
         "licenses": [
@@ -1674,18 +1652,6 @@
         "pypi_url": "https://pypi.org/project/fasttext/",
         "summary": "fasttext Python bindings"
     },
-    "filelock": {
-        "author": "Benedikt Schmitt benedikt@benediktschmitt.de",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "https://github.com/benediktschmitt/py-filelock",
-        "licenses": [
-            "License :: Public Domain"
-        ],
-        "pypi_url": "https://pypi.org/project/filelock/",
-        "summary": "A platform independent file lock."
-    },
     "funcy": {
         "author": "Alexander Schepanovski suor.web@gmail.com",
         "docker_images": [
@@ -1711,7 +1677,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -1764,9 +1729,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2185,7 +2152,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -2241,9 +2207,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2267,8 +2235,7 @@
     "importlib-metadata": {
         "author": "Barry Warsaw barry@python.org",
         "docker_images": [
-            "demisto/pymisp",
-            "demisto/ippysocks"
+            "demisto/pymisp"
         ],
         "home_page": "http://importlib-metadata.readthedocs.io/",
         "licenses": [
@@ -2276,18 +2243,6 @@
         ],
         "pypi_url": "https://pypi.org/project/importlib-metadata/",
         "summary": "Read metadata from Python packages"
-    },
-    "importlib-resources": {
-        "author": "Barry Warsaw barry@python.org",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "http://importlib-resources.readthedocs.io/",
-        "licenses": [
-            "License :: OSI Approved :: Apache Software License"
-        ],
-        "pypi_url": "https://pypi.org/project/importlib-resources/",
-        "summary": "Read resources from Python packages"
     },
     "ipaddress": {
         "author": "Philipp Hagemeister phihag@phihag.de",
@@ -2822,7 +2777,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -2876,9 +2830,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3017,18 +2973,6 @@
         "pypi_url": "https://pypi.org/project/pathlib/",
         "summary": "Object-oriented filesystem paths"
     },
-    "pathlib2": {
-        "author": "Matthias C. M. Troffaes matthias.troffaes@gmail.com",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "https://github.com/mcmtroffaes/pathlib2",
-        "licenses": [
-            "License :: OSI Approved :: MIT License"
-        ],
-        "pypi_url": "https://pypi.org/project/pathlib2/",
-        "summary": "Object-oriented filesystem paths"
-    },
     "pdf2image": {
         "author": "Edouard Belval edouard@belval.org",
         "docker_images": [
@@ -3155,7 +3099,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -3212,10 +3155,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3746,7 +3690,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -3802,9 +3745,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3891,7 +3836,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -3947,9 +3891,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4057,7 +4003,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -4111,9 +4056,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4181,7 +4128,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -4237,9 +4183,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4414,18 +4362,6 @@
         "pypi_url": null,
         "summary": "UNKNOWN"
     },
-    "scandir": {
-        "author": "Ben Hoyt benhoyt@gmail.com",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "https://github.com/benhoyt/scandir",
-        "licenses": [
-            "License :: OSI Approved :: BSD License"
-        ],
-        "pypi_url": "https://pypi.org/project/scandir/",
-        "summary": "scandir, a better directory iterator and faster os.walk()"
-    },
     "scikit-image": {
         "author": "",
         "docker_images": [
@@ -4569,7 +4505,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -4626,10 +4561,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4656,8 +4592,7 @@
     "singledispatch": {
         "author": "\u0141ukasz Langa lukasz@langa.pl",
         "docker_images": [
-            "demisto/dl",
-            "demisto/ippysocks"
+            "demisto/dl"
         ],
         "home_page": "http://docs.python.org/3/library/functools.html#functools.singledispatch",
         "licenses": [
@@ -4723,7 +4658,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -4779,10 +4713,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5112,18 +5047,6 @@
         "pypi_url": "https://pypi.org/project/trustar/",
         "summary": "Python SDK for the TruSTAR REST API"
     },
-    "typing": {
-        "author": "Guido van Rossum, Jukka Lehtosalo, \u0141ukasz Langa, Ivan Levkivskyi jukka.lehtosalo@iki.fi",
-        "docker_images": [
-            "demisto/ippysocks"
-        ],
-        "home_page": "https://docs.python.org/3/library/typing.html",
-        "licenses": [
-            "License :: OSI Approved :: Python Software Foundation License"
-        ],
-        "pypi_url": "https://pypi.org/project/typing/",
-        "summary": "Type Hints for Python"
-    },
     "tzlocal": {
         "author": "Lennart Regebro regebro@gmail.com",
         "docker_images": [
@@ -5152,7 +5075,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -5207,9 +5129,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
-            "demisto/boto3py3",
             "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/boto3py3",
+            "demisto/ippysocks",
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5297,7 +5221,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -5353,10 +5276,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5445,8 +5369,7 @@
             "demisto/phishai",
             "demisto/threatconnect",
             "demisto/py-ews",
-            "demisto/splunksdk",
-            "demisto/ippysocks"
+            "demisto/splunksdk"
         ],
         "home_page": "https://virtualenv.pypa.io/",
         "licenses": [
@@ -5611,7 +5534,6 @@
             "demisto/pymongo",
             "demisto/xlrd-py3",
             "demisto/bigquery",
-            "demisto/algorithmia",
             "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
@@ -5668,10 +5590,11 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
+            "demisto/taxii",
+            "demisto/genericsql",
             "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/taxii",
-            "demisto/genericsql"
+            "demisto/algorithmia"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5783,8 +5706,7 @@
     "zipp": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/pymisp",
-            "demisto/ippysocks"
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/jaraco/zipp",
         "licenses": [
