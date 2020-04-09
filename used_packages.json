@@ -271,10 +271,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -375,10 +375,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -887,10 +887,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1034,10 +1034,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1342,10 +1342,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1730,10 +1730,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2208,10 +2208,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2831,10 +2831,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3156,10 +3156,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3746,10 +3746,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3892,10 +3892,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4057,10 +4057,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4184,10 +4184,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4562,10 +4562,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4714,10 +4714,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5130,10 +5130,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5277,10 +5277,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5591,10 +5591,10 @@
             "demisto/btfl-soup",
             "demisto/trustar",
             "demisto/taxii",
-            "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/ippysocks",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/boto3py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
