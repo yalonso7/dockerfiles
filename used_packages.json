@@ -76,8 +76,8 @@
     "Flask": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/flask/",
         "licenses": [
@@ -89,8 +89,8 @@
     "Jinja2": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/jinja/",
         "licenses": [
@@ -114,8 +114,8 @@
     "MarkupSafe": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/markupsafe/",
         "licenses": [
@@ -206,7 +206,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -263,7 +262,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -274,7 +272,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -309,7 +309,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -367,7 +366,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -378,7 +376,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -441,8 +441,8 @@
     "Werkzeug": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/werkzeug/",
         "licenses": [
@@ -466,8 +466,8 @@
     "aiohttp": {
         "author": "Nikolay Kim fafhrd91@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/aiohttp",
         "licenses": [
@@ -566,8 +566,8 @@
     "async-timeout": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/async_timeout/",
         "licenses": [
@@ -580,9 +580,9 @@
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
             "demisto/zeep",
-            "demisto/slack",
             "demisto/aiohttp",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -819,7 +819,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -879,7 +878,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -890,7 +888,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -908,7 +908,6 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/pyjwt3",
             "demisto/oauthlib",
             "demisto/akamai",
@@ -917,9 +916,10 @@
             "demisto/py-ews",
             "demisto/google-kms",
             "demisto/crypto",
-            "demisto/teams",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -966,7 +966,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -1026,7 +1025,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1037,7 +1035,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1063,8 +1063,8 @@
         "docker_images": [
             "demisto/keepercommander",
             "demisto/sane-doc-reports",
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1179,9 +1179,9 @@
             "demisto/py-ews",
             "demisto/google-kms",
             "demisto/crypto",
-            "demisto/teams",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1276,7 +1276,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -1334,7 +1333,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1345,7 +1343,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1665,7 +1665,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -1722,7 +1721,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1733,7 +1731,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1813,8 +1813,8 @@
     "gevent": {
         "author": "Denis Bilenko denis.bilenko@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "http://www.gevent.org/",
         "licenses": [
@@ -2035,8 +2035,8 @@
     "greenlet": {
         "author": "Alexey Borzenkov snaury@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/python-greenlet/greenlet",
         "licenses": [
@@ -2140,7 +2140,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -2200,7 +2199,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -2211,7 +2209,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2288,8 +2288,8 @@
     "itsdangerous": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/itsdangerous/",
         "licenses": [
@@ -2597,8 +2597,8 @@
     "multidict": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/multidict",
         "licenses": [
@@ -2636,9 +2636,9 @@
         "docker_images": [
             "demisto/netaddr",
             "demisto/netutils",
-            "demisto/teams",
             "demisto/taxii-server",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -2765,7 +2765,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -2823,7 +2822,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -2834,7 +2832,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3087,7 +3087,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -3148,7 +3147,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3159,7 +3157,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3417,7 +3417,6 @@
             "demisto/ews",
             "demisto/snowflake",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/pyjwt3",
             "demisto/oauthlib",
             "demisto/akamai",
@@ -3426,9 +3425,10 @@
             "demisto/py-ews",
             "demisto/google-kms",
             "demisto/crypto",
-            "demisto/teams",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3678,7 +3678,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -3738,7 +3737,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3749,7 +3747,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3824,7 +3824,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -3884,7 +3883,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3895,7 +3893,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -3991,7 +3991,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -4049,7 +4048,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4060,7 +4058,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4116,7 +4116,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -4176,7 +4175,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4187,7 +4185,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4493,7 +4493,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -4554,7 +4553,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4565,7 +4563,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4646,7 +4646,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -4706,7 +4705,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4717,7 +4715,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5063,7 +5063,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -5122,7 +5121,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5133,7 +5131,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5209,7 +5209,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -5269,7 +5268,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5280,7 +5278,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5522,7 +5522,6 @@
             "demisto/circleci",
             "demisto/nltk",
             "demisto/openssh",
-            "demisto/slack",
             "demisto/uptycs",
             "demisto/dxl",
             "demisto/office-utils",
@@ -5583,7 +5582,6 @@
             "demisto/stix2",
             "demisto/chromium",
             "demisto/google-vision-api",
-            "demisto/teams",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5594,7 +5592,9 @@
             "demisto/ippysocks",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -5681,8 +5681,8 @@
     "yarl": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/yarl/",
         "licenses": [
