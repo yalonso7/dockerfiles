@@ -267,14 +267,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -371,14 +371,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -883,14 +883,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1030,14 +1030,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1204,6 +1204,18 @@
         "pypi_url": "https://pypi.org/project/cssselect/",
         "summary": "cssselect parses CSS3 Selectors and translates them to XPath 1.0"
     },
+    "cx-Oracle": {
+        "author": "Anthony Tuininga anthony.tuininga@gmail.com",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "https://oracle.github.io/python-cx_Oracle",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/cx-Oracle/",
+        "summary": "Python interface to Oracle"
+    },
     "cybox": {
         "author": "CybOX Project, MITRE Corporation cybox@mitre.org",
         "docker_images": [
@@ -1338,14 +1350,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1726,14 +1738,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2204,14 +2216,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2827,14 +2839,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3152,14 +3164,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3742,14 +3754,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3888,14 +3900,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4053,14 +4065,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4180,14 +4192,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4559,14 +4571,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4711,14 +4723,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5128,14 +5140,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5275,14 +5287,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5589,14 +5601,14 @@
             "demisto/taxii",
             "demisto/algorithmia",
             "demisto/boto3py3",
-            "demisto/genericsql",
             "demisto/slack",
             "demisto/teams",
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/google-vision-api",
             "demisto/google-kms",
-            "demisto/xlrd-py3"
+            "demisto/xlrd-py3",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
