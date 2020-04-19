@@ -234,7 +234,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -274,7 +273,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -338,7 +338,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -378,7 +377,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -849,7 +849,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -890,7 +889,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -996,7 +996,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -1037,7 +1036,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1317,7 +1317,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -1357,7 +1356,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1705,7 +1705,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -1745,7 +1744,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2182,7 +2182,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -2223,7 +2222,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2806,7 +2806,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -2846,7 +2845,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3129,7 +3129,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -3171,7 +3170,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3720,7 +3720,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -3761,7 +3760,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3866,7 +3866,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -3907,7 +3906,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4032,7 +4032,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -4072,7 +4071,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4158,7 +4158,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -4199,7 +4198,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4536,7 +4536,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -4578,7 +4577,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4689,7 +4689,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -4730,7 +4729,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5106,7 +5106,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -5147,7 +5146,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5253,7 +5253,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -5294,7 +5293,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5566,7 +5566,6 @@
             "demisto/pandas",
             "demisto/py42",
             "demisto/sane-doc-reports",
-            "demisto/hashicorp",
             "demisto/matplotlib",
             "demisto/python",
             "demisto/python3",
@@ -5608,7 +5607,8 @@
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/hashicorp"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
