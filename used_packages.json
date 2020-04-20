@@ -255,7 +255,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -269,12 +268,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -359,7 +360,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -373,12 +373,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -871,7 +873,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -885,12 +886,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1018,7 +1021,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1032,12 +1034,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1140,8 +1144,8 @@
         "author": "\u0141ukasz Langa lukasz@langa.pl",
         "docker_images": [
             "demisto/resilient",
-            "demisto/chromium",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/jaraco/configparser/",
         "licenses": [
@@ -1338,7 +1342,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1352,12 +1355,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1570,6 +1575,18 @@
         "pypi_url": "https://pypi.org/project/elasticsearch-dsl/",
         "summary": "Python client for Elasticsearch"
     },
+    "emoji": {
+        "author": "Taehoon Kim and Kevin Wurster carpedm20@gmail.com",
+        "docker_images": [
+            "demisto/emoji"
+        ],
+        "home_page": "https://github.com/carpedm20/emoji/",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/emoji/",
+        "summary": "Emoji for Python"
+    },
     "en-core-web-sm": {
         "author": "Explosion AI contact@explosion.ai",
         "docker_images": [
@@ -1726,7 +1743,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -1740,12 +1756,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2204,7 +2222,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -2218,12 +2235,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2827,7 +2846,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -2841,12 +2859,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3152,7 +3172,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3166,12 +3185,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3742,7 +3763,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3756,12 +3776,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3888,7 +3910,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -3902,12 +3923,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4053,7 +4076,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4067,12 +4089,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4180,7 +4204,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4194,12 +4217,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4559,7 +4584,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4573,12 +4597,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4711,7 +4737,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -4725,12 +4750,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5128,7 +5155,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5142,12 +5168,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5275,7 +5303,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5289,12 +5316,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5589,7 +5618,6 @@
             "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/chromium",
             "demisto/google-api-py3",
             "demisto/taxii-server",
             "demisto/python_pancloud_v2",
@@ -5603,12 +5631,14 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/boto3py3",
-            "demisto/hashicorp"
+            "demisto/hashicorp",
+            "demisto/chromium",
+            "demisto/genericsql",
+            "demisto/emoji"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [

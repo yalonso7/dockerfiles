@@ -1,8 +1,8 @@
-# `demisto/genericsql:1.0.0.7446`
+# `demisto/emoji:1.0.0.7445`
 ## Docker Metadata
-- Image Size: `118.99 MB`
-- Image ID: `sha256:b1a39cec98ff6e9f371d741b5cd03381c93c3815a45d059625d9fd3f5e83e984`
-- Created: `2020-04-19T18:51:56.044538581Z`
+- Image Size: `40.64 MB`
+- Image ID: `sha256:557f614efa20a8c1d4037bfc4217caf7cf5c5e38e36060d0af9c99504954be5d`
+- Created: `2020-04-19T08:37:18.783568322Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -15,32 +15,29 @@
   - `PYTHON_GET_PIP_SHA256=421ac1d44c0cf9730a088e337867d974b91bdce4ea2636099275071878cc189e`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:ee00078e882e4897e7b6811f0d028a459abf789a`
-  - `org.opencontainers.image.version:1.0.0.7446`
+  - `org.opencontainers.image.revision:7a0e82f3c7ecf01bf0d17866a1d8792be93ca8a6`
+  - `org.opencontainers.image.version:1.0.0.7445`
 
 - OS Release:
-  - `PRETTY_NAME="Debian GNU/Linux 10 (buster)"`
-  - `NAME="Debian GNU/Linux"`
-  - `VERSION_ID="10"`
-  - `VERSION="10 (buster)"`
-  - `VERSION_CODENAME=buster`
-  - `ID=debian`
-  - `HOME_URL="https://www.debian.org/"`
-  - `SUPPORT_URL="https://www.debian.org/support"`
-  - `BUG_REPORT_URL="https://bugs.debian.org/"`
+  - `NAME="Alpine Linux"`
+  - `ID=alpine`
+  - `VERSION_ID=3.11.3`
+  - `PRETTY_NAME="Alpine Linux v3.11"`
+  - `HOME_URL="https://alpinelinux.org/"`
+  - `BUG_REPORT_URL="https://bugs.alpinelinux.org/"`
 
 ## Docker Trust
 ```
 
-Signatures for demisto/genericsql:1.0.0.7446
+Signatures for demisto/emoji:1.0.0.7445
 
 SIGNED TAG          DIGEST                                                             SIGNERS
-1.0.0.7446          0f3807cc89413f5f6b796d60bf3f1fc05a003a95a0bca580d2c79225f0459299   (Repo Admin)
+1.0.0.7445          369209c6220872c981e8d6078cbb597f074a29324bd9943a20f7c9534bdc45a6   (Repo Admin)
 
-Administrative keys for demisto/genericsql:1.0.0.7446
+Administrative keys for demisto/emoji:1.0.0.7445
 
-  Repository Key:	b02fc99a72d78e9f5becfe15406ea942db310f3c3af9a7833b215eddb323f7cd
-  Root Key:	d11245d830d935ed4846941604c024388aca83a60142ae5319409b1f6091afe1
+  Repository Key:	98f5559cad95f3f76fe7d8a2ba131186dcbdcf7f86c47abbbaa2f81aa42d5cda
+  Root Key:	752fa64d09adcf1226f85beed079a6810cad069bef23bd2765dcf8b61a684362
 
 ```
 
@@ -65,15 +62,6 @@ Administrative keys for demisto/genericsql:1.0.0.7446
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
 
-### `cx-Oracle`
-
-* Summary: Python interface to Oracle
-* Version: 7.3.0
-* Pypi: https://pypi.org/project/cx-Oracle/
-* Homepage: https://oracle.github.io/python-cx_Oracle
-* Author: Anthony Tuininga anthony.tuininga@gmail.com
-* License :: OSI Approved :: BSD License
-
 ### `dateparser`
 
 * Summary: Date parsing library designed to parse dates from HTML pages
@@ -81,6 +69,15 @@ Administrative keys for demisto/genericsql:1.0.0.7446
 * Pypi: https://pypi.org/project/dateparser/
 * Homepage: https://github.com/scrapinghub/dateparser
 * Author: Scrapinghub info@scrapinghub.com
+* License :: OSI Approved :: BSD License
+
+### `emoji`
+
+* Summary: Emoji for Python
+* Version: 0.5.4
+* Pypi: https://pypi.org/project/emoji/
+* Homepage: https://github.com/carpedm20/emoji/
+* Author: Taehoon Kim and Kevin Wurster carpedm20@gmail.com
 * License :: OSI Approved :: BSD License
 
 ### `funcy`
@@ -117,34 +114,6 @@ Administrative keys for demisto/genericsql:1.0.0.7446
 * Pypi: https://pypi.org/project/pip/
 * Homepage: https://pip.pypa.io/
 * Author: The pip developers pypa-dev@groups.google.com
-* License :: OSI Approved :: MIT License
-
-### `psycopg2-binary`
-
-* Summary: psycopg2 - Python-PostgreSQL Database Adapter
-* Version: 2.8.5
-* Pypi: https://pypi.org/project/psycopg2-binary/
-* Homepage: https://psycopg.org/
-* Author: Federico Di Gregorio fog@initd.org
-* License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
-* License :: OSI Approved :: Zope Public License
-
-### `PyMySQL`
-
-* Summary: Pure Python MySQL Driver
-* Version: 0.9.3
-* Pypi: https://pypi.org/project/PyMySQL/
-* Homepage: https://github.com/PyMySQL/PyMySQL/
-* Author: yutaka.matsubara yutaka.matsubara@gmail.com
-* License :: OSI Approved :: MIT License
-
-### `pyodbc`
-
-* Summary: DB API Module for ODBC
-* Version: 4.0.30
-* Pypi: https://pypi.org/project/pyodbc/
-* Homepage: https://github.com/mkleehammer/pyodbc
-* Author: 
 * License :: OSI Approved :: MIT License
 
 ### `PySocks`
@@ -220,15 +189,6 @@ Administrative keys for demisto/genericsql:1.0.0.7446
 * Author: Benjamin Peterson benjamin@python.org
 * License :: OSI Approved :: MIT License
 
-### `SQLAlchemy`
-
-* Summary: Database Abstraction Library
-* Version: 1.3.16
-* Pypi: https://pypi.org/project/SQLAlchemy/
-* Homepage: http://www.sqlalchemy.org
-* Author: Mike Bayer mike_mp@zzzcomputing.com
-* License :: OSI Approved :: MIT License
-
 ### `tzlocal`
 
 * Summary: tzinfo object for the local timezone
@@ -258,127 +218,37 @@ Administrative keys for demisto/genericsql:1.0.0.7446
 
 ## `OS Packages`
 
-* adduser	3.118
-* apt	1.8.2
-* base-files	10.3+deb10u3
-* base-passwd	3.5.46
-* bash	5.0-4
-* bsdutils	1:2.33.1-0.1
-* ca-certificates	20190110
-* coreutils	8.30-3
-* dash	0.5.10.2-5
-* debconf	1.5.71
-* debian-archive-keyring	2019.1
-* debianutils	4.8.6.1
-* diffutils	1:3.7-3
-* dpkg	1.19.7
-* e2fsprogs	1.44.5-1+deb10u3
-* fdisk	2.33.1-0.1
-* findutils	4.6.0+git+20190209-2
-* freetds-bin	1.00.104-1+deb10u1
-* freetds-common	1.00.104-1+deb10u1
-* gcc-8-base:amd64	8.3.0-6
-* gpgv	2.2.19-2~bpo10+1
-* grep	3.3-1
-* gzip	1.9-3
-* hostname	3.21
-* init-system-helpers	1.56+nmu1
-* libacl1:amd64	2.2.53-4
-* libaio1:amd64	0.3.112-3
-* libapt-pkg5.0:amd64	1.8.2
-* libattr1:amd64	1:2.4.48-4
-* libaudit-common	1:2.8.4-3
-* libaudit1:amd64	1:2.8.4-3
-* libblkid1:amd64	2.33.1-0.1
-* libbz2-1.0:amd64	1.0.6-9.2~deb10u1
-* libc-bin	2.28-10
-* libc-dev-bin	2.28-10
-* libc6-dev:amd64	2.28-10
-* libc6:amd64	2.28-10
-* libcap-ng0:amd64	0.7.9-2
-* libcom-err2:amd64	1.45.5-2~bpo10+1
-* libdb5.3:amd64	5.3.28+dfsg1-0.5
-* libdebconfclient0:amd64	0.249
-* libexpat1:amd64	2.2.6-2+deb10u1
-* libext2fs2:amd64	1.44.5-1+deb10u3
-* libfdisk1:amd64	2.33.1-0.1
-* libffi6:amd64	3.2.1-9
-* libgcc1:amd64	1:8.3.0-6
-* libgcrypt20:amd64	1.8.4-5
-* libgdbm6:amd64	1.18.1-4
-* libgmp10:amd64	2:6.1.2+dfsg-4
-* libgnutls30:amd64	3.6.7-4+deb10u2
-* libgpg-error0:amd64	1.35-1
-* libgssapi-krb5-2:amd64	1.17-3
-* libhogweed4:amd64	3.4.1-1
-* libidn2-0:amd64	2.0.5-1+deb10u1
-* libk5crypto3:amd64	1.17-3
-* libkeyutils1:amd64	1.6-6
-* libkrb5-3:amd64	1.17-3
-* libkrb5support0:amd64	1.17-3
-* libldap-2.4-2:amd64	2.4.47+dfsg-3+deb10u1
-* libldap-common	2.4.47+dfsg-3+deb10u1
-* libltdl7:amd64	2.4.6-9
-* liblz4-1:amd64	1.8.3-1
-* liblzma5:amd64	5.2.4-1
-* libmount1:amd64	2.33.1-0.1
-* libncurses6:amd64	6.1+20181013-2+deb10u2
-* libncursesw6:amd64	6.1+20181013-2+deb10u2
-* libnettle6:amd64	3.4.1-1
-* libodbc1:amd64	2.3.6-0.1
-* libp11-kit0:amd64	0.23.15-2
-* libpam-modules-bin	1.3.1-5
-* libpam-modules:amd64	1.3.1-5
-* libpam-runtime	1.3.1-5
-* libpam0g:amd64	1.3.1-5
-* libpcre2-8-0:amd64	10.32-5
-* libpcre3:amd64	2:8.39-12
-* libpq5:amd64	11.7-0+deb10u1
-* libprocps7:amd64	2:3.3.15-2
-* libpsl5:amd64	0.20.2-2
-* libreadline7:amd64	7.0-5
-* libsasl2-2:amd64	2.1.27+dfsg-1+deb10u1
-* libsasl2-modules-db:amd64	2.1.27+dfsg-1+deb10u1
-* libseccomp2:amd64	2.4.1-2~bpo10+1
-* libselinux1:amd64	2.8-1+b1
-* libsemanage-common	2.8-2
-* libsemanage1:amd64	2.8-2
-* libsepol1:amd64	2.8-1
-* libsmartcols1:amd64	2.33.1-0.1
-* libsqlite3-0:amd64	3.27.2-3
-* libss2:amd64	1.45.5-2~bpo10+1
-* libssl1.1:amd64	1.1.1d-0+deb10u2
-* libstdc++6:amd64	8.3.0-6
-* libsybdb5:amd64	1.00.104-1+deb10u1
-* libsystemd0:amd64	244.3-1~bpo10+1
-* libtasn1-6:amd64	4.13-3
-* libtinfo6:amd64	6.1+20181013-2+deb10u2
-* libudev1:amd64	244.3-1~bpo10+1
-* libunistring2:amd64	0.9.10-1
-* libuuid1:amd64	2.33.1-0.1
-* libzstd1:amd64	1.4.4+dfsg-3~bpo10+1
-* linux-libc-dev:amd64	4.19.98-1
-* login	1:4.5-1.1
-* lsb-base	10.2019051400
-* mawk	1.3.3-17+b3
-* mount	2.33.1-0.1
-* ncurses-base	6.1+20181013-2+deb10u2
-* ncurses-bin	6.1+20181013-2+deb10u2
-* netbase	5.6
-* odbcinst	2.3.6-0.1
-* odbcinst1debian2:amd64	2.3.6-0.1
-* openssl	1.1.1d-0+deb10u2
-* passwd	1:4.5-1.1
-* perl-base	5.28.1-6
-* procps	2:3.3.15-2
-* readline-common	7.0-5
-* sed	4.7-1
-* sysvinit-utils	2.93-8
-* tar	1.30+dfsg-6
-* tdsodbc:amd64	1.00.104-1+deb10u1
-* tzdata	2019c-0+deb10u1
-* unixodbc	2.3.6-0.1
-* unzip	6.0-23+deb10u1
-* util-linux	2.33.1-0.1
-* wget	1.20.1-1.1
-* zlib1g:amd64	1:1.2.11.dfsg-1
+* .python-rundeps-20200226.151904 noarch {.python-rundeps}
+* alpine-baselayout-3.2.0-r3 x86_64 {alpine-baselayout}
+* alpine-keys-2.1-r2 x86_64 {alpine-keys}
+* apk-tools-2.10.4-r3 x86_64 {apk-tools}
+* busybox-1.31.1-r9 x86_64 {busybox}
+* ca-certificates-20191127-r1 x86_64 {ca-certificates}
+* ca-certificates-cacert-20191127-r1 x86_64 {ca-certificates}
+* expat-2.2.9-r1 x86_64 {expat}
+* gdbm-1.13-r1 x86_64 {gdbm}
+* keyutils-libs-1.6.1-r0 x86_64 {keyutils}
+* krb5-conf-1.0-r1 x86_64 {krb5-conf}
+* krb5-libs-1.17.1-r0 x86_64 {krb5}
+* libbz2-1.0.8-r1 x86_64 {bzip2}
+* libc-utils-0.7.2-r0 x86_64 {libc-dev}
+* libcom_err-1.45.5-r0 x86_64 {e2fsprogs}
+* libcrypto1.1-1.1.1d-r3 x86_64 {openssl}
+* libffi-3.2.1-r6 x86_64 {libffi}
+* libintl-0.20.1-r2 x86_64 {gettext}
+* libnsl-1.2.0-r1 x86_64 {libnsl}
+* libssl1.1-1.1.1d-r3 x86_64 {openssl}
+* libtirpc-1.1.4-r0 x86_64 {libtirpc}
+* libtls-standalone-2.9.1-r0 x86_64 {libtls-standalone}
+* libuuid-2.34-r1 x86_64 {util-linux}
+* libverto-0.3.1-r1 x86_64 {libverto}
+* musl-1.1.24-r2 x86_64 {musl}
+* musl-utils-1.1.24-r2 x86_64 {musl}
+* ncurses-libs-6.1_p20200118-r2 x86_64 {ncurses}
+* ncurses-terminfo-base-6.1_p20200118-r2 x86_64 {ncurses}
+* readline-8.0.1-r0 x86_64 {readline}
+* scanelf-1.2.4-r0 x86_64 {pax-utils}
+* sqlite-libs-3.30.1-r1 x86_64 {sqlite}
+* ssl_client-1.31.1-r9 x86_64 {busybox}
+* xz-libs-5.2.4-r0 x86_64 {xz}
+* zlib-1.2.11-r3 x86_64 {zlib}
