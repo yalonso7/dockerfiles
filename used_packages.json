@@ -126,8 +126,8 @@
     "Pillow": {
         "author": "Alex Clark (Fork Author) aclark@aclark.net",
         "docker_images": [
-            "demisto/dl",
-            "demisto/chromium"
+            "demisto/chromium",
+            "demisto/dl"
         ],
         "home_page": "http://python-pillow.org",
         "licenses": [
@@ -247,10 +247,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -261,21 +259,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -353,10 +354,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -367,21 +366,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -645,8 +647,8 @@
     "backports.functools-lru-cache": {
         "author": "Raymond Hettinger raymond.hettinger@gmail.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/bs4"
+            "demisto/bs4",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/jaraco/backports.functools_lru_cache",
         "licenses": [
@@ -770,13 +772,13 @@
             "demisto/resilient",
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -830,7 +832,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -866,10 +867,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -880,21 +879,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -918,12 +921,12 @@
             "demisto/smime-encrypt",
             "demisto/winrm",
             "demisto/py-ews",
-            "demisto/crypto",
-            "demisto/python_pancloud_v2",
             "demisto/slack",
             "demisto/teams",
             "demisto/google-kms",
-            "demisto/google-api-py3"
+            "demisto/crypto",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -978,7 +981,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -1014,10 +1016,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -1028,21 +1028,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1184,11 +1188,11 @@
             "demisto/smime-encrypt",
             "demisto/winrm",
             "demisto/py-ews",
-            "demisto/crypto",
-            "demisto/python_pancloud_v2",
             "demisto/teams",
             "demisto/google-kms",
-            "demisto/google-api-py3"
+            "demisto/crypto",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1246,9 +1250,9 @@
     "cycler": {
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
-            "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/dl"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1338,10 +1342,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -1352,21 +1354,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1374,6 +1379,18 @@
         ],
         "pypi_url": "https://pypi.org/project/dateparser/",
         "summary": "Date parsing library designed to parse dates from HTML pages"
+    },
+    "de-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: MIT"
+        ],
+        "pypi_url": null,
+        "summary": "German multi-task CNN trained on the TIGER and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
     },
     "decorator": {
         "author": "Michele Simionato michele.simionato@gmail.com",
@@ -1646,6 +1663,18 @@
         "pypi_url": "https://pypi.org/project/enum34/",
         "summary": "Python 3.4 Enum backported to 3.3, 3.2, 3.1, 2.7, 2.6, 2.5, and 2.4"
     },
+    "es-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: GPL"
+        ],
+        "pypi_url": null,
+        "summary": "Spanish multi-task CNN trained on the AnCora and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
+    },
     "et-xmlfile": {
         "author": "See ATUHORS.txt charlie.clark@clark-consulting.eu",
         "docker_images": [
@@ -1687,8 +1716,8 @@
     "fasttext": {
         "author": "Onur Celebi celebio@fb.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/fasttext"
+            "demisto/fasttext",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/facebookresearch/fastText",
         "licenses": [
@@ -1696,6 +1725,18 @@
         ],
         "pypi_url": "https://pypi.org/project/fasttext/",
         "summary": "fasttext Python bindings"
+    },
+    "fr-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: LGPL"
+        ],
+        "pypi_url": null,
+        "summary": "French multi-task CNN trained on the French Sequoia (Universal Dependencies) and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
     },
     "funcy": {
         "author": "Alexander Schepanovski suor.web@gmail.com",
@@ -1752,10 +1793,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -1766,21 +1805,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1875,13 +1917,13 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -1893,11 +1935,11 @@
     "google-api-python-client": {
         "author": "Google Inc.",
         "docker_images": [
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-api-py3"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -1911,13 +1953,13 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -1929,11 +1971,11 @@
     "google-auth-httplib2": {
         "author": "Google Cloud Platform jonwayne+google-auth@google.com",
         "docker_images": [
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -1971,9 +2013,9 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2009,9 +2051,9 @@
     "google-cloud-storage": {
         "author": "Google LLC googleapis-packages@google.com",
         "docker_images": [
-            "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2048,9 +2090,9 @@
         "author": "Google Cloud Platform googleapis-publisher@google.com",
         "docker_images": [
             "demisto/bigquery",
-            "demisto/google-cloud-storage",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-resumable-media-python",
         "licenses": [
@@ -2064,13 +2106,13 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2095,8 +2137,8 @@
     "grpc-google-iam-v1": {
         "author": "Google Inc googleapis-packages@google.com",
         "docker_images": [
-            "demisto/google-cloud-storage",
-            "demisto/google-kms"
+            "demisto/google-kms",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2109,9 +2151,9 @@
         "author": "The gRPC Authors grpc-io@googlegroups.com",
         "docker_images": [
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://grpc.io",
         "licenses": [
@@ -2137,11 +2179,11 @@
         "author": "Joe Gregorio joe@bitworking.org",
         "docker_images": [
             "demisto/bigquery",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -2195,7 +2237,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -2231,10 +2272,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -2245,21 +2284,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2334,6 +2377,18 @@
         "pypi_url": "https://pypi.org/project/isodate/",
         "summary": "An ISO 8601 date/time/duration parser and formatter"
     },
+    "it-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: CC BY-NC-SA 3.0"
+        ],
+        "pypi_url": null,
+        "summary": "Italian multi-task CNN trained on the Universal Dependencies and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
+    },
     "itsdangerous": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
@@ -2367,8 +2422,8 @@
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/jmespath",
-            "demisto/python_pancloud_v2",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/jmespath/jmespath.py",
         "licenses": [
@@ -2586,9 +2641,9 @@
     "matplotlib": {
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
-            "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/dl"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -2721,11 +2776,23 @@
         "pypi_url": "https://pypi.org/project/networkx/",
         "summary": "Python package for creating and manipulating graphs and networks"
     },
+    "nl-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: CC BY-SA 4.0"
+        ],
+        "pypi_url": null,
+        "summary": "Dutch multi-task CNN trained on the Universal Dependencies and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
+    },
     "nltk": {
         "author": "Steven Bird stevenbird1@gmail.com",
         "docker_images": [
-            "demisto/dl",
-            "demisto/nltk"
+            "demisto/nltk",
+            "demisto/dl"
         ],
         "home_page": "http://nltk.org/",
         "licenses": [
@@ -2758,13 +2825,13 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/dl",
             "demisto/pandas",
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/fasttext",
             "demisto/devo",
-            "demisto/chromium"
+            "demisto/chromium",
+            "demisto/dl"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -2777,11 +2844,11 @@
         "author": "Google Inc. jonwayne+oauth2client@google.com",
         "docker_images": [
             "demisto/bigquery",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-api-py3"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -2869,10 +2936,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -2883,21 +2948,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3014,9 +3082,9 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/dl",
             "demisto/pandas",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/dl"
         ],
         "home_page": "http://pandas.pydata.org",
         "licenses": [
@@ -3099,7 +3167,6 @@
             "demisto/word-parser",
             "demisto/cylance_protect_v2",
             "demisto/unrar",
-            "demisto/python_zipfile",
             "demisto/boto3",
             "demisto/machine-learning",
             "demisto/pdfx",
@@ -3159,7 +3226,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -3196,10 +3262,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -3210,21 +3274,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3298,13 +3366,13 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -3338,6 +3406,18 @@
         ],
         "pypi_url": "https://pypi.org/project/psycopg2-binary/",
         "summary": "psycopg2 - Python-PostgreSQL Database Adapter"
+    },
+    "pt-core-news-sm": {
+        "author": "Explosion AI contact@explosion.ai",
+        "docker_images": [
+            "demisto/dl"
+        ],
+        "home_page": "https://explosion.ai",
+        "licenses": [
+            "License: CC BY-SA 4.0"
+        ],
+        "pypi_url": null,
+        "summary": "Portuguese multi-task CNN trained on the Universal Dependencies and WikiNER corpus. Assigns context-specific token vectors, POS tags, dependency parse and named entities. Supports identification of PER, LOC, ORG and MISC entities."
     },
     "py": {
         "author": "holger krekel, Ronny Pfannschmidt, Benjamin Peterson and others pytest-dev@python.org",
@@ -3401,13 +3481,13 @@
             "demisto/google-cloud-translate",
             "demisto/btfl-soup",
             "demisto/taxii",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3421,13 +3501,13 @@
         "docker_images": [
             "demisto/bigquery",
             "demisto/google-cloud-translate",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -3451,8 +3531,8 @@
     "pybind11": {
         "author": "Wenzel Jakob wenzel.jakob@epfl.ch",
         "docker_images": [
-            "demisto/dl",
-            "demisto/fasttext"
+            "demisto/fasttext",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pybind/pybind11",
         "licenses": [
@@ -3488,12 +3568,12 @@
             "demisto/smime-encrypt",
             "demisto/winrm",
             "demisto/py-ews",
-            "demisto/crypto",
-            "demisto/python_pancloud_v2",
             "demisto/slack",
             "demisto/teams",
             "demisto/google-kms",
-            "demisto/google-api-py3"
+            "demisto/crypto",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3648,10 +3728,10 @@
             "demisto/langdetect",
             "demisto/pypdf2",
             "demisto/pcap",
-            "demisto/dl",
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -3753,7 +3833,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -3789,10 +3868,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -3803,21 +3880,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -3901,7 +3982,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -3937,10 +4017,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -3951,21 +4029,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4104,10 +4186,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -4118,21 +4198,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4196,7 +4279,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -4232,10 +4314,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -4246,21 +4326,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4382,13 +4466,13 @@
             "demisto/google-cloud-translate",
             "demisto/btfl-soup",
             "demisto/taxii",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4469,8 +4553,8 @@
             "demisto/machine-learning",
             "demisto/ml",
             "demisto/exchange",
-            "demisto/dl",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/dl"
         ],
         "home_page": "https://www.scipy.org",
         "licenses": [
@@ -4515,7 +4599,6 @@
             "demisto/word-parser",
             "demisto/cylance_protect_v2",
             "demisto/unrar",
-            "demisto/python_zipfile",
             "demisto/boto3",
             "demisto/machine-learning",
             "demisto/pdfx",
@@ -4575,7 +4658,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -4612,10 +4694,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -4626,21 +4706,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4730,7 +4814,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -4766,10 +4849,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -4780,21 +4861,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5103,8 +5188,8 @@
     "tqdm": {
         "author": "",
         "docker_images": [
-            "demisto/dl",
-            "demisto/nltk"
+            "demisto/nltk",
+            "demisto/dl"
         ],
         "home_page": "https://github.com/tqdm/tqdm",
         "licenses": [
@@ -5186,10 +5271,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -5200,21 +5283,24 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5238,11 +5324,11 @@
     "uritemplate": {
         "author": "Ian Cordasco graffatcolmingov@gmail.com",
         "docker_images": [
-            "demisto/google-api-py3",
+            "demisto/google-vision-api",
+            "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-vision-api",
-            "demisto/googleapi-python3"
+            "demisto/google-api-py3"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -5298,7 +5384,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -5334,10 +5419,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -5348,21 +5431,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5419,7 +5506,6 @@
             "demisto/word-parser",
             "demisto/cylance_protect_v2",
             "demisto/unrar",
-            "demisto/python_zipfile",
             "demisto/machine-learning",
             "demisto/pdfx",
             "demisto/dnstwist",
@@ -5552,7 +5638,6 @@
             "demisto/word-parser",
             "demisto/cylance_protect_v2",
             "demisto/unrar",
-            "demisto/python_zipfile",
             "demisto/boto3",
             "demisto/machine-learning",
             "demisto/pdfx",
@@ -5612,7 +5697,6 @@
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
-            "demisto/dl",
             "demisto/netutils",
             "demisto/archer",
             "demisto/dxl2",
@@ -5649,10 +5733,8 @@
             "demisto/zabbix",
             "demisto/sixgill",
             "demisto/pymisp",
-            "demisto/crypto",
             "demisto/elasticsearch",
             "demisto/stix2",
-            "demisto/python_pancloud_v2",
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/trustar",
@@ -5663,21 +5745,25 @@
             "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
-            "demisto/google-cloud-storage",
             "demisto/google-kms",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
-            "demisto/google-api-py3",
             "demisto/taxii-server",
-            "demisto/google-api",
-            "demisto/gvault",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/nltk",
             "demisto/pyotrs",
-            "demisto/googleapi-python3"
+            "demisto/googleapi-python3",
+            "demisto/dl",
+            "demisto/google-api",
+            "demisto/gvault",
+            "demisto/crypto",
+            "demisto/boto3py3",
+            "demisto/python_zipfile",
+            "demisto/google-cloud-storage",
+            "demisto/google-api-py3",
+            "demisto/python_pancloud_v2"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
