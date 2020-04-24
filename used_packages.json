@@ -166,6 +166,18 @@
         "pypi_url": "https://pypi.org/project/PyMySQL/",
         "summary": "Pure Python MySQL Driver"
     },
+    "PyNaCl": {
+        "author": "The PyNaCl developers cryptography-dev@python.org",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/pyca/pynacl/",
+        "licenses": [
+            "License: Apache License 2.0"
+        ],
+        "pypi_url": "https://pypi.org/project/PyNaCl/",
+        "summary": "Python binding to the Networking and Cryptography (NaCl) library"
+    },
     "PyOTRS": {
         "author": "Robert Habermann mail@rhab.de",
         "docker_images": [
@@ -276,7 +288,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -383,7 +398,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -657,6 +675,18 @@
         "pypi_url": "https://pypi.org/project/backports.functools-lru-cache/",
         "summary": "Backport of functools.lru_cache"
     },
+    "bcrypt": {
+        "author": "The Python Cryptographic Authority developers cryptography-dev@python.org",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/pyca/bcrypt/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/bcrypt/",
+        "summary": "Modern password hashing for your software and your servers"
+    },
     "beautifulsoup4": {
         "author": "Leonard Richardson leonardr@segfault.org",
         "docker_images": [
@@ -897,7 +927,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -926,7 +959,8 @@
             "demisto/google-kms",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/netmiko"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1046,7 +1080,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1192,7 +1229,8 @@
             "demisto/google-kms",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/netmiko"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1371,7 +1409,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1647,14 +1688,14 @@
     "enum34": {
         "author": "Ethan Furman ethan@stoneleaf.us",
         "docker_images": [
-            "demisto/threatconnect-sdk",
             "demisto/symantec_mss",
             "demisto/exchangelib",
             "demisto/resilient",
             "demisto/ews",
             "demisto/threatconnect",
             "demisto/py-ews",
-            "demisto/algorithmia"
+            "demisto/algorithmia",
+            "demisto/threatconnect-sdk"
         ],
         "home_page": "https://bitbucket.org/stoneleaf/enum34",
         "licenses": [
@@ -1822,7 +1863,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1851,7 +1895,8 @@
             "demisto/snowflake",
             "demisto/py-ews",
             "demisto/trustar",
-            "demisto/ippysocks"
+            "demisto/ippysocks",
+            "demisto/netmiko"
         ],
         "home_page": "https://python-future.org",
         "licenses": [
@@ -2302,7 +2347,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2764,6 +2812,18 @@
         "pypi_url": "https://pypi.org/project/netaddr/",
         "summary": "A network address manipulation library for Python"
     },
+    "netmiko": {
+        "author": "Kirk Byers ktbyers@twb-tech.com",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/ktbyers/netmiko",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/netmiko/",
+        "summary": "Multi-vendor library to simplify Paramiko SSH connections to network devices"
+    },
     "networkx": {
         "author": "Aric Hagberg hagberg@lanl.gov",
         "docker_images": [
@@ -2965,7 +3025,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3093,6 +3156,18 @@
         "pypi_url": "https://pypi.org/project/pandas/",
         "summary": "Powerful data structures for data analysis, time series, and statistics"
     },
+    "paramiko": {
+        "author": "Jeff Forcier jeff@bitprophet.org",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/paramiko/paramiko/",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)"
+        ],
+        "pypi_url": "https://pypi.org/project/paramiko/",
+        "summary": "SSH2 protocol library"
+    },
     "pathlib": {
         "author": "Antoine Pitrou solipsis@pitrou.net",
         "docker_images": [
@@ -3159,7 +3234,6 @@
         "author": "The pip developers pypa-dev@groups.google.com",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/rasterize",
             "demisto/psycopg2",
@@ -3292,7 +3366,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3487,7 +3564,8 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/google-cloud-storage",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3573,7 +3651,8 @@
             "demisto/google-kms",
             "demisto/crypto",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/netmiko"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -3765,6 +3844,18 @@
         "pypi_url": "https://pypi.org/project/pyrsistent/",
         "summary": "Persistent/Functional/Immutable data structures"
     },
+    "pyserial": {
+        "author": "Chris Liechti cliechti@gmx.net",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/pyserial/pyserial",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/pyserial/",
+        "summary": "Python Serial Port Extension"
+    },
     "pyshark": {
         "author": "KimiNewt",
         "docker_images": [
@@ -3780,7 +3871,8 @@
     "pysmb": {
         "author": "Michael Teo miketeo@miketeo.net",
         "docker_images": [
-            "demisto/pysmb"
+            "demisto/pysmb",
+            "demisto/smb"
         ],
         "home_page": "https://miketeo.net/projects/pysmb",
         "licenses": [
@@ -3793,7 +3885,6 @@
         "author": "Gustavo Niemeyer gustavo@niemeyer.net",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/unrar",
             "demisto/boto3",
@@ -3898,7 +3989,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4047,7 +4141,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4215,7 +4312,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4227,7 +4327,6 @@
     "requests": {
         "author": "Kenneth Reitz me@kennethreitz.org",
         "docker_images": [
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/psycopg2",
             "demisto/cylance_protect_v2",
@@ -4344,7 +4443,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4563,6 +4665,18 @@
         "pypi_url": "https://pypi.org/project/scipy/",
         "summary": "SciPy: Scientific Library for Python"
     },
+    "scp": {
+        "author": "James Bardin j.bardin@gmail.com",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/jbardin/scp.py",
+        "licenses": [
+            "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)"
+        ],
+        "pypi_url": "https://pypi.org/project/scp/",
+        "summary": "scp module for paramiko"
+    },
     "selenium": {
         "author": "",
         "docker_images": [
@@ -4591,7 +4705,6 @@
         "author": "Python Packaging Authority distutils-sig@python.org",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/rasterize",
             "demisto/psycopg2",
@@ -4724,7 +4837,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4764,7 +4880,6 @@
         "author": "Benjamin Peterson benjamin@python.org",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/psycopg2",
             "demisto/langdetect",
@@ -4879,7 +4994,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5118,6 +5236,18 @@
         "pypi_url": "https://pypi.org/project/text-unidecode/",
         "summary": "The most basic Text::Unidecode port"
     },
+    "textfsm": {
+        "author": "",
+        "docker_images": [
+            "demisto/netmiko"
+        ],
+        "home_page": "https://github.com/google/textfsm",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/textfsm/",
+        "summary": "Python module for parsing semi-structured text into python tables."
+    },
     "thinc": {
         "author": "Matthew Honnibal matt@explosion.ai",
         "docker_images": [
@@ -5133,8 +5263,8 @@
     "threatconnect": {
         "author": "ThreatConnect (support@threatconnect.com) support@threatconnect.com",
         "docker_images": [
-            "demisto/threatconnect-sdk",
-            "demisto/threatconnect"
+            "demisto/threatconnect",
+            "demisto/threatconnect-sdk"
         ],
         "home_page": "https://github.com/ThreatConnect-Inc/threatconnect-python",
         "licenses": [
@@ -5300,7 +5430,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5449,7 +5582,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5498,7 +5634,6 @@
         "author": "Ian Bicking ianb@colorstudy.com",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/rasterize",
             "demisto/psycopg2",
@@ -5630,7 +5765,6 @@
         "author": "Daniel Holth dholth@fastmail.fm",
         "docker_images": [
             "demisto/stix",
-            "demisto/threatconnect-sdk",
             "demisto/pytz",
             "demisto/rasterize",
             "demisto/psycopg2",
@@ -5763,7 +5897,10 @@
             "demisto/python_zipfile",
             "demisto/google-cloud-storage",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/threatconnect-sdk",
+            "demisto/netmiko",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
