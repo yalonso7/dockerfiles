@@ -279,7 +279,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -291,7 +290,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -389,7 +389,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -401,7 +400,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -917,7 +917,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -930,7 +929,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1070,7 +1070,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -1083,7 +1082,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1400,7 +1400,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -1412,7 +1411,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1854,7 +1854,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -1866,7 +1865,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2337,7 +2337,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -2350,7 +2349,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3016,7 +3016,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -3028,7 +3027,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3356,7 +3356,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -3369,7 +3368,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3809,8 +3809,8 @@
             "demisto/pcap",
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
-            "demisto/pyotrs",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -3979,7 +3979,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -3992,7 +3991,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4131,7 +4131,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -4144,7 +4143,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4303,7 +4303,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -4315,7 +4314,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4433,7 +4433,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -4446,7 +4445,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4827,7 +4827,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -4840,7 +4839,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4984,7 +4984,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -4997,7 +4996,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5421,7 +5421,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/google-api",
             "demisto/gvault",
@@ -5433,7 +5432,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5572,7 +5572,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -5585,7 +5584,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5887,7 +5887,6 @@
             "demisto/taxii-server",
             "demisto/google-vision-api",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/googleapi-python3",
             "demisto/dl",
             "demisto/google-api",
@@ -5900,7 +5899,8 @@
             "demisto/smb",
             "demisto/boto3py3",
             "demisto/google-api-py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
