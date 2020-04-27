@@ -1,43 +1,46 @@
-# `demisto/winrm:1.0.0.7727`
+# `demisto/distorm3:1.0.0.7739`
 ## Docker Metadata
-- Image Size: `47.54 MB`
-- Image ID: `sha256:a8dcec9706b1901e533afca3c53345f76b571c4590189bcb9544bb1dd20b3a10`
-- Created: `2020-04-26T06:57:30.892676072Z`
+- Image Size: `76.66 MB`
+- Image ID: `sha256:6bf81991e59ea16d19554952ab65aa9ef887f699f4dd36ed3532a4985ea1d61a`
+- Created: `2020-04-26T07:52:04.713675336Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
   - `PATH=/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin`
   - `LANG=C.UTF-8`
   - `GPG_KEY=E3FF2839C048B25C084DEBE9B26995E310250568`
-  - `PYTHON_VERSION=3.8.1`
+  - `PYTHON_VERSION=3.8.2`
   - `PYTHON_PIP_VERSION=20.0.2`
   - `PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/d59197a3c169cef378a22428a3fa99d33e080a5d/get-pip.py`
   - `PYTHON_GET_PIP_SHA256=421ac1d44c0cf9730a088e337867d974b91bdce4ea2636099275071878cc189e`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:fd7844ed7d972539ad0f472eddd2b27defb7f82f`
-  - `org.opencontainers.image.version:1.0.0.7727`
+  - `org.opencontainers.image.revision:4a9102c15c070323d71dee8f89340200560e5205`
+  - `org.opencontainers.image.version:1.0.0.7739`
 
 - OS Release:
-  - `NAME="Alpine Linux"`
-  - `ID=alpine`
-  - `VERSION_ID=3.11.3`
-  - `PRETTY_NAME="Alpine Linux v3.11"`
-  - `HOME_URL="https://alpinelinux.org/"`
-  - `BUG_REPORT_URL="https://bugs.alpinelinux.org/"`
+  - `PRETTY_NAME="Debian GNU/Linux 10 (buster)"`
+  - `NAME="Debian GNU/Linux"`
+  - `VERSION_ID="10"`
+  - `VERSION="10 (buster)"`
+  - `VERSION_CODENAME=buster`
+  - `ID=debian`
+  - `HOME_URL="https://www.debian.org/"`
+  - `SUPPORT_URL="https://www.debian.org/support"`
+  - `BUG_REPORT_URL="https://bugs.debian.org/"`
 
 ## Docker Trust
 ```
 
-Signatures for demisto/winrm:1.0.0.7727
+Signatures for demisto/distorm3:1.0.0.7739
 
 SIGNED TAG          DIGEST                                                             SIGNERS
-1.0.0.7727          b125b356bd2380090f0c1cf369612ef732c3db01d4f10287b8b17c2e1f1766d0   (Repo Admin)
+1.0.0.7739          4ea3fd9ed803ed69e97c5da9c89e352936d921b1909263883208274b51fccb68   (Repo Admin)
 
-Administrative keys for demisto/winrm:1.0.0.7727
+Administrative keys for demisto/distorm3:1.0.0.7739
 
-  Repository Key:	41c3e12be5432da276f6f99af21f9fcbfc243f486027d68d3e5901774cff84cc
-  Root Key:	93d5f3728a2bf151a3eff4f42a60f800818303f44c0eeea4d8aa10fec9d69735
+  Repository Key:	7fa508249c6af303874b359038421a753245eeb6db0669a0fbfdc47319817c9a
+  Root Key:	07ec178f034d29c25848fe31d1bd3b47193383c151629f0d0b471400660f5978
 
 ```
 
@@ -47,20 +50,11 @@ Administrative keys for demisto/winrm:1.0.0.7727
 ### `certifi`
 
 * Summary: Python package for providing Mozilla's CA Bundle.
-* Version: 2020.4.5.1
+* Version: 2019.11.28
 * Pypi: https://pypi.org/project/certifi/
 * Homepage: https://certifiio.readthedocs.io/en/latest/
 * Author: Kenneth Reitz me@kennethreitz.com
 * License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
-
-### `cffi`
-
-* Summary: Foreign Function Interface for Python calling C code.
-* Version: 1.14.0
-* Pypi: https://pypi.org/project/cffi/
-* Homepage: http://cffi.readthedocs.org
-* Author: Armin Rigo, Maciej Fijalkowski python-cffi@googlegroups.com
-* License :: OSI Approved :: MIT License
 
 ### `chardet`
 
@@ -71,23 +65,22 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
 
-### `cryptography`
-
-* Summary: cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-* Version: 2.9.2
-* Pypi: https://pypi.org/project/cryptography/
-* Homepage: https://github.com/pyca/cryptography
-* Author: The cryptography developers cryptography-dev@python.org
-* License :: OSI Approved :: Apache Software License
-* License :: OSI Approved :: BSD License
-
 ### `dateparser`
 
 * Summary: Date parsing library designed to parse dates from HTML pages
-* Version: 0.7.2
+* Version: 0.7.4
 * Pypi: https://pypi.org/project/dateparser/
 * Homepage: https://github.com/scrapinghub/dateparser
 * Author: Scrapinghub info@scrapinghub.com
+* License :: OSI Approved :: BSD License
+
+### `distorm3`
+
+* Summary: The goal of diStorm3 is to decode x86/AMD64 binary streams and return a structure that describes each instruction.
+* Version: 3.4.4
+* Pypi: https://pypi.org/project/distorm3/
+* Homepage: https://github.com/gdabah/distorm/
+* Author: Gil Dabah distorm@gmail.com
 * License :: OSI Approved :: BSD License
 
 ### `funcy`
@@ -99,6 +92,15 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Alexander Schepanovski suor.web@gmail.com
 * License :: OSI Approved :: BSD License
 
+### `future`
+
+* Summary: Clean single-source support for Python 3 and 2
+* Version: 0.18.2
+* Pypi: https://pypi.org/project/future/
+* Homepage: https://python-future.org
+* Author: Ed Schofield ed@pythoncharmers.com
+* License :: OSI Approved :: MIT License
+
 ### `idna`
 
 * Summary: Internationalized Domain Names in Applications (IDNA)
@@ -107,15 +109,6 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Homepage: https://github.com/kjd/idna
 * Author: Kim Davies kim@cynosure.com.au
 * License :: OSI Approved :: BSD License
-
-### `ntlm-auth`
-
-* Summary: Creates NTLM authentication structures
-* Version: 1.4.0
-* Pypi: https://pypi.org/project/ntlm-auth/
-* Homepage: https://github.com/jborean93/ntlm-auth
-* Author: Jordan Borean jborean93@gmail.com
-* License :: OSI Approved :: MIT License
 
 ### `olefile`
 
@@ -126,6 +119,15 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Philippe Lagadec nospam@decalage.info
 * License :: OSI Approved :: BSD License
 
+### `pefile`
+
+* Summary: Python PE parsing module
+* Version: 2019.4.18
+* Pypi: https://pypi.org/project/pefile/
+* Homepage: https://github.com/erocarrera/pefile
+* Author: Ero Carrera ero.carrera@gmail.com
+* License :: MIT License
+
 ### `pip`
 
 * Summary: The PyPA recommended tool for installing Python packages.
@@ -134,24 +136,6 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Homepage: https://pip.pypa.io/
 * Author: The pip developers pypa-dev@groups.google.com
 * License :: OSI Approved :: MIT License
-
-### `pycparser`
-
-* Summary: C parser in Python
-* Version: 2.20
-* Pypi: https://pypi.org/project/pycparser/
-* Homepage: https://github.com/eliben/pycparser
-* Author: Eli Bendersky eliben@gmail.com
-* License :: OSI Approved :: BSD License
-
-### `pykerberos`
-
-* Summary: High-level interface to Kerberos
-* Version: 1.2.1
-* Pypi: https://pypi.org/project/pykerberos/
-* Homepage: 
-* Author: 
-* License :: OSI Approved :: Apache Software License
 
 ### `PySocks`
 
@@ -181,19 +165,10 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Stuart Bishop stuart@stuartbishop.net
 * License :: OSI Approved :: MIT License
 
-### `pywinrm`
-
-* Summary: Python library for Windows Remote Management
-* Version: 0.4.1
-* Pypi: https://pypi.org/project/pywinrm/
-* Homepage: http://github.com/diyan/pywinrm/
-* Author: Alexey Diyan alexey.diyan@gmail.com
-* License :: OSI Approved :: MIT License
-
 ### `PyYAML`
 
 * Summary: YAML parser and emitter for Python
-* Version: 5.3
+* Version: 5.3.1
 * Pypi: https://pypi.org/project/PyYAML/
 * Homepage: https://github.com/yaml/pyyaml
 * Author: Kirill Simonov xi@resolvent.net
@@ -202,7 +177,7 @@ Administrative keys for demisto/winrm:1.0.0.7727
 ### `regex`
 
 * Summary: Alternative regular expression module, to replace re.
-* Version: 2020.2.18
+* Version: 2020.2.20
 * Pypi: https://pypi.org/project/regex/
 * Homepage: https://bitbucket.org/mrabarnett/mrab-regex
 * Author: Matthew Barnett regex@mrabarnett.plus.com
@@ -217,19 +192,10 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Kenneth Reitz me@kennethreitz.org
 * License :: OSI Approved :: Apache Software License
 
-### `requests-ntlm`
-
-* Summary: This package allows for HTTP NTLM authentication using the requests library.
-* Version: 1.1.0
-* Pypi: https://pypi.org/project/requests_ntlm/
-* Homepage: https://github.com/requests/requests-ntlm
-* Author: Ben Toews mastahyeti@gmail.com
-* License :: OSI Approved :: ISC License (ISCL)
-
 ### `setuptools`
 
 * Summary: Easily download, build, install, upgrade, and uninstall Python packages
-* Version: 45.1.0
+* Version: 45.2.0
 * Pypi: https://pypi.org/project/setuptools/
 * Homepage: https://github.com/pypa/setuptools
 * Author: Python Packaging Authority distutils-sig@python.org
@@ -256,7 +222,7 @@ Administrative keys for demisto/winrm:1.0.0.7727
 ### `urllib3`
 
 * Summary: HTTP library with thread-safe connection pooling, file post, and more.
-* Version: 1.25.9
+* Version: 1.25.8
 * Pypi: https://pypi.org/project/urllib3/
 * Homepage: https://urllib3.readthedocs.io/
 * Author: Andrey Petrov andrey.petrov@shazow.net
@@ -271,51 +237,121 @@ Administrative keys for demisto/winrm:1.0.0.7727
 * Author: Daniel Holth dholth@fastmail.fm
 * License :: OSI Approved :: MIT License
 
-### `xmltodict`
-
-* Summary: Makes working with XML feel like you are working with JSON
-* Version: 0.12.0
-* Pypi: https://pypi.org/project/xmltodict/
-* Homepage: https://github.com/martinblech/xmltodict
-* Author: Martin Blech martinblech@gmail.com
-* License :: OSI Approved :: MIT License
-
 ## `OS Packages`
 
-* .python-rundeps-20200118.024315 noarch {.python-rundeps}
-* alpine-baselayout-3.2.0-r3 x86_64 {alpine-baselayout}
-* alpine-keys-2.1-r2 x86_64 {alpine-keys}
-* apk-tools-2.10.4-r3 x86_64 {apk-tools}
-* busybox-1.31.1-r9 x86_64 {busybox}
-* ca-certificates-20191127-r1 x86_64 {ca-certificates}
-* ca-certificates-cacert-20191127-r1 x86_64 {ca-certificates}
-* e2fsprogs-libs-1.45.5-r0 x86_64 {e2fsprogs}
-* expat-2.2.9-r1 x86_64 {expat}
-* gdbm-1.13-r1 x86_64 {gdbm}
-* keyutils-libs-1.6.1-r0 x86_64 {keyutils}
-* krb5-1.17.1-r0 x86_64 {krb5}
-* krb5-conf-1.0-r1 x86_64 {krb5-conf}
-* krb5-libs-1.17.1-r0 x86_64 {krb5}
-* libbz2-1.0.8-r1 x86_64 {bzip2}
-* libc-utils-0.7.2-r0 x86_64 {libc-dev}
-* libcom_err-1.45.5-r0 x86_64 {e2fsprogs}
-* libcrypto1.1-1.1.1g-r0 x86_64 {openssl}
-* libffi-3.2.1-r6 x86_64 {libffi}
-* libintl-0.20.1-r2 x86_64 {gettext}
-* libnsl-1.2.0-r1 x86_64 {libnsl}
-* libssl1.1-1.1.1g-r0 x86_64 {openssl}
-* libtirpc-1.1.4-r0 x86_64 {libtirpc}
-* libtls-standalone-2.9.1-r0 x86_64 {libtls-standalone}
-* libuuid-2.34-r1 x86_64 {util-linux}
-* libverto-0.3.1-r1 x86_64 {libverto}
-* musl-1.1.24-r2 x86_64 {musl}
-* musl-utils-1.1.24-r0 x86_64 {musl}
-* ncurses-libs-6.1_p20191130-r0 x86_64 {ncurses}
-* ncurses-terminfo-6.1_p20191130-r0 x86_64 {ncurses}
-* ncurses-terminfo-base-6.1_p20191130-r0 x86_64 {ncurses}
-* readline-8.0.1-r0 x86_64 {readline}
-* scanelf-1.2.4-r0 x86_64 {pax-utils}
-* sqlite-libs-3.30.1-r1 x86_64 {sqlite}
-* ssl_client-1.31.1-r9 x86_64 {busybox}
-* xz-libs-5.2.4-r0 x86_64 {xz}
-* zlib-1.2.11-r3 x86_64 {zlib}
+* adduser	3.118
+* apt	1.8.2
+* base-files	10.3+deb10u3
+* base-passwd	3.5.46
+* bash	5.0-4
+* bsdutils	1:2.33.1-0.1
+* ca-certificates	20190110
+* coreutils	8.30-3
+* dash	0.5.10.2-5
+* debconf	1.5.71
+* debian-archive-keyring	2019.1
+* debianutils	4.8.6.1
+* diffutils	1:3.7-3
+* dpkg	1.19.7
+* e2fsprogs	1.44.5-1+deb10u3
+* fdisk	2.33.1-0.1
+* findutils	4.6.0+git+20190209-2
+* gcc-8-base:amd64	8.3.0-6
+* gpgv	2.2.19-2~bpo10+1
+* grep	3.3-1
+* gzip	1.9-3
+* hostname	3.21
+* init-system-helpers	1.56+nmu1
+* libacl1:amd64	2.2.53-4
+* libapt-pkg5.0:amd64	1.8.2
+* libattr1:amd64	1:2.4.48-4
+* libaudit-common	1:2.8.4-3
+* libaudit1:amd64	1:2.8.4-3
+* libblkid1:amd64	2.33.1-0.1
+* libbz2-1.0:amd64	1.0.6-9.2~deb10u1
+* libc-bin	2.28-10
+* libc6:amd64	2.28-10
+* libcap-ng0:amd64	0.7.9-2
+* libcom-err2:amd64	1.45.5-2~bpo10+1
+* libdb5.3:amd64	5.3.28+dfsg1-0.5
+* libdebconfclient0:amd64	0.249
+* libdistorm3-3	3.4.1-3
+* libexpat1:amd64	2.2.6-2+deb10u1
+* libext2fs2:amd64	1.44.5-1+deb10u3
+* libfdisk1:amd64	2.33.1-0.1
+* libffi6:amd64	3.2.1-9
+* libgcc1:amd64	1:8.3.0-6
+* libgcrypt20:amd64	1.8.4-5
+* libgdbm6:amd64	1.18.1-4
+* libgmp10:amd64	2:6.1.2+dfsg-4
+* libgnutls30:amd64	3.6.7-4+deb10u2
+* libgpg-error0:amd64	1.35-1
+* libhogweed4:amd64	3.4.1-1
+* libidn2-0:amd64	2.0.5-1+deb10u1
+* libjs-jquery	3.3.1~dfsg-3
+* libjs-sphinxdoc	1.8.4-1
+* libjs-underscore	1.9.1~dfsg-1
+* liblz4-1:amd64	1.8.3-1
+* liblzma5:amd64	5.2.4-1
+* libmount1:amd64	2.33.1-0.1
+* libncurses6:amd64	6.1+20181013-2+deb10u2
+* libncursesw6:amd64	6.1+20181013-2+deb10u2
+* libnettle6:amd64	3.4.1-1
+* libp11-kit0:amd64	0.23.15-2
+* libpam-modules-bin	1.3.1-5
+* libpam-modules:amd64	1.3.1-5
+* libpam-runtime	1.3.1-5
+* libpam0g:amd64	1.3.1-5
+* libpcre3:amd64	2:8.39-12
+* libprocps7:amd64	2:3.3.15-2
+* libpython-stdlib:amd64	2.7.16-1
+* libpython2-stdlib:amd64	2.7.16-1
+* libpython2.7-minimal:amd64	2.7.16-2+deb10u1
+* libpython2.7-stdlib:amd64	2.7.16-2+deb10u1
+* libreadline7:amd64	7.0-5
+* libseccomp2:amd64	2.4.1-2~bpo10+1
+* libselinux1:amd64	2.8-1+b1
+* libsemanage-common	2.8-2
+* libsemanage1:amd64	2.8-2
+* libsepol1:amd64	2.8-1
+* libsmartcols1:amd64	2.33.1-0.1
+* libsqlite3-0:amd64	3.27.2-3
+* libss2:amd64	1.45.5-2~bpo10+1
+* libssl1.1:amd64	1.1.1d-0+deb10u2
+* libstdc++6:amd64	8.3.0-6
+* libsystemd0:amd64	244.3-1~bpo10+1
+* libtasn1-6:amd64	4.13-3
+* libtinfo6:amd64	6.1+20181013-2+deb10u2
+* libudev1:amd64	244.3-1~bpo10+1
+* libunistring2:amd64	0.9.10-1
+* libuuid1:amd64	2.33.1-0.1
+* libzstd1:amd64	1.4.4+dfsg-3~bpo10+1
+* login	1:4.5-1.1
+* lsb-base	10.2019051400
+* mawk	1.3.3-17+b3
+* mime-support	3.62
+* mount	2.33.1-0.1
+* ncurses-base	6.1+20181013-2+deb10u2
+* ncurses-bin	6.1+20181013-2+deb10u2
+* netbase	5.6
+* openssl	1.1.1d-0+deb10u2
+* passwd	1:4.5-1.1
+* perl-base	5.28.1-6
+* procps	2:3.3.15-2
+* python	2.7.16-1
+* python-configparser	3.5.0b2-1
+* python-distorm3	3.4.1-3
+* python-future	0.16.0-1
+* python-minimal	2.7.16-1
+* python-pefile	2018.8.8-1
+* python2	2.7.16-1
+* python2-minimal	2.7.16-1
+* python2.7	2.7.16-2+deb10u1
+* python2.7-minimal	2.7.16-2+deb10u1
+* readline-common	7.0-5
+* sed	4.7-1
+* sysvinit-utils	2.93-8
+* tar	1.30+dfsg-6
+* tzdata	2019c-0+deb10u1
+* util-linux	2.33.1-0.1
+* zlib1g:amd64	1:1.2.11.dfsg-1
