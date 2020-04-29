@@ -232,7 +232,6 @@
             "demisto/bs4",
             "demisto/geopy",
             "demisto/aiohttp",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -289,12 +288,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -345,7 +345,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -402,12 +401,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -873,7 +873,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -932,12 +931,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1028,7 +1028,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -1087,12 +1086,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1362,7 +1362,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -1419,12 +1418,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1832,7 +1832,6 @@
             "demisto/bs4",
             "demisto/geopy",
             "demisto/aiohttp",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -1889,12 +1888,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2317,7 +2317,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -2376,12 +2375,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2916,13 +2916,13 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/pandas",
             "demisto/matplotlib",
             "demisto/fasttext",
             "demisto/devo",
             "demisto/chromium",
             "demisto/dl",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pandas"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3000,7 +3000,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -3057,12 +3056,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3179,9 +3179,9 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/pandas",
             "demisto/devo",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/pandas"
         ],
         "home_page": "http://pandas.pydata.org",
         "licenses": [
@@ -3276,6 +3276,18 @@
         "pypi_url": "https://pypi.org/project/phish-ai-api/",
         "summary": "Phish.AI API wrapper"
     },
+    "phrases-case": {
+        "author": "NateScarlet NateScarlet@Gmail.com",
+        "docker_images": [
+            "demisto/pandas"
+        ],
+        "home_page": "https://github.com/NateScarlet/phrases-case",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/phrases-case/",
+        "summary": "Convert phrases between different cases."
+    },
     "pip": {
         "author": "The pip developers pypa-dev@groups.google.com",
         "docker_images": [
@@ -3352,7 +3364,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -3412,12 +3423,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3979,7 +3991,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -4038,12 +4049,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4134,7 +4146,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -4193,12 +4204,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4310,7 +4322,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -4367,12 +4378,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4441,7 +4453,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -4500,12 +4511,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4836,7 +4848,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -4896,12 +4907,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -4996,7 +5008,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -5055,12 +5066,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5436,7 +5448,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -5494,12 +5505,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5589,7 +5601,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -5648,12 +5659,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5904,7 +5916,6 @@
             "demisto/geopy",
             "demisto/aiohttp",
             "demisto/powershell-core",
-            "demisto/pandas",
             "demisto/py42",
             "demisto/matplotlib",
             "demisto/python",
@@ -5964,12 +5975,13 @@
             "demisto/distorm3",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/vertica",
             "demisto/pyotrs",
             "demisto/sixgill",
             "demisto/resilient",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/boto3py3",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
