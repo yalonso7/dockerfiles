@@ -126,8 +126,8 @@
     "Pillow": {
         "author": "Alex Clark (Fork Author) aclark@aclark.net",
         "docker_images": [
-            "demisto/chromium",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/chromium"
         ],
         "home_page": "http://python-pillow.org",
         "licenses": [
@@ -247,7 +247,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -259,7 +258,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -294,7 +292,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -360,7 +360,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -372,7 +371,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -407,7 +405,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -609,8 +609,8 @@
         "docker_images": [
             "demisto/zeep",
             "demisto/aiohttp",
-            "demisto/pymisp",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/pymisp"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -889,7 +889,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -901,7 +900,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -937,7 +935,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1044,7 +1044,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -1056,7 +1055,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -1092,7 +1090,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1158,8 +1158,8 @@
         "author": "Arnon Yaari tartley@tartley.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/chromium",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/tartley/colorama",
         "licenses": [
@@ -1196,9 +1196,9 @@
     "configparser": {
         "author": "\u0141ukasz Langa lukasz@langa.pl",
         "docker_images": [
-            "demisto/chromium",
             "demisto/trustar",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/jaraco/configparser/",
         "licenses": [
@@ -1377,7 +1377,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -1389,7 +1388,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -1424,7 +1422,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1847,7 +1847,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -1859,7 +1858,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -1894,7 +1892,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2333,7 +2333,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -2345,7 +2344,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -2381,7 +2379,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2405,8 +2405,8 @@
     "importlib-metadata": {
         "author": "Barry Warsaw barry@python.org",
         "docker_images": [
-            "demisto/pymisp",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/pymisp"
         ],
         "home_page": "http://importlib-metadata.readthedocs.io/",
         "licenses": [
@@ -2919,10 +2919,10 @@
             "demisto/matplotlib",
             "demisto/fasttext",
             "demisto/devo",
-            "demisto/chromium",
             "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/chromium"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3015,7 +3015,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -3027,7 +3026,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -3062,7 +3060,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3381,7 +3381,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -3393,7 +3392,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -3429,7 +3427,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4007,7 +4007,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -4019,7 +4018,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -4055,7 +4053,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4162,7 +4162,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -4174,7 +4173,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -4210,7 +4208,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4337,7 +4337,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -4349,7 +4348,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -4384,7 +4382,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4469,7 +4469,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -4481,7 +4480,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -4517,7 +4515,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4865,7 +4865,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -4877,7 +4876,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -4913,7 +4911,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5024,7 +5024,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -5036,7 +5035,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -5072,7 +5070,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5464,7 +5464,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -5476,7 +5475,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -5511,7 +5509,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5617,7 +5617,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -5629,7 +5628,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -5665,7 +5663,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5933,7 +5933,6 @@
             "demisto/yarapy",
             "demisto/google-cloud-translate",
             "demisto/zabbix",
-            "demisto/pymisp",
             "demisto/elasticsearch",
             "demisto/stix2",
             "demisto/taxii2",
@@ -5945,7 +5944,6 @@
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/hashicorp",
-            "demisto/chromium",
             "demisto/genericsql",
             "demisto/emoji",
             "demisto/taxii-server",
@@ -5981,7 +5979,9 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/boto3py3"
+            "demisto/chromium",
+            "demisto/boto3py3",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -6093,8 +6093,8 @@
     "zipp": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/pymisp",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/pymisp"
         ],
         "home_page": "https://github.com/jaraco/zipp",
         "licenses": [
