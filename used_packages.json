@@ -144,8 +144,8 @@
             "demisto/snowflake",
             "demisto/uptycs",
             "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/jpadilla/pyjwt",
         "licenses": [
@@ -273,7 +273,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -293,8 +292,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -386,7 +386,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -406,8 +405,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -916,7 +916,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -936,8 +935,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -959,7 +959,6 @@
             "demisto/netmiko",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/google-api-py3",
@@ -967,7 +966,8 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1071,7 +1071,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -1091,8 +1090,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1119,9 +1119,9 @@
             "demisto/keepercommander",
             "demisto/taxii-server",
             "demisto/nltk",
-            "demisto/teams",
             "demisto/sane-doc-reports",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1231,7 +1231,6 @@
             "demisto/netmiko",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/google-api-py3",
@@ -1239,7 +1238,8 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1403,7 +1403,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -1423,8 +1422,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1873,7 +1873,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -1893,8 +1892,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2360,7 +2360,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -2380,8 +2379,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2538,8 +2538,8 @@
     "jwt": {
         "author": "Kohei YOSHIDA kohei.yoshida@gehirn.co.jp",
         "docker_images": [
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/GehirnInc/python-jwt",
         "licenses": [
@@ -3041,7 +3041,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -3061,8 +3060,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3408,7 +3408,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -3428,8 +3427,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3704,7 +3704,6 @@
             "demisto/netmiko",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/google-api-py3",
@@ -3712,7 +3711,8 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4034,7 +4034,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -4054,8 +4053,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4189,7 +4189,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -4209,8 +4208,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4363,7 +4363,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -4383,8 +4382,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4496,7 +4496,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -4516,8 +4515,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4892,7 +4892,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -4912,8 +4911,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5051,7 +5051,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -5071,8 +5070,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5490,7 +5490,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -5510,8 +5509,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5644,7 +5644,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -5664,8 +5663,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5960,7 +5960,6 @@
             "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-kms",
             "demisto/trustar",
@@ -5980,8 +5979,9 @@
             "demisto/dnspython",
             "demisto/pandas",
             "demisto/chromium",
+            "demisto/pymisp",
             "demisto/boto3py3",
-            "demisto/pymisp"
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
