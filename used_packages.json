@@ -286,7 +286,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -294,7 +293,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -399,7 +399,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -407,7 +406,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -929,7 +929,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -937,7 +936,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1084,7 +1084,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -1092,7 +1091,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1416,7 +1416,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -1424,7 +1423,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1886,7 +1886,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -1894,7 +1893,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2373,7 +2373,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -2381,7 +2380,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3054,7 +3054,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -3062,7 +3061,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3421,7 +3421,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -3429,7 +3428,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4047,7 +4047,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -4055,7 +4054,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4202,7 +4202,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -4210,7 +4209,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4376,7 +4376,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -4384,7 +4383,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4509,7 +4509,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -4517,7 +4516,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4905,7 +4905,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -4913,7 +4912,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5064,7 +5064,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -5072,7 +5071,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5503,7 +5503,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -5511,7 +5510,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5657,7 +5657,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -5665,7 +5664,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5973,7 +5973,6 @@
             "demisto/resilient",
             "demisto/dnspython",
             "demisto/pandas",
-            "demisto/chromium",
             "demisto/pymisp",
             "demisto/boto3py3",
             "demisto/teams",
@@ -5981,7 +5980,8 @@
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
