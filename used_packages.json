@@ -291,10 +291,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -404,10 +404,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -934,10 +934,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1089,10 +1089,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1421,10 +1421,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1891,10 +1891,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2378,10 +2378,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3060,10 +3060,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3427,10 +3427,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4053,10 +4053,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4208,10 +4208,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4382,10 +4382,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4515,10 +4515,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4911,10 +4911,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5070,10 +5070,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5509,10 +5509,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5663,10 +5663,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5979,10 +5979,10 @@
             "demisto/chromium",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/boto3py3",
             "demisto/bs4",
             "demisto/google-cloud-storage",
-            "demisto/elasticsearch"
+            "demisto/elasticsearch",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
