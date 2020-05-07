@@ -283,7 +283,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -294,6 +293,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
@@ -396,7 +396,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -407,6 +406,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
@@ -810,10 +810,10 @@
             "demisto/google-kms",
             "demisto/google-api-py3",
             "demisto/resilient",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -926,7 +926,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -937,6 +936,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://certifi.io/",
@@ -1081,7 +1081,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -1092,6 +1091,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
@@ -1413,7 +1413,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -1424,6 +1423,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
@@ -1883,7 +1883,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -1894,6 +1893,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
@@ -1994,10 +1994,10 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2011,9 +2011,9 @@
         "docker_images": [
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -2030,10 +2030,10 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -2047,9 +2047,9 @@
         "docker_images": [
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -2183,10 +2183,10 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2226,8 +2226,8 @@
         "docker_images": [
             "demisto/google-cloud-translate",
             "demisto/google-kms",
-            "demisto/google-vision-api",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://grpc.io",
         "licenses": [
@@ -2255,9 +2255,9 @@
             "demisto/bigquery",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -2370,7 +2370,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -2381,6 +2380,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/kjd/idna",
@@ -2938,9 +2938,9 @@
             "demisto/bigquery",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -3052,7 +3052,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -3063,6 +3062,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
@@ -3419,7 +3419,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -3430,6 +3429,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://pip.pypa.io/",
@@ -3507,10 +3507,10 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -3622,11 +3622,11 @@
             "demisto/google-kms",
             "demisto/google-api-py3",
             "demisto/akamai",
-            "demisto/google-vision-api",
             "demisto/taxii",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3643,10 +3643,10 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -4045,7 +4045,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -4056,6 +4055,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
@@ -4200,7 +4200,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -4211,6 +4210,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
@@ -4374,7 +4374,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -4385,6 +4384,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
@@ -4507,7 +4507,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -4518,6 +4517,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "http://python-requests.org",
@@ -4642,11 +4642,11 @@
             "demisto/googleapi-python3",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/taxii",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4903,7 +4903,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -4914,6 +4913,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
@@ -5062,7 +5062,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -5073,6 +5072,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
@@ -5501,7 +5501,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -5512,6 +5511,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
@@ -5538,9 +5538,9 @@
         "docker_images": [
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api",
             "demisto/google-api",
-            "demisto/gvault"
+            "demisto/gvault",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -5655,7 +5655,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -5666,6 +5665,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
@@ -5971,7 +5971,6 @@
             "demisto/pandas",
             "demisto/pymisp",
             "demisto/teams",
-            "demisto/google-vision-api",
             "demisto/vertica",
             "demisto/hashicorp",
             "demisto/taxii",
@@ -5982,6 +5981,7 @@
             "demisto/bs4",
             "demisto/google-cloud-storage",
             "demisto/elasticsearch",
+            "demisto/google-vision-api",
             "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
