@@ -221,7 +221,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -249,7 +248,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -287,16 +285,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -335,7 +336,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -364,7 +364,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -402,16 +401,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -426,7 +428,8 @@
             "demisto/vmware",
             "demisto/exchangelib",
             "demisto/ews",
-            "demisto/py-ews"
+            "demisto/py-ews",
+            "demisto/py3ews"
         ],
         "home_page": "http://pygments.org/",
         "licenses": [
@@ -796,7 +799,8 @@
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/zeep",
-            "demisto/py-ews"
+            "demisto/py-ews",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/pydanny/cached-property",
         "licenses": [
@@ -816,9 +820,9 @@
             "demisto/resilient",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -866,7 +870,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -896,7 +899,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -934,17 +936,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -974,7 +979,8 @@
             "demisto/python_pancloud_v2",
             "demisto/winrm",
             "demisto/resilient",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/py3ews"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1023,7 +1029,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -1053,7 +1058,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -1091,17 +1095,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1248,7 +1255,8 @@
             "demisto/python_pancloud_v2",
             "demisto/winrm",
             "demisto/resilient",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1359,7 +1367,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -1388,7 +1395,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -1426,16 +1432,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1473,7 +1482,8 @@
         "docker_images": [
             "demisto/exchangelib",
             "demisto/servicenow",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/tiran/defusedxml",
         "licenses": [
@@ -1537,7 +1547,8 @@
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/py-ews",
-            "demisto/dnspython"
+            "demisto/dnspython",
+            "demisto/py3ews"
         ],
         "home_page": "http://www.dnspython.org",
         "licenses": [
@@ -1769,7 +1780,8 @@
         "docker_images": [
             "demisto/exchangelib",
             "demisto/ews",
-            "demisto/py-ews"
+            "demisto/py-ews",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/ecederstrand/exchangelib",
         "licenses": [
@@ -1832,7 +1844,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -1860,7 +1871,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -1898,16 +1908,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -1938,7 +1951,8 @@
             "demisto/ippysocks",
             "demisto/netmiko",
             "demisto/trustar",
-            "demisto/distorm3"
+            "demisto/distorm3",
+            "demisto/pykafka"
         ],
         "home_page": "https://python-future.org",
         "licenses": [
@@ -2009,9 +2023,9 @@
             "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2046,9 +2060,9 @@
             "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -2212,9 +2226,9 @@
             "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2240,8 +2254,8 @@
         "author": "Google Inc googleapis-packages@google.com",
         "docker_images": [
             "demisto/google-kms",
-            "demisto/google-cloud-storage",
-            "demisto/google-k8s-engine"
+            "demisto/google-k8s-engine",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2255,9 +2269,9 @@
         "docker_images": [
             "demisto/google-cloud-translate",
             "demisto/google-kms",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://grpc.io",
         "licenses": [
@@ -2335,7 +2349,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -2365,7 +2378,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -2403,17 +2415,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2479,7 +2494,8 @@
         "author": "Gerhard Weis gerhard.weis@proclos.com",
         "docker_images": [
             "demisto/exchangelib",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/gweis/isodate/",
         "licenses": [
@@ -2704,7 +2720,8 @@
             "demisto/taxii",
             "demisto/taxii-server",
             "demisto/bs4",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/py3ews"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2716,7 +2733,8 @@
     "lz4": {
         "author": "Jonathan Underwood jonathan.underwood@gmail.com",
         "docker_images": [
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/pykafka"
         ],
         "home_page": "https://github.com/python-lz4/python-lz4",
         "licenses": [
@@ -2724,6 +2742,18 @@
         ],
         "pypi_url": "https://pypi.org/project/lz4/",
         "summary": "LZ4 Bindings for Python"
+    },
+    "lz4tools": {
+        "author": "Christopher Jackson darkdragn.cj@gmail.com",
+        "docker_images": [
+            "demisto/pykafka"
+        ],
+        "home_page": "https://github.com/darkdragn/lz4file",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/lz4tools/",
+        "summary": "LZ4Frame Bindings and tools for Python"
     },
     "markdownify": {
         "author": "Matthew Tretter m@tthewwithanm.com",
@@ -2931,7 +2961,8 @@
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/py-ews",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/jborean93/ntlm-auth",
         "licenses": [
@@ -2985,7 +3016,8 @@
         "author": "The OAuthlib Community idan@gazit.me",
         "docker_images": [
             "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/oauthlib/oauthlib",
         "licenses": [
@@ -3021,7 +3053,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -3050,7 +3081,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -3088,16 +3118,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3387,7 +3420,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -3418,7 +3450,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -3456,17 +3487,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3545,9 +3579,9 @@
             "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -3662,9 +3696,9 @@
             "demisto/taxii",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3683,9 +3717,9 @@
             "demisto/google-api-py3",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -3752,7 +3786,8 @@
             "demisto/python_pancloud_v2",
             "demisto/winrm",
             "demisto/resilient",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4019,7 +4054,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -4049,7 +4083,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -4087,17 +4120,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4133,6 +4169,18 @@
         ],
         "pypi_url": "https://pypi.org/project/python-libnmap/",
         "summary": "Python NMAP library enabling you to start async nmap tasks, parse and compare/diff scan results"
+    },
+    "python-snappy": {
+        "author": "Andres Moreira andres@andresmoreira.com",
+        "docker_images": [
+            "demisto/pykafka"
+        ],
+        "home_page": "http://github.com/andrix/python-snappy",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/python-snappy/",
+        "summary": "Python library for the snappy compression library from Google"
     },
     "python-whois": {
         "author": "Richard Penman richard.penman@gmail.com",
@@ -4176,7 +4224,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -4206,7 +4253,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -4244,17 +4290,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4354,7 +4403,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -4383,7 +4431,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -4421,16 +4468,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4487,7 +4537,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -4517,7 +4566,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -4555,17 +4603,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4633,7 +4684,8 @@
             "demisto/exchangelib",
             "demisto/ews",
             "demisto/py-ews",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/requests/requests-ntlm",
         "licenses": [
@@ -4646,7 +4698,8 @@
         "author": "Kenneth Reitz me@kennethreitz.com",
         "docker_images": [
             "demisto/oauthlib",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/requests/requests-oauthlib",
         "licenses": [
@@ -4692,9 +4745,9 @@
             "demisto/taxii",
             "demisto/google-api",
             "demisto/gvault",
-            "demisto/google-cloud-storage",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/google-cloud-storage"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -4885,7 +4938,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -4916,7 +4968,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -4954,17 +5005,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5047,7 +5101,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -5077,7 +5130,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -5115,17 +5167,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5318,8 +5373,8 @@
         "author": "Sergey Astanin s.astanin@gmail.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/pykafka",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/pykafka"
         ],
         "home_page": "https://bitbucket.org/astanin/python-tabulate",
         "licenses": [
@@ -5490,7 +5545,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -5520,7 +5574,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -5558,16 +5611,19 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5645,7 +5701,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -5675,7 +5730,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -5713,17 +5767,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -5962,7 +6019,6 @@
             "demisto/pcap-http-extractor",
             "demisto/duoadmin",
             "demisto/blueliv",
-            "demisto/pykafka",
             "demisto/docxpy",
             "demisto/pymongo",
             "demisto/bigquery",
@@ -5993,7 +6049,6 @@
             "demisto/btfl-soup",
             "demisto/algorithmia",
             "demisto/slack",
-            "demisto/faker3",
             "demisto/ippysocks",
             "demisto/xlrd-py3",
             "demisto/genericsql",
@@ -6031,17 +6086,20 @@
             "demisto/google-api",
             "demisto/gvault",
             "demisto/bs4",
-            "demisto/google-cloud-storage",
             "demisto/elasticsearch",
             "demisto/sixgill",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/boto3py3",
             "demisto/dl",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/geopy",
-            "demisto/threatconnect-py3-sdk"
+            "demisto/threatconnect-py3-sdk",
+            "demisto/boto3py3",
+            "demisto/google-cloud-storage",
+            "demisto/faker3",
+            "demisto/pykafka",
+            "demisto/py3ews"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -6112,6 +6170,18 @@
         ],
         "pypi_url": "https://pypi.org/project/xmltodict/",
         "summary": "Makes working with XML feel like you are working with JSON"
+    },
+    "xxhash": {
+        "author": "Yue Du ifduyue@gmail.com",
+        "docker_images": [
+            "demisto/pykafka"
+        ],
+        "home_page": "https://github.com/ifduyue/python-xxhash",
+        "licenses": [
+            "License :: OSI Approved :: BSD License"
+        ],
+        "pypi_url": "https://pypi.org/project/xxhash/",
+        "summary": "Python binding for xxHash"
     },
     "yara-python": {
         "author": "Victor M. Alvarez plusvic@gmail.com, vmalvarez@virustotal.com",
