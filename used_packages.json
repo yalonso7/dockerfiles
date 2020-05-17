@@ -256,7 +256,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -297,7 +296,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -372,7 +372,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -413,7 +412,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -907,7 +907,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -949,7 +948,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1066,7 +1066,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -1108,7 +1107,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1403,7 +1403,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -1444,7 +1443,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1879,7 +1879,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -1920,7 +1919,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2386,7 +2386,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -2428,7 +2427,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3089,7 +3089,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -3130,7 +3129,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3458,7 +3458,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -3500,7 +3499,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3688,7 +3688,6 @@
             "demisto/ldap",
             "demisto/google-cloud-translate",
             "demisto/btfl-soup",
-            "demisto/smb",
             "demisto/google-kms",
             "demisto/akamai",
             "demisto/taxii",
@@ -3698,7 +3697,8 @@
             "demisto/google-api",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -4091,7 +4091,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -4133,7 +4132,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4261,7 +4261,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -4303,7 +4302,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4439,7 +4439,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -4480,7 +4479,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4574,7 +4574,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -4616,7 +4615,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4976,7 +4976,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -5018,7 +5017,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5138,7 +5138,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -5180,7 +5179,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5582,7 +5582,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -5623,7 +5622,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5738,7 +5738,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -5780,7 +5779,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6057,7 +6057,6 @@
             "demisto/python_zipfile",
             "demisto/threatconnect-sdk",
             "demisto/netmiko",
-            "demisto/smb",
             "demisto/python_pancloud",
             "demisto/pyjwt3",
             "demisto/oauthlib",
@@ -6099,7 +6098,8 @@
             "demisto/genericsql",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/trustar"
+            "demisto/trustar",
+            "demisto/smb"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
