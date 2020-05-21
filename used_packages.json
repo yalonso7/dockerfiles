@@ -14,8 +14,8 @@
     "Cython": {
         "author": "Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. cython-devel@python.org",
         "docker_images": [
-            "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "http://cython.org/",
         "licenses": [
@@ -273,7 +273,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -292,13 +291,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -390,7 +390,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -409,13 +408,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -926,7 +926,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -946,13 +945,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1086,7 +1086,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -1106,13 +1105,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1318,9 +1318,9 @@
     "cycler": {
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/matplotlib"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1424,7 +1424,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -1443,13 +1442,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1901,7 +1901,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -1920,13 +1919,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2409,7 +2409,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -2429,13 +2428,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2643,8 +2643,8 @@
     "kiwisolver": {
         "author": "The Nucleic Development Team sccolbert@gmail.com",
         "docker_images": [
-            "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/nucleic/kiwi",
         "licenses": [
@@ -2790,9 +2790,9 @@
     "matplotlib": {
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/matplotlib"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -2991,9 +2991,9 @@
             "demisto/devo",
             "demisto/pandas",
             "demisto/chromium",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/matplotlib"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3113,7 +3113,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -3132,13 +3131,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3482,7 +3482,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -3502,13 +3501,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3705,8 +3705,8 @@
             "demisto/google-api-py3",
             "demisto/btfl-soup",
             "demisto/smb",
-            "demisto/google-vision-api",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3951,9 +3951,9 @@
             "demisto/pypdf2",
             "demisto/pcap",
             "demisto/pyotrs",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
-            "demisto/dl"
+            "demisto/dl",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -4116,7 +4116,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -4136,13 +4135,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4287,7 +4287,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -4307,13 +4306,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4466,7 +4466,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -4485,13 +4484,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4602,7 +4602,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -4622,13 +4621,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4758,8 +4758,8 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/btfl-soup",
-            "demisto/google-vision-api",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -5004,7 +5004,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -5024,13 +5023,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5167,7 +5167,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -5187,13 +5186,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5612,7 +5612,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/google-k8s-engine",
             "demisto/geopy",
@@ -5631,13 +5630,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5769,7 +5769,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -5789,13 +5788,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6087,7 +6087,6 @@
             "demisto/taxii-server",
             "demisto/chromium",
             "demisto/sixgill",
-            "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/dl",
             "demisto/google-k8s-engine",
@@ -6107,13 +6106,14 @@
             "demisto/yarapy",
             "demisto/smb",
             "demisto/splunksdk",
-            "demisto/google-vision-api",
             "demisto/pymisp",
             "demisto/taxii",
             "demisto/netmiko",
-            "demisto/boto3py3",
             "demisto/bs4",
-            "demisto/genericsql"
+            "demisto/genericsql",
+            "demisto/google-vision-api",
+            "demisto/boto3py3",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
