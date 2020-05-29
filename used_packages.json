@@ -75,8 +75,8 @@
     "Flask": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/flask/",
         "licenses": [
@@ -88,8 +88,8 @@
     "Jinja2": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/jinja/",
         "licenses": [
@@ -113,8 +113,8 @@
     "MarkupSafe": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/markupsafe/",
         "licenses": [
@@ -277,12 +277,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -298,7 +296,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -394,12 +394,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -415,7 +413,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -479,8 +479,8 @@
     "Werkzeug": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/werkzeug/",
         "licenses": [
@@ -931,12 +931,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -952,7 +950,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -979,11 +979,11 @@
             "demisto/winrm",
             "demisto/resilient",
             "demisto/py3ews",
-            "demisto/slack",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1091,12 +1091,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -1112,7 +1110,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1140,8 +1140,8 @@
             "demisto/nltk",
             "demisto/pyotrs",
             "demisto/sane-doc-reports",
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1257,10 +1257,10 @@
             "demisto/winrm",
             "demisto/resilient",
             "demisto/py3ews",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1428,12 +1428,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -1449,7 +1447,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1905,12 +1905,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -1926,7 +1924,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2009,8 +2009,8 @@
     "gevent": {
         "author": "Denis Bilenko denis.bilenko@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "http://www.gevent.org/",
         "licenses": [
@@ -2246,8 +2246,8 @@
     "greenlet": {
         "author": "Alexey Borzenkov snaury@gmail.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/python-greenlet/greenlet",
         "licenses": [
@@ -2414,12 +2414,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -2435,7 +2433,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2526,8 +2526,8 @@
     "itsdangerous": {
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/itsdangerous/",
         "licenses": [
@@ -2902,8 +2902,8 @@
             "demisto/netaddr",
             "demisto/netutils",
             "demisto/taxii",
-            "demisto/teams",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -3117,12 +3117,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -3138,7 +3136,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3487,12 +3487,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -3508,7 +3506,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3791,11 +3791,11 @@
             "demisto/winrm",
             "demisto/resilient",
             "demisto/py3ews",
-            "demisto/slack",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4121,12 +4121,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -4142,7 +4140,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4292,12 +4292,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -4313,7 +4311,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4470,12 +4470,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -4491,7 +4489,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4607,12 +4607,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -4628,7 +4626,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -5032,12 +5032,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -5053,7 +5051,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5195,12 +5195,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -5216,7 +5214,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5662,12 +5662,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -5683,7 +5681,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5820,12 +5820,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -5841,7 +5839,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6138,12 +6138,10 @@
             "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/slack",
             "demisto/bigquery",
             "demisto/tesseract",
             "demisto/python-deb",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/ippysocks",
             "demisto/google-kms",
             "demisto/googleapi-python3",
@@ -6159,7 +6157,9 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
