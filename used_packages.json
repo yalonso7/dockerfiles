@@ -251,7 +251,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -298,7 +297,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -368,7 +368,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -415,7 +414,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -904,7 +904,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -952,7 +951,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1064,7 +1064,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -1112,7 +1111,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1402,7 +1402,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -1449,7 +1448,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1879,7 +1879,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -1926,7 +1925,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2387,7 +2387,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -2435,7 +2434,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2987,13 +2987,13 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/pandas",
             "demisto/chromium",
             "demisto/dl",
             "demisto/matplotlib",
             "demisto/sane-doc-reports",
             "demisto/devo",
-            "demisto/fasttext"
+            "demisto/fasttext",
+            "demisto/pandas"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3091,7 +3091,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -3138,7 +3137,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3255,9 +3255,9 @@
             "demisto/ml",
             "demisto/exchange",
             "demisto/panads3",
-            "demisto/pandas",
             "demisto/dl",
-            "demisto/devo"
+            "demisto/devo",
+            "demisto/pandas"
         ],
         "home_page": "http://pandas.pydata.org",
         "licenses": [
@@ -3460,7 +3460,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -3508,7 +3507,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4094,7 +4094,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -4142,7 +4141,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4265,7 +4265,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -4313,7 +4312,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4444,7 +4444,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -4491,7 +4490,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4580,7 +4580,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -4628,7 +4627,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -5005,7 +5005,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -5053,7 +5052,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5168,7 +5168,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -5216,7 +5215,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5636,7 +5636,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -5683,7 +5682,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5793,7 +5793,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -5841,7 +5840,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6111,7 +6111,6 @@
             "demisto/pyotrs",
             "demisto/resilient",
             "demisto/dnspython",
-            "demisto/pandas",
             "demisto/hashicorp",
             "demisto/chromium",
             "demisto/sixgill",
@@ -6159,7 +6158,8 @@
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pandas"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
