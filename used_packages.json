@@ -211,7 +211,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -292,13 +291,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -327,7 +327,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -409,13 +408,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -616,10 +616,10 @@
     "attrs": {
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
-            "demisto/zeep",
             "demisto/aiohttp",
             "demisto/pymisp",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/zeep"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -800,9 +800,9 @@
         "docker_images": [
             "demisto/exchangelib",
             "demisto/ews",
-            "demisto/zeep",
             "demisto/py-ews",
-            "demisto/py3ews"
+            "demisto/py3ews",
+            "demisto/zeep"
         ],
         "home_page": "https://github.com/pydanny/cached-property",
         "licenses": [
@@ -862,7 +862,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -946,13 +945,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1022,7 +1022,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -1106,13 +1105,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1361,7 +1361,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -1443,13 +1442,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1487,8 +1487,8 @@
         "docker_images": [
             "demisto/exchangelib",
             "demisto/servicenow",
-            "demisto/zeep",
-            "demisto/py3ews"
+            "demisto/py3ews",
+            "demisto/zeep"
         ],
         "home_page": "https://github.com/tiran/defusedxml",
         "licenses": [
@@ -1839,7 +1839,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -1920,13 +1919,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2345,7 +2345,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -2429,13 +2428,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2501,8 +2501,8 @@
         "author": "Gerhard Weis gerhard.weis@proclos.com",
         "docker_images": [
             "demisto/exchangelib",
-            "demisto/zeep",
-            "demisto/py3ews"
+            "demisto/py3ews",
+            "demisto/zeep"
         ],
         "home_page": "https://github.com/gweis/isodate/",
         "licenses": [
@@ -2719,7 +2719,6 @@
             "demisto/xmlparser",
             "demisto/ews",
             "demisto/pyquery",
-            "demisto/zeep",
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/docxpy",
@@ -2728,7 +2727,8 @@
             "demisto/bs4",
             "demisto/sane-doc-reports",
             "demisto/taxii",
-            "demisto/taxii-server"
+            "demisto/taxii-server",
+            "demisto/zeep"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -3050,7 +3050,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -3132,13 +3131,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3418,7 +3418,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -3502,13 +3501,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4052,7 +4052,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -4136,13 +4135,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4223,7 +4223,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -4307,13 +4306,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4403,7 +4403,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -4485,13 +4484,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4538,7 +4538,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -4622,13 +4621,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4666,9 +4666,9 @@
             "demisto/google-cloud-translate",
             "demisto/genericsql",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/distorm3"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -4746,8 +4746,8 @@
     "requests-toolbelt": {
         "author": "Ian Cordasco, Cory Benfield graffatcolmingov@gmail.com",
         "docker_images": [
-            "demisto/zeep",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/zeep"
         ],
         "home_page": "https://toolbelt.readthedocs.org",
         "licenses": [
@@ -4963,7 +4963,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -5047,13 +5046,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5126,7 +5126,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -5210,13 +5209,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5547,9 +5547,9 @@
             "demisto/google-cloud-translate",
             "demisto/genericsql",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5594,7 +5594,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -5677,13 +5676,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5751,7 +5751,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -5835,13 +5834,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6069,7 +6069,6 @@
             "demisto/readpdf",
             "demisto/cloaken",
             "demisto/nmap",
-            "demisto/zeep",
             "demisto/m2crypto",
             "demisto/circleci",
             "demisto/openssh",
@@ -6153,13 +6152,14 @@
             "demisto/genericsql",
             "demisto/taxii-server",
             "demisto/netmiko",
-            "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
             "demisto/teams",
-            "demisto/pandas"
+            "demisto/pandas",
+            "demisto/zeep",
+            "demisto/distorm3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
