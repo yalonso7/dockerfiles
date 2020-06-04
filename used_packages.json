@@ -231,7 +231,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -286,7 +285,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -298,7 +296,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -348,7 +348,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -403,7 +402,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -415,7 +413,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -504,8 +504,8 @@
     "aiohttp": {
         "author": "Nikolay Kim fafhrd91@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/aiohttp",
         "licenses": [
@@ -603,8 +603,8 @@
     "async-timeout": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/async_timeout/",
         "licenses": [
@@ -617,9 +617,9 @@
         "author": "Hynek Schlawack hs@ox.cx",
         "docker_images": [
             "demisto/pymisp",
-            "demisto/slack",
             "demisto/aiohttp",
-            "demisto/zeep"
+            "demisto/zeep",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -885,7 +885,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -940,7 +939,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -952,7 +950,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -971,7 +971,6 @@
             "demisto/py-ews",
             "demisto/crypto",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/google-kms",
             "demisto/resilient",
             "demisto/netmiko",
@@ -983,7 +982,8 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/slack"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1045,7 +1045,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -1100,7 +1099,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -1112,7 +1110,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1382,7 +1382,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -1437,7 +1436,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -1449,7 +1447,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1859,7 +1859,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -1914,7 +1913,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -1926,7 +1924,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2368,7 +2368,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -2423,7 +2422,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -2435,7 +2433,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2555,8 +2555,8 @@
             "demisto/snowflake",
             "demisto/python_pancloud",
             "demisto/jmespath",
-            "demisto/boto3py3",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/jmespath/jmespath.py",
         "licenses": [
@@ -2861,8 +2861,8 @@
     "multidict": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/multidict",
         "licenses": [
@@ -3070,7 +3070,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -3125,7 +3124,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -3137,7 +3135,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3440,7 +3440,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -3495,7 +3494,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -3507,7 +3505,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3782,7 +3782,6 @@
             "demisto/py-ews",
             "demisto/crypto",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/google-kms",
             "demisto/resilient",
             "demisto/netmiko",
@@ -3794,7 +3793,8 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4074,7 +4074,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -4129,7 +4128,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -4141,7 +4139,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4245,7 +4245,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -4300,7 +4299,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -4312,7 +4310,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4423,7 +4423,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -4478,7 +4477,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -4490,7 +4488,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4560,7 +4560,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -4615,7 +4614,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -4627,7 +4625,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4663,7 +4663,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -4718,7 +4717,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -4730,7 +4728,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5048,7 +5048,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -5103,7 +5102,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -5115,7 +5113,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5211,7 +5211,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -5266,7 +5265,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -5278,7 +5276,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5607,7 +5607,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -5662,7 +5661,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -5674,7 +5672,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5741,7 +5741,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -5796,7 +5795,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -5808,7 +5806,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5899,7 +5899,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -5954,7 +5953,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -5966,7 +5964,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6217,7 +6217,6 @@
             "demisto/python_zipfile",
             "demisto/btfl-soup",
             "demisto/python_pancloud",
-            "demisto/slack",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/bs4",
@@ -6272,7 +6271,6 @@
             "demisto/netutils",
             "demisto/google-api",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
             "demisto/teams",
@@ -6284,7 +6282,9 @@
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/boto3py3",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -6383,8 +6383,8 @@
     "yarl": {
         "author": "Andrew Svetlov andrew.svetlov@gmail.com",
         "docker_images": [
-            "demisto/slack",
-            "demisto/aiohttp"
+            "demisto/aiohttp",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/aio-libs/yarl/",
         "licenses": [
