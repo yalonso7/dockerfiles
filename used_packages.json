@@ -248,7 +248,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -294,11 +293,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -365,7 +365,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -411,11 +410,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -902,7 +902,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -948,11 +947,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1062,7 +1062,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -1108,11 +1107,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1139,9 +1139,9 @@
             "demisto/keepercommander",
             "demisto/sane-doc-reports",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/taxii-server",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/pyotrs"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1399,7 +1399,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -1445,11 +1444,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1876,7 +1876,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -1922,11 +1921,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2385,7 +2385,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -2431,11 +2430,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3087,7 +3087,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -3133,11 +3132,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3457,7 +3457,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -3503,11 +3502,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3951,8 +3951,8 @@
             "demisto/pcap",
             "demisto/dl",
             "demisto/sane-doc-reports",
-            "demisto/pyotrs",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -4091,7 +4091,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -4137,11 +4136,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4262,7 +4262,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -4308,11 +4307,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4440,7 +4440,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -4486,11 +4485,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4577,7 +4577,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -4623,11 +4622,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4680,7 +4680,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -4726,11 +4725,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5065,7 +5065,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -5111,11 +5110,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5228,7 +5228,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -5274,11 +5273,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5624,7 +5624,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -5670,11 +5669,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5758,7 +5758,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -5804,11 +5803,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5916,7 +5916,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -5962,11 +5961,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6234,7 +6234,6 @@
             "demisto/google-kms",
             "demisto/pymongo",
             "demisto/archer",
-            "demisto/pyotrs",
             "demisto/geopy",
             "demisto/trustar",
             "demisto/docxpy",
@@ -6280,11 +6279,12 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
+            "demisto/sixgill",
+            "demisto/marketo",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/sixgill",
-            "demisto/marketo"
+            "demisto/slack",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
