@@ -144,8 +144,8 @@
             "demisto/snowflake",
             "demisto/uptycs",
             "demisto/pyjwt3",
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/jpadilla/pyjwt",
         "licenses": [
@@ -283,7 +283,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -295,10 +294,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -400,7 +400,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -412,10 +411,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -937,7 +937,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -949,10 +948,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -976,14 +976,14 @@
             "demisto/netmiko",
             "demisto/py3ews",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-api-py3",
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1097,7 +1097,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -1109,10 +1108,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1140,8 +1140,8 @@
             "demisto/sane-doc-reports",
             "demisto/nltk",
             "demisto/taxii-server",
-            "demisto/teams",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1254,13 +1254,13 @@
             "demisto/netmiko",
             "demisto/py3ews",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-api-py3",
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
-            "demisto/winrm"
+            "demisto/winrm",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1434,7 +1434,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -1446,10 +1445,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1911,7 +1911,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -1923,10 +1922,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2420,7 +2420,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -2432,10 +2431,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2592,8 +2592,8 @@
     "jwt": {
         "author": "Kohei YOSHIDA kohei.yoshida@gehirn.co.jp",
         "docker_images": [
-            "demisto/teams",
-            "demisto/oauthlib"
+            "demisto/oauthlib",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/GehirnInc/python-jwt",
         "licenses": [
@@ -2901,8 +2901,8 @@
             "demisto/netaddr",
             "demisto/taxii-server",
             "demisto/netutils",
-            "demisto/teams",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -3122,7 +3122,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -3134,10 +3133,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3492,7 +3492,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -3504,10 +3503,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3787,14 +3787,14 @@
             "demisto/netmiko",
             "demisto/py3ews",
             "demisto/pyjwt3",
-            "demisto/teams",
             "demisto/oauthlib",
             "demisto/google-api-py3",
             "demisto/akamai",
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4126,7 +4126,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -4138,10 +4137,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4297,7 +4297,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -4309,10 +4308,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4475,7 +4475,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -4487,10 +4486,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4612,7 +4612,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -4624,10 +4623,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4715,7 +4715,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -4727,10 +4726,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5100,7 +5100,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -5112,10 +5111,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5263,7 +5263,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -5275,10 +5274,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5659,7 +5659,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -5671,10 +5670,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5793,7 +5793,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -5805,10 +5804,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5951,7 +5951,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -5963,10 +5962,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6269,7 +6269,6 @@
             "demisto/google-api",
             "demisto/pyjwt3",
             "demisto/elasticsearch",
-            "demisto/teams",
             "demisto/zeep",
             "demisto/oauthlib",
             "demisto/googleapi-python3",
@@ -6281,10 +6280,11 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/google-vision-api",
             "demisto/boto3py3",
             "demisto/slack",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/google-vision-api",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
