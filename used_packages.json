@@ -14,8 +14,8 @@
     "Cython": {
         "author": "Robert Bradshaw, Stefan Behnel, Dag Seljebotn, Greg Ewing, et al. cython-devel@python.org",
         "docker_images": [
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://cython.org/",
         "licenses": [
@@ -213,7 +213,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -293,12 +292,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -329,7 +329,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -410,12 +409,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -570,9 +570,9 @@
     "arrow": {
         "author": "Chris Smith crsmithdev@gmail.com",
         "docker_images": [
-            "demisto/sane-doc-reports",
             "demisto/python_pancloud",
-            "demisto/python_pancloud_v2"
+            "demisto/python_pancloud_v2",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://arrow.readthedocs.io",
         "licenses": [
@@ -821,10 +821,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -866,7 +866,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -947,12 +946,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1026,7 +1026,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -1107,12 +1106,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1137,11 +1137,11 @@
         "author": "Armin Ronacher armin.ronacher@active-4.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/sane-doc-reports",
             "demisto/nltk",
             "demisto/pyotrs",
             "demisto/taxii-server",
-            "demisto/teams"
+            "demisto/teams",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1319,8 +1319,8 @@
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
             "demisto/dl",
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1363,7 +1363,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -1444,12 +1443,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1841,7 +1841,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -1921,12 +1920,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2028,10 +2028,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2045,9 +2045,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -2065,10 +2065,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -2082,9 +2082,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -2231,10 +2231,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2276,8 +2276,8 @@
             "demisto/google-kms",
             "demisto/google-cloud-translate",
             "demisto/google-k8s-engine",
-            "demisto/google-vision-api",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://grpc.io",
         "licenses": [
@@ -2305,9 +2305,9 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -2349,7 +2349,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -2430,12 +2429,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2642,8 +2642,8 @@
     "kiwisolver": {
         "author": "The Nucleic Development Team sccolbert@gmail.com",
         "docker_images": [
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/nucleic/kiwi",
         "licenses": [
@@ -2721,13 +2721,13 @@
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/py-ews",
-            "demisto/sane-doc-reports",
             "demisto/bs4",
             "demisto/docxpy",
             "demisto/py3ews",
             "demisto/zeep",
             "demisto/taxii-server",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2790,8 +2790,8 @@
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
             "demisto/dl",
-            "demisto/sane-doc-reports",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -2987,12 +2987,12 @@
             "demisto/exchange",
             "demisto/panads3",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/pandas",
             "demisto/devo",
             "demisto/fasttext",
             "demisto/chromium",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3007,9 +3007,9 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -3051,7 +3051,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -3132,12 +3131,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3421,7 +3421,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -3502,12 +3501,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3585,10 +3585,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -3701,11 +3701,11 @@
             "demisto/btfl-soup",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3723,10 +3723,10 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -3950,9 +3950,9 @@
             "demisto/pypdf2",
             "demisto/pcap",
             "demisto/dl",
-            "demisto/sane-doc-reports",
             "demisto/pyotrs",
-            "demisto/matplotlib"
+            "demisto/matplotlib",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -4055,7 +4055,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -4136,12 +4135,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4156,8 +4156,8 @@
         "docker_images": [
             "demisto/word-parser",
             "demisto/office-utils",
-            "demisto/sane-doc-reports",
-            "demisto/docxpy"
+            "demisto/docxpy",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "https://github.com/python-openxml/python-docx",
         "licenses": [
@@ -4226,7 +4226,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -4307,12 +4306,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4404,7 +4404,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -4485,12 +4484,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4541,7 +4541,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -4622,12 +4621,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4646,7 +4646,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -4726,12 +4725,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -4841,11 +4841,11 @@
             "demisto/btfl-soup",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -5030,7 +5030,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -5111,12 +5110,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5193,7 +5193,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -5274,12 +5273,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5591,7 +5591,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -5671,12 +5670,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5724,7 +5724,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -5805,12 +5804,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5836,9 +5836,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -5882,7 +5882,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -5963,12 +5962,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6200,7 +6200,6 @@
             "demisto/python3",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/sane-doc-reports",
             "demisto/tld",
             "demisto/sane-pdf-reports",
             "demisto/threatconnect-sdk",
@@ -6281,12 +6280,13 @@
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports",
+            "demisto/google-vision-api",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
