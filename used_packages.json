@@ -285,9 +285,7 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -297,8 +295,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -401,10 +401,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -414,8 +412,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -707,8 +707,8 @@
             "demisto/pytan",
             "demisto/xmlparser",
             "demisto/bs4",
-            "demisto/btfl-soup",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/btfl-soup"
         ],
         "home_page": "http://www.crummy.com/software/BeautifulSoup/bs4/",
         "licenses": [
@@ -938,10 +938,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -951,8 +949,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1098,10 +1098,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -1111,8 +1109,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1435,10 +1435,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -1448,8 +1446,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1913,9 +1913,7 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -1925,8 +1923,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2421,10 +2421,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -2434,8 +2432,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2764,8 +2764,8 @@
     "markdownify": {
         "author": "Matthew Tretter m@tthewwithanm.com",
         "docker_images": [
-            "demisto/btfl-soup",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/btfl-soup"
         ],
         "home_page": "http://github.com/matthewwithanm/python-markdownify",
         "licenses": [
@@ -3123,10 +3123,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -3136,8 +3134,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3493,10 +3493,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -3506,8 +3504,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3698,14 +3698,14 @@
             "demisto/google-k8s-engine",
             "demisto/akamai",
             "demisto/bigquery",
-            "demisto/btfl-soup",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/taxii",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3818,8 +3818,8 @@
     "pycryptodome": {
         "author": "Helder Eijs helderijs@gmail.com",
         "docker_images": [
-            "demisto/btfl-soup",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://www.pycryptodome.org",
         "licenses": [
@@ -4127,10 +4127,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -4140,8 +4138,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4298,10 +4298,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -4311,8 +4309,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4476,10 +4476,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -4489,8 +4487,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4613,10 +4613,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -4626,8 +4624,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4718,9 +4718,7 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -4730,8 +4728,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -4838,14 +4838,14 @@
             "demisto/google-cloud-translate",
             "demisto/google-k8s-engine",
             "demisto/bigquery",
-            "demisto/btfl-soup",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/google-cloud-storage",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/taxii",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -5102,10 +5102,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -5115,8 +5113,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5265,10 +5265,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -5278,8 +5276,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5340,8 +5340,8 @@
         "author": "Isaac Muse Isaac.Muse@gmail.com",
         "docker_images": [
             "demisto/bs4",
-            "demisto/btfl-soup",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/btfl-soup"
         ],
         "home_page": "https://github.com/facelessuser/soupsieve",
         "licenses": [
@@ -5663,9 +5663,7 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -5675,8 +5673,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5796,10 +5796,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -5809,8 +5807,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -5954,10 +5954,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -5967,8 +5965,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6272,10 +6272,8 @@
             "demisto/taxii-server",
             "demisto/python",
             "demisto/chromium",
-            "demisto/btfl-soup",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/gvault",
             "demisto/google-api",
@@ -6285,8 +6283,10 @@
             "demisto/taxii",
             "demisto/sane-doc-reports",
             "demisto/google-vision-api",
+            "demisto/taxii2",
             "demisto/boto3py3",
-            "demisto/taxii2"
+            "demisto/btfl-soup",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
