@@ -81,6 +81,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/pandas](demisto/pandas/last.md)
 * [demisto/pcap](demisto/pcap/last.md)
 * [demisto/pcap-http-extractor](demisto/pcap-http-extractor/last.md)
+* [demisto/pcap-miner](demisto/pcap-miner/last.md)
 * [demisto/pdfx](demisto/pdfx/last.md)
 * [demisto/pdfx2](demisto/pdfx2/last.md)
 * [demisto/phishai](demisto/phishai/last.md)
@@ -157,4 +158,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-06-18 01:05:41.319501
+Last updated: 2020-06-19 01:09:05.205776
