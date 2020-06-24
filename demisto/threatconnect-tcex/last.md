@@ -1,8 +1,8 @@
-# `demisto/boto3py3:1.0.0.9584`
+# `demisto/threatconnect-tcex:1.0.0.9577`
 ## Docker Metadata
-- Image Size: `38.25 MB`
-- Image ID: `sha256:77e49416bd9c49cf4458b71b1b49fa7b4051bc9e3602919a6ad9ebe7589e2b80`
-- Created: `2020-06-23T20:11:41.492431169Z`
+- Image Size: `33.88 MB`
+- Image ID: `sha256:8ff17002ead9586ffb747c2305f60977a7497217f251531764978db7f450d754`
+- Created: `2020-06-23T12:08:53.529635059Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -13,11 +13,11 @@
   - `PYTHON_PIP_VERSION=20.1.1`
   - `PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/eff16c878c7fd6b688b9b4c4267695cf1a0bf01b/get-pip.py`
   - `PYTHON_GET_PIP_SHA256=b3153ec0cf7b7bbf9556932aa37e4981c35dc2a2c501d70d91d2795aa532be79`
-  - `DOCKER_IMAGE=demisto/boto3py3:1.0.0.9584`
+  - `DOCKER_IMAGE=demisto/threatconnect-tcex:1.0.0.9577`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:9db5f3e328cd6948ee82b4590e1aa9782ce97bb3`
-  - `org.opencontainers.image.version:1.0.0.9584`
+  - `org.opencontainers.image.revision:f8ae084c0c3f1e1d45d6ade6beb4f7ff31fefa2e`
+  - `org.opencontainers.image.version:1.0.0.9577`
 
 - OS Release:
   - `NAME="Alpine Linux"`
@@ -30,43 +30,34 @@
 ## Docker Trust
 ```
 
-Signatures for demisto/boto3py3:1.0.0.9584
+Signatures for demisto/threatconnect-tcex:1.0.0.9577
 
 SIGNED TAG          DIGEST                                                             SIGNERS
-1.0.0.9584          1f75beef3cb24770e2f52eda9d5010888d2d2756c12a74fb86c1c8ef862fbfd6   (Repo Admin)
+1.0.0.9577          9c8c128ef062f002541f300de7601b0d175573f9d513642ae66bc72932593798   (Repo Admin)
 
-Administrative keys for demisto/boto3py3:1.0.0.9584
+Administrative keys for demisto/threatconnect-tcex:1.0.0.9577
 
-  Repository Key:	cfe86d8f6e0178e2a77477d651d16cfc814b6e47b04f1f04d94917fb248a1ae8
-  Root Key:	c4222af787cfc1a173f56c5eab482e5c4602eae4bb767431e17594c786c162f8
+  Repository Key:	558cd217dffe942e2caa69e8238760b35e5c84038ad0e3edc48776749bb58e3b
+  Root Key:	3dc797d59e6728ae557610048792f7cbde08ea2f3f846f7ed1f79026bb898245
 
 ```
 
 ## `Python Packages`
 
 
-### `boto3`
+### `attrs`
 
-* Summary: The AWS SDK for Python
-* Version: 1.14.9
-* Pypi: https://pypi.org/project/boto3/
-* Homepage: https://github.com/boto/boto3
-* Author: Amazon Web Services
-* License :: OSI Approved :: Apache Software License
-
-### `botocore`
-
-* Summary: Low-level, data-driven core of boto 3.
-* Version: 1.17.9
-* Pypi: https://pypi.org/project/botocore/
-* Homepage: https://github.com/boto/botocore
-* Author: Amazon Web Services
-* License :: OSI Approved :: Apache Software License
+* Summary: Classes Without Boilerplate
+* Version: 19.3.0
+* Pypi: https://pypi.org/project/attrs/
+* Homepage: https://www.attrs.org/
+* Author: Hynek Schlawack hs@ox.cx
+* License :: OSI Approved :: MIT License
 
 ### `certifi`
 
 * Summary: Python package for providing Mozilla's CA Bundle.
-* Version: 2020.4.5.1
+* Version: 2020.6.20
 * Pypi: https://pypi.org/project/certifi/
 * Homepage: https://certifiio.readthedocs.io/en/latest/
 * Author: Kenneth Reitz me@kennethreitz.com
@@ -80,6 +71,15 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Homepage: https://github.com/chardet/chardet
 * Author: Daniel Blanchard dan.blanchard@gmail.com
 * License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+
+### `colorama`
+
+* Summary: Cross-platform colored terminal text.
+* Version: 0.4.3
+* Pypi: https://pypi.org/project/colorama/
+* Homepage: https://github.com/tartley/colorama
+* Author: Jonathan Hartley tartley@tartley.com
+* License :: OSI Approved :: BSD License
 
 ### `dateparser`
 
@@ -99,6 +99,24 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Author: Alexander Schepanovski suor.web@gmail.com
 * License :: OSI Approved :: BSD License
 
+### `future`
+
+* Summary: Clean single-source support for Python 3 and 2
+* Version: 0.18.2
+* Pypi: https://pypi.org/project/future/
+* Homepage: https://python-future.org
+* Author: Ed Schofield ed@pythoncharmers.com
+* License :: OSI Approved :: MIT License
+
+### `hvac`
+
+* Summary: HashiCorp Vault API client
+* Version: 0.10.4
+* Pypi: https://pypi.org/project/hvac/
+* Homepage: https://github.com/hvac/hvac
+* Author: Ian Unruh <ianunruh@gmail.com>, Jeffrey Hogan <jeff.hogan1@gmail.com> admin@python-hvac.org
+* License :: OSI Approved :: Apache Software License
+
 ### `idna`
 
 * Summary: Internationalized Domain Names in Applications (IDNA)
@@ -108,13 +126,22 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Author: Kim Davies kim@cynosure.com.au
 * License :: OSI Approved :: BSD License
 
-### `jmespath`
+### `inflect`
 
-* Summary: JSON Matching Expressions
-* Version: 0.10.0
-* Pypi: https://pypi.org/project/jmespath/
-* Homepage: https://github.com/jmespath/jmespath.py
-* Author: James Saryerwinnie js@jamesls.com
+* Summary: Correctly generate plurals, singular nouns, ordinals, indefinite articles; convert numbers to words
+* Version: 4.1.0
+* Pypi: https://pypi.org/project/inflect/
+* Homepage: https://github.com/jazzband/inflect
+* Author: Paul Dyson pwdyson@yahoo.com
+* License :: OSI Approved :: MIT License
+
+### `jsonschema`
+
+* Summary: An implementation of JSON Schema validation for Python
+* Version: 3.2.0
+* Pypi: https://pypi.org/project/jsonschema/
+* Homepage: https://github.com/Julian/jsonschema
+* Author: Julian Berman Julian@GrayVines.com
 * License :: OSI Approved :: MIT License
 
 ### `olefile`
@@ -126,6 +153,24 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Author: Philippe Lagadec nospam@decalage.info
 * License :: OSI Approved :: BSD License
 
+### `paho-mqtt`
+
+* Summary: MQTT version 3.1.1 client class
+* Version: 1.5.0
+* Pypi: https://pypi.org/project/paho-mqtt/
+* Homepage: http://eclipse.org/paho
+* Author: Roger Light roger@atchoo.org
+* License: Eclipse Public License v1.0 / Eclipse Distribution License v1.0
+
+### `parsedatetime`
+
+* Summary: Parse human-readable date/time text.
+* Version: 2.6
+* Pypi: https://pypi.org/project/parsedatetime/
+* Homepage: https://github.com/bear/parsedatetime
+* Author: Mike Taylor bear@bear.im
+* License :: OSI Approved :: Apache Software License
+
 ### `pip`
 
 * Summary: The PyPA recommended tool for installing Python packages.
@@ -133,6 +178,24 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Pypi: https://pypi.org/project/pip/
 * Homepage: https://pip.pypa.io/
 * Author: The pip developers pypa-dev@groups.google.com
+* License :: OSI Approved :: MIT License
+
+### `pyaes`
+
+* Summary: Pure-Python Implementation of the AES block-cipher and common modes of operation
+* Version: 1.6.1
+* Pypi: https://pypi.org/project/pyaes/
+* Homepage: https://github.com/ricmoo/pyaes
+* Author: Richard Moore pyaes@ricmoo.com
+* License :: OSI Approved :: MIT License
+
+### `pyrsistent`
+
+* Summary: Persistent/Functional/Immutable data structures
+* Version: 0.16.0
+* Pypi: https://pypi.org/project/pyrsistent/
+* Homepage: http://github.com/tobgu/pyrsistent/
+* Author: Tobias Gustafsson tobias.l.gustafsson@gmail.com
 * License :: OSI Approved :: MIT License
 
 ### `PySocks`
@@ -172,10 +235,19 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Author: Kirill Simonov xi@resolvent.net
 * License :: OSI Approved :: MIT License
 
+### `redis`
+
+* Summary: Python client for Redis key-value store
+* Version: 3.5.3
+* Pypi: https://pypi.org/project/redis/
+* Homepage: https://github.com/andymccurdy/redis-py
+* Author: Andy McCurdy sedrik@gmail.com
+* License :: OSI Approved :: MIT License
+
 ### `regex`
 
 * Summary: Alternative regular expression module, to replace re.
-* Version: 2020.5.14
+* Version: 2020.6.8
 * Pypi: https://pypi.org/project/regex/
 * Homepage: https://bitbucket.org/mrabarnett/mrab-regex
 * Author: Matthew Barnett regex@mrabarnett.plus.com
@@ -184,7 +256,7 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 ### `requests`
 
 * Summary: Python HTTP for Humans.
-* Version: 2.23.0
+* Version: 2.24.0
 * Pypi: https://pypi.org/project/requests/
 * Homepage: https://requests.readthedocs.io
 * Author: Kenneth Reitz me@kennethreitz.org
@@ -197,15 +269,6 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Pypi: https://pypi.org/project/requests-file/
 * Homepage: http://github.com/dashea/requests-file
 * Author: David Shea reallylongword@gmail.com
-* License :: OSI Approved :: Apache Software License
-
-### `s3transfer`
-
-* Summary: An Amazon S3 Transfer Manager
-* Version: 0.3.3
-* Pypi: https://pypi.org/project/s3transfer/
-* Homepage: https://github.com/boto/s3transfer
-* Author: Amazon Web Services kyknapp1@gmail.com
 * License :: OSI Approved :: Apache Software License
 
 ### `setuptools`
@@ -225,6 +288,24 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Homepage: https://github.com/benjaminp/six
 * Author: Benjamin Peterson benjamin@python.org
 * License :: OSI Approved :: MIT License
+
+### `stdlib-list`
+
+* Summary: A list of Python Standard Libraries (2.6-7, 3.2-8).
+* Version: 0.7.0
+* Pypi: https://pypi.org/project/stdlib-list/
+* Homepage: https://github.com/jackmaney/python-stdlib-list
+* Author: Jack Maney jackmaney@gmail.com
+* License: MIT
+
+### `tcex`
+
+* Summary: ThreatConnect Exchange App Framework
+* Version: 2.0.5
+* Pypi: https://pypi.org/project/tcex/
+* Homepage: https://github.com/ThreatConnect-Inc/tcex
+* Author: ThreatConnect (support@threatconnect.com) support@threatconnect.com
+* License :: OSI Approved :: Apache Software License
 
 ### `tldextract`
 
@@ -262,6 +343,15 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * Author: Daniel Holth dholth@fastmail.fm
 * License :: OSI Approved :: MIT License
 
+### `wrapt`
+
+* Summary: Module for decorators, wrappers and monkey patching.
+* Version: 1.12.1
+* Pypi: https://pypi.org/project/wrapt/
+* Homepage: https://github.com/GrahamDumpleton/wrapt
+* Author: Graham Dumpleton Graham.Dumpleton@gmail.com
+* License :: OSI Approved :: BSD License
+
 ## `OS Packages`
 
 * .python-rundeps-20200520.204755 noarch {.python-rundeps}
@@ -269,8 +359,8 @@ Administrative keys for demisto/boto3py3:1.0.0.9584
 * alpine-keys-2.1-r2 x86_64 {alpine-keys}
 * apk-tools-2.10.5-r0 x86_64 {apk-tools}
 * busybox-1.31.1-r9 x86_64 {busybox}
-* ca-certificates-20191127-r1 x86_64 {ca-certificates}
-* ca-certificates-cacert-20191127-r1 x86_64 {ca-certificates}
+* ca-certificates-20191127-r2 x86_64 {ca-certificates}
+* ca-certificates-cacert-20191127-r2 x86_64 {ca-certificates}
 * expat-2.2.9-r1 x86_64 {expat}
 * gdbm-1.13-r1 x86_64 {gdbm}
 * keyutils-libs-1.6.1-r0 x86_64 {keyutils}
