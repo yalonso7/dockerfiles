@@ -256,7 +256,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -298,8 +297,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -374,7 +374,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -417,8 +416,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -621,9 +621,9 @@
         "docker_images": [
             "demisto/aiohttp",
             "demisto/zeep",
-            "demisto/slack",
             "demisto/pymisp",
-            "demisto/threatconnect-tcex"
+            "demisto/threatconnect-tcex",
+            "demisto/slack"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -914,7 +914,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -957,8 +956,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -985,11 +985,11 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
             "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/slack"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1076,7 +1076,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -1119,8 +1118,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1416,7 +1416,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -1459,8 +1458,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1896,7 +1896,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -1938,8 +1937,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2419,7 +2419,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -2462,8 +2461,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3137,7 +3137,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -3180,8 +3179,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3533,7 +3533,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -3576,8 +3575,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3873,11 +3873,11 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/slack",
             "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/slack"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4184,7 +4184,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -4227,8 +4226,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4357,7 +4357,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -4400,8 +4399,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4538,7 +4538,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -4581,8 +4580,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4677,7 +4677,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -4720,8 +4719,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4785,7 +4785,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -4826,8 +4825,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5170,7 +5170,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -5213,8 +5212,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5335,7 +5335,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -5378,8 +5377,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5760,7 +5760,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -5801,8 +5800,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5894,7 +5894,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -5937,8 +5936,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6054,7 +6054,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -6097,8 +6096,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6374,7 +6374,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/slack",
             "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
@@ -6417,8 +6416,9 @@
             "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
+            "demisto/threatconnect-tcex",
             "demisto/boto3py3",
-            "demisto/threatconnect-tcex"
+            "demisto/slack"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
