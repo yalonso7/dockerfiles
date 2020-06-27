@@ -256,7 +256,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -284,7 +283,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -298,8 +296,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -374,7 +374,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -403,7 +402,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -417,8 +415,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -914,7 +914,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -943,7 +942,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -957,8 +955,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1076,7 +1076,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -1105,7 +1104,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -1119,8 +1117,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1146,10 +1146,10 @@
         "docker_images": [
             "demisto/keepercommander",
             "demisto/nltk",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/teams",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyotrs"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1186,9 +1186,9 @@
         "author": "Arnon Yaari tartley@tartley.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/pyotrs",
             "demisto/chromium",
-            "demisto/threatconnect-tcex"
+            "demisto/threatconnect-tcex",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/tartley/colorama",
         "licenses": [
@@ -1416,7 +1416,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -1445,7 +1444,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -1459,8 +1457,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1896,7 +1896,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -1924,7 +1923,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -1938,8 +1936,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2419,7 +2419,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -2448,7 +2447,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -2462,8 +2460,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3137,7 +3137,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -3166,7 +3165,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -3180,8 +3178,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3533,7 +3533,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -3562,7 +3561,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -3576,8 +3574,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4033,9 +4033,9 @@
             "demisto/pypdf2",
             "demisto/pcap",
             "demisto/dl",
-            "demisto/pyotrs",
             "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -4184,7 +4184,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -4213,7 +4212,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -4227,8 +4225,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4357,7 +4357,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -4386,7 +4385,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -4400,8 +4398,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4538,7 +4538,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -4567,7 +4566,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -4581,8 +4579,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4677,7 +4677,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -4706,7 +4705,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -4720,8 +4718,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4785,7 +4785,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -4812,7 +4811,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -4826,8 +4824,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5170,7 +5170,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -5199,7 +5198,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -5213,8 +5211,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5335,7 +5335,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -5364,7 +5363,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -5378,8 +5376,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5760,7 +5760,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -5787,7 +5786,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -5801,8 +5799,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5894,7 +5894,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -5923,7 +5922,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -5937,8 +5935,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6054,7 +6054,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -6083,7 +6082,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -6097,8 +6095,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6374,7 +6374,6 @@
             "demisto/winrm",
             "demisto/sixgill",
             "demisto/marketo",
-            "demisto/pyotrs",
             "demisto/taxii-server",
             "demisto/google-cloud-storage",
             "demisto/taxii2",
@@ -6403,7 +6402,6 @@
             "demisto/google-api-py3",
             "demisto/trustar",
             "demisto/devo",
-            "demisto/yarapy",
             "demisto/fasttext",
             "demisto/google-cloud-translate",
             "demisto/netmiko",
@@ -6417,8 +6415,10 @@
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
+            "demisto/genericsql",
             "demisto/boto3py3",
-            "demisto/genericsql"
+            "demisto/pyotrs",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -6543,8 +6543,8 @@
     "zipp": {
         "author": "Jason R. Coombs jaraco@jaraco.com",
         "docker_images": [
-            "demisto/pyotrs",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/pyotrs"
         ],
         "home_page": "https://github.com/jaraco/zipp",
         "licenses": [
