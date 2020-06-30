@@ -290,16 +290,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -409,16 +409,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -949,16 +949,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1111,16 +1111,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1186,9 +1186,9 @@
         "author": "Arnon Yaari tartley@tartley.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/chromium",
             "demisto/threatconnect-tcex",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/chromium"
         ],
         "home_page": "https://github.com/tartley/colorama",
         "licenses": [
@@ -1451,16 +1451,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1930,16 +1930,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2454,16 +2454,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3033,8 +3033,8 @@
             "demisto/pandas",
             "demisto/devo",
             "demisto/fasttext",
-            "demisto/chromium",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/chromium"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3172,16 +3172,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3568,16 +3568,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4219,16 +4219,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4392,16 +4392,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4573,16 +4573,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4712,16 +4712,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4818,16 +4818,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5205,16 +5205,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5370,16 +5370,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5793,16 +5793,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5929,16 +5929,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6089,16 +6089,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6409,16 +6409,16 @@
             "demisto/google-k8s-engine",
             "demisto/pcap-miner",
             "demisto/pymisp",
-            "demisto/chromium",
             "demisto/pykafka",
             "demisto/google-vision-api",
             "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/sane-doc-reports",
             "demisto/genericsql",
-            "demisto/boto3py3",
             "demisto/pyotrs",
-            "demisto/yarapy"
+            "demisto/yarapy",
+            "demisto/chromium",
+            "demisto/boto3py3"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
