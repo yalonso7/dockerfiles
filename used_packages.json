@@ -261,14 +261,12 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
             "demisto/netutils",
             "demisto/python-deb",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -299,7 +297,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -379,7 +379,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -387,7 +386,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -418,7 +416,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -919,7 +919,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -927,7 +926,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -958,7 +956,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -985,11 +985,11 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
             "demisto/netmiko",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1081,7 +1081,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -1089,7 +1088,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -1120,7 +1118,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1147,9 +1147,9 @@
             "demisto/keepercommander",
             "demisto/nltk",
             "demisto/taxii-server",
-            "demisto/teams",
             "demisto/sane-doc-reports",
-            "demisto/pyotrs"
+            "demisto/pyotrs",
+            "demisto/teams"
         ],
         "home_page": "https://palletsprojects.com/p/click/",
         "licenses": [
@@ -1266,10 +1266,10 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
-            "demisto/netmiko"
+            "demisto/netmiko",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1421,7 +1421,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -1429,7 +1428,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -1460,7 +1458,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1901,14 +1901,12 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
             "demisto/netutils",
             "demisto/python-deb",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -1939,7 +1937,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2424,7 +2424,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -2432,7 +2431,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -2463,7 +2461,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2942,9 +2942,9 @@
         "docker_images": [
             "demisto/netaddr",
             "demisto/taxii-server",
-            "demisto/teams",
             "demisto/taxii",
-            "demisto/netutils"
+            "demisto/netutils",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -3142,7 +3142,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -3150,7 +3149,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -3181,7 +3179,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3538,7 +3538,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -3546,7 +3545,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -3577,7 +3575,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3873,11 +3873,11 @@
             "demisto/smime-encrypt",
             "demisto/python_pancloud_v2",
             "demisto/winrm",
-            "demisto/teams",
             "demisto/google-kms",
             "demisto/google-api-py3",
             "demisto/netmiko",
-            "demisto/slack"
+            "demisto/slack",
+            "demisto/teams"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4189,7 +4189,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -4197,7 +4196,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -4228,7 +4226,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4362,7 +4362,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -4370,7 +4369,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -4401,7 +4399,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4543,7 +4543,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -4551,7 +4550,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -4582,7 +4580,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4682,7 +4682,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -4690,7 +4689,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -4721,7 +4719,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4789,14 +4789,12 @@
             "demisto/google-cloud-storage",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
             "demisto/netutils",
             "demisto/python-deb",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -4827,7 +4825,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5175,7 +5175,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -5183,7 +5182,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -5214,7 +5212,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5340,7 +5340,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -5348,7 +5347,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -5379,7 +5377,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5764,14 +5764,12 @@
             "demisto/google-cloud-storage",
             "demisto/taxii2",
             "demisto/btfl-soup",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
             "demisto/netutils",
             "demisto/python-deb",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -5802,7 +5800,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5899,7 +5899,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -5907,7 +5906,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -5938,7 +5936,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6059,7 +6059,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -6067,7 +6066,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -6098,7 +6096,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6379,7 +6379,6 @@
             "demisto/taxii2",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/teams",
             "demisto/taxii",
             "demisto/python3",
             "demisto/python",
@@ -6387,7 +6386,6 @@
             "demisto/netutils",
             "demisto/python-deb",
             "demisto/powershell-core",
-            "demisto/py42",
             "demisto/matplotlib",
             "demisto/sane-pdf-reports",
             "demisto/gvault",
@@ -6418,7 +6416,9 @@
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
-            "demisto/boto3py3"
+            "demisto/boto3py3",
+            "demisto/teams",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
