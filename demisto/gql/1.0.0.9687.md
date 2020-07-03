@@ -1,8 +1,8 @@
-# `demisto/taxii2:1.0.0.9699`
+# `demisto/gql:1.0.0.9687`
 ## Docker Metadata
-- Image Size: `32.08 MB`
-- Image ID: `sha256:9df987547e5bdf809b48ed5c1d5fa500730211a908f445c74bcf6afb55577ae4`
-- Created: `2020-07-02T22:45:35.003397866Z`
+- Image Size: `32.40 MB`
+- Image ID: `sha256:8726978e4236bde5b407988a91d9026a59cf4763c7d07022f7175f4ba665739b`
+- Created: `2020-07-02T21:14:05.20621314Z`
 - Arch: `linux`/`amd64`
 - Command: `["python3"]`
 - Environment:
@@ -13,11 +13,11 @@
   - `PYTHON_PIP_VERSION=20.1.1`
   - `PYTHON_GET_PIP_URL=https://github.com/pypa/get-pip/raw/eff16c878c7fd6b688b9b4c4267695cf1a0bf01b/get-pip.py`
   - `PYTHON_GET_PIP_SHA256=b3153ec0cf7b7bbf9556932aa37e4981c35dc2a2c501d70d91d2795aa532be79`
-  - `DOCKER_IMAGE=demisto/taxii2:1.0.0.9699`
+  - `DOCKER_IMAGE=demisto/gql:1.0.0.9687`
 - Labels:
   - `org.opencontainers.image.authors:Demisto <containers@demisto.com>`
-  - `org.opencontainers.image.revision:16610a4bf5312da249d3ace9859fd6789d3ad9f7`
-  - `org.opencontainers.image.version:1.0.0.9699`
+  - `org.opencontainers.image.revision:bd4d5a1a0dcf04687f05743656565a3d96dc1df3`
+  - `org.opencontainers.image.version:1.0.0.9687`
 
 - OS Release:
   - `NAME="Alpine Linux"`
@@ -30,29 +30,20 @@
 ## Docker Trust
 ```
 
-Signatures for demisto/taxii2:1.0.0.9699
+Signatures for demisto/gql:1.0.0.9687
 
 SIGNED TAG          DIGEST                                                             SIGNERS
-1.0.0.9699          f6e118f93a57b811e29430b2c3b2d65e1655a1c75c054a3f35eea589a9efa7a8   (Repo Admin)
+1.0.0.9687          ae2a90c1decc52a422683a743e05792a7fe4a9ffbe98cc117d57ee18f3d9a4c7   (Repo Admin)
 
-Administrative keys for demisto/taxii2:1.0.0.9699
+Administrative keys for demisto/gql:1.0.0.9687
 
-  Repository Key:	160407e8a2a764f875bd0d73fd2d359f91a5e4651635be29bced4de786aa9744
-  Root Key:	4b36f63fcc0f902948865f2537cc5b1a3c4c47b7c80f72c67ee7e29095ef5a8d
+  Repository Key:	8a0d532e4f196069fd4b576832ad0389237091b633ac89a9de077e1c673007bd
+  Root Key:	dd0ce0149b3904d07122d00e9cde854524b0760476ac12fa61360e46d75059ae
 
 ```
 
 ## `Python Packages`
 
-
-### `antlr4-python3-runtime`
-
-* Summary: ANTLR 4.8 runtime for Python 3.7
-* Version: 4.8
-* Pypi: https://pypi.org/project/antlr4-python3-runtime/
-* Homepage: http://www.antlr.org
-* Author: Eric Vergnaud, Terence Parr, Sam Harwell eric.vergnaud@wanadoo.fr
-* License: BSD
 
 ### `certifi`
 
@@ -90,6 +81,24 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * Author: Alexander Schepanovski suor.web@gmail.com
 * License :: OSI Approved :: BSD License
 
+### `gql`
+
+* Summary: GraphQL client for Python
+* Version: 2.0.0
+* Pypi: https://pypi.org/project/gql/
+* Homepage: https://github.com/graphql-python/gql
+* Author: Syrus Akbary me@syrusakbary.com
+* License: MIT
+
+### `graphql-core`
+
+* Summary: GraphQL implementation for Python, a port of GraphQL.js, the JavaScript reference implementation for GraphQL.
+* Version: 2.3.2
+* Pypi: https://pypi.org/project/graphql-core/
+* Homepage: https://github.com/graphql-python/graphql-core
+* Author: Christoph Zwerschke cito@online.de
+* License :: OSI Approved :: MIT License
+
 ### `idna`
 
 * Summary: Internationalized Domain Names in Applications (IDNA)
@@ -115,6 +124,15 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * Pypi: https://pypi.org/project/pip/
 * Homepage: https://pip.pypa.io/
 * Author: The pip developers pypa-dev@groups.google.com
+* License :: OSI Approved :: MIT License
+
+### `promise`
+
+* Summary: Promises/A+ implementation for Python
+* Version: 2.3
+* Pypi: https://pypi.org/project/promise/
+* Homepage: https://github.com/syrusakbary/promise
+* Author: Syrus Akbary me@syrusakbary.com
 * License :: OSI Approved :: MIT License
 
 ### `PySocks`
@@ -157,7 +175,7 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 ### `regex`
 
 * Summary: Alternative regular expression module, to replace re.
-* Version: 2020.5.14
+* Version: 2020.6.8
 * Pypi: https://pypi.org/project/regex/
 * Homepage: https://bitbucket.org/mrabarnett/mrab-regex
 * Author: Matthew Barnett regex@mrabarnett.plus.com
@@ -181,6 +199,15 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * Author: David Shea reallylongword@gmail.com
 * License :: OSI Approved :: Apache Software License
 
+### `Rx`
+
+* Summary: Reactive Extensions (Rx) for Python
+* Version: 1.6.1
+* Pypi: https://pypi.org/project/Rx/
+* Homepage: http://reactivex.io
+* Author: Dag Brattli dag@brattli.net
+* License :: OSI Approved :: MIT License
+
 ### `setuptools`
 
 * Summary: Easily download, build, install, upgrade, and uninstall Python packages
@@ -188,16 +215,6 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * Pypi: https://pypi.org/project/setuptools/
 * Homepage: https://github.com/pypa/setuptools
 * Author: Python Packaging Authority distutils-sig@python.org
-* License :: OSI Approved :: MIT License
-
-### `simplejson`
-
-* Summary: Simple, fast, extensible JSON encoder/decoder for Python
-* Version: 3.17.0
-* Pypi: https://pypi.org/project/simplejson/
-* Homepage: https://github.com/simplejson/simplejson
-* Author: Bob Ippolito bob@redivi.com
-* License :: OSI Approved :: Academic Free License (AFL)
 * License :: OSI Approved :: MIT License
 
 ### `six`
@@ -208,33 +225,6 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * Homepage: https://github.com/benjaminp/six
 * Author: Benjamin Peterson benjamin@python.org
 * License :: OSI Approved :: MIT License
-
-### `stix2`
-
-* Summary: Produce and consume STIX 2 JSON content
-* Version: 1.4.0
-* Pypi: https://pypi.org/project/stix2/
-* Homepage: https://oasis-open.github.io/cti-documentation/
-* Author: OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org
-* License :: OSI Approved :: BSD License
-
-### `stix2-patterns`
-
-* Summary: Validate STIX 2 Patterns.
-* Version: 1.3.0
-* Pypi: https://pypi.org/project/stix2-patterns/
-* Homepage: https://github.com/oasis-open/cti-pattern-validator
-* Author: Chris Lenk clenk@mitre.org
-* License :: OSI Approved :: BSD License
-
-### `taxii2-client`
-
-* Summary: TAXII 2 Client Library
-* Version: 2.2.0
-* Pypi: https://pypi.org/project/taxii2-client/
-* Homepage: https://oasis-open.github.io/cti-documentation/
-* Author: OASIS Cyber Threat Intelligence Technical Committee cti-users@lists.oasis-open.org
-* License :: OSI Approved :: BSD License
 
 ### `tldextract`
 
@@ -279,8 +269,8 @@ Administrative keys for demisto/taxii2:1.0.0.9699
 * alpine-keys-2.1-r2 x86_64 {alpine-keys}
 * apk-tools-2.10.5-r0 x86_64 {apk-tools}
 * busybox-1.31.1-r9 x86_64 {busybox}
-* ca-certificates-20191127-r1 x86_64 {ca-certificates}
-* ca-certificates-cacert-20191127-r1 x86_64 {ca-certificates}
+* ca-certificates-20191127-r2 x86_64 {ca-certificates}
+* ca-certificates-cacert-20191127-r2 x86_64 {ca-certificates}
 * expat-2.2.9-r1 x86_64 {expat}
 * gdbm-1.13-r1 x86_64 {gdbm}
 * keyutils-libs-1.6.1-r0 x86_64 {keyutils}

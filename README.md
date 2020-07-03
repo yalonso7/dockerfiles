@@ -52,6 +52,7 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/google-kms](demisto/google-kms/last.md)
 * [demisto/google-vision-api](demisto/google-vision-api/last.md)
 * [demisto/googleapi-python3](demisto/googleapi-python3/last.md)
+* [demisto/gql](demisto/gql/last.md)
 * [demisto/gvault](demisto/gvault/last.md)
 * [demisto/hashicorp](demisto/hashicorp/last.md)
 * [demisto/ippysocks](demisto/ippysocks/last.md)
@@ -160,4 +161,4 @@ If you are searching for a specific package and want to see if it is available i
 * [demisto/zeep](demisto/zeep/last.md)
 
 ---
-Last updated: 2020-07-02 01:02:34.905205
+Last updated: 2020-07-03 01:03:12.302314
