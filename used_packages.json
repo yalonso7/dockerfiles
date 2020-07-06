@@ -288,7 +288,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -301,7 +300,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -407,7 +407,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -421,7 +420,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -960,7 +960,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -974,7 +973,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1123,7 +1123,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -1137,7 +1136,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1464,7 +1464,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -1478,7 +1477,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1824,6 +1824,18 @@
         "pypi_url": "https://pypi.org/project/exchangelib/",
         "summary": "Client for Microsoft Exchange Web Services (EWS)"
     },
+    "expiringdict": {
+        "author": "Mailgun Technologies Inc. admin@mailgun.com",
+        "docker_images": [
+            "demisto/genericsql"
+        ],
+        "home_page": "https://www.mailgun.com/",
+        "licenses": [
+            "License :: OSI Approved :: Apache Software License"
+        ],
+        "pypi_url": "https://pypi.org/project/expiringdict/",
+        "summary": "Dictionary with auto-expiring values for caching purposes"
+    },
     "fastjsonschema": {
         "author": "Michal Horejsek horejsekmichal@gmail.com",
         "docker_images": [
@@ -1945,7 +1957,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -1958,7 +1969,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2493,7 +2505,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -2507,7 +2518,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3212,7 +3224,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -3226,7 +3237,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3609,7 +3621,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -3623,7 +3634,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4273,7 +4285,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -4287,7 +4298,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4447,7 +4459,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -4461,7 +4472,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4629,7 +4641,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -4643,7 +4654,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4769,7 +4781,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -4783,7 +4794,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4877,7 +4889,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -4890,7 +4901,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5264,7 +5276,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -5278,7 +5289,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5430,7 +5442,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -5444,7 +5455,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5855,7 +5867,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -5868,7 +5879,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5991,7 +6003,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -6005,7 +6016,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6152,7 +6164,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -6166,7 +6177,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6473,7 +6485,6 @@
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/genericsql",
             "demisto/pyotrs",
             "demisto/yarapy",
             "demisto/chromium",
@@ -6487,7 +6498,8 @@
             "demisto/netutils",
             "demisto/google-vision-api",
             "demisto/pymisp",
-            "demisto/resilient"
+            "demisto/resilient",
+            "demisto/genericsql"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
