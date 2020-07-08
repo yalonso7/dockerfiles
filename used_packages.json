@@ -259,7 +259,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -300,8 +299,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -378,7 +378,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -420,8 +419,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -931,7 +931,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -973,8 +972,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1094,7 +1094,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -1136,8 +1135,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1435,7 +1435,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -1477,8 +1476,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1928,7 +1928,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -1969,8 +1968,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2476,7 +2476,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -2518,8 +2517,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2823,9 +2823,9 @@
             "demisto/py3ews",
             "demisto/zeep",
             "demisto/taxii-server",
-            "demisto/taxii",
             "demisto/pcap-miner",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/taxii"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2998,9 +2998,9 @@
         "docker_images": [
             "demisto/netaddr",
             "demisto/taxii-server",
-            "demisto/taxii",
             "demisto/teams",
-            "demisto/netutils"
+            "demisto/netutils",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/drkjam/netaddr/",
         "licenses": [
@@ -3195,7 +3195,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -3237,8 +3236,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3592,7 +3592,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -3634,8 +3633,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3848,7 +3848,6 @@
             "demisto/smb",
             "demisto/akamai",
             "demisto/btfl-soup",
-            "demisto/taxii",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/bigquery",
@@ -3858,7 +3857,8 @@
             "demisto/google-cloud-translate",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -4256,7 +4256,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -4298,8 +4297,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4430,7 +4430,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -4472,8 +4471,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4612,7 +4612,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -4654,8 +4653,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4752,7 +4752,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -4794,8 +4793,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4860,7 +4860,6 @@
             "demisto/marketo",
             "demisto/taxii-server",
             "demisto/btfl-soup",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -4901,8 +4900,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5006,7 +5006,6 @@
         "author": "Sybren A. Stuvel sybren@stuvel.eu",
         "docker_images": [
             "demisto/btfl-soup",
-            "demisto/taxii",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/bigquery",
@@ -5016,7 +5015,8 @@
             "demisto/google-cloud-translate",
             "demisto/google-k8s-engine",
             "demisto/google-vision-api",
-            "demisto/google-cloud-storage"
+            "demisto/google-cloud-storage",
+            "demisto/taxii"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -5247,7 +5247,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -5289,8 +5288,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5413,7 +5413,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -5455,8 +5454,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5838,7 +5838,6 @@
             "demisto/marketo",
             "demisto/taxii-server",
             "demisto/btfl-soup",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -5879,8 +5878,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5974,7 +5974,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -6016,8 +6015,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6135,7 +6135,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -6177,8 +6176,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6456,7 +6456,6 @@
             "demisto/taxii-server",
             "demisto/btfl-soup",
             "demisto/faker3",
-            "demisto/taxii",
             "demisto/python3",
             "demisto/python",
             "demisto/python3-deb",
@@ -6498,8 +6497,9 @@
             "demisto/pymisp",
             "demisto/resilient",
             "demisto/genericsql",
+            "demisto/google-cloud-storage",
             "demisto/boto3py3",
-            "demisto/google-cloud-storage"
+            "demisto/taxii"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
