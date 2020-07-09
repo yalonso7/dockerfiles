@@ -264,7 +264,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -282,7 +281,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -300,8 +298,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -383,7 +383,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -401,7 +400,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -420,8 +418,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -936,7 +936,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -954,7 +953,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -973,8 +971,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1099,7 +1099,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -1117,7 +1116,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -1136,8 +1134,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1440,7 +1440,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -1458,7 +1457,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -1477,8 +1475,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1933,7 +1933,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -1951,7 +1950,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -1969,8 +1967,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2481,7 +2481,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -2499,7 +2498,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -2518,8 +2516,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2823,9 +2823,9 @@
             "demisto/py3ews",
             "demisto/zeep",
             "demisto/taxii-server",
-            "demisto/pcap-miner",
             "demisto/sane-doc-reports",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/pcap-miner"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -3200,7 +3200,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -3218,7 +3217,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -3237,8 +3235,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3597,7 +3597,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -3615,7 +3614,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -3634,8 +3632,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4261,7 +4261,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -4279,7 +4278,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -4298,8 +4296,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4335,6 +4335,18 @@
         ],
         "pypi_url": "https://pypi.org/project/python-libnmap/",
         "summary": "Python NMAP library enabling you to start async nmap tasks, parse and compare/diff scan results"
+    },
+    "python-magic": {
+        "author": "Adam Hupp adam@hupp.org",
+        "docker_images": [
+            "demisto/pcap-miner"
+        ],
+        "home_page": "http://github.com/ahupp/python-magic",
+        "licenses": [
+            "License :: OSI Approved :: MIT License"
+        ],
+        "pypi_url": "https://pypi.org/project/python-magic/",
+        "summary": "File type identification using libmagic"
     },
     "python-snappy": {
         "author": "Andres Moreira andres@andresmoreira.com",
@@ -4435,7 +4447,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -4453,7 +4464,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -4472,8 +4482,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4617,7 +4629,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -4635,7 +4646,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -4654,8 +4664,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4757,7 +4769,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -4775,7 +4786,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -4794,8 +4804,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4865,7 +4877,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -4883,7 +4894,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -4901,8 +4911,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5252,7 +5264,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -5270,7 +5281,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -5289,8 +5299,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5418,7 +5430,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -5436,7 +5447,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -5455,8 +5465,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5843,7 +5855,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -5861,7 +5872,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -5879,8 +5889,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5979,7 +5991,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -5997,7 +6008,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -6016,8 +6026,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6140,7 +6152,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -6158,7 +6169,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -6177,8 +6187,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6461,7 +6473,6 @@
             "demisto/python3-deb",
             "demisto/python-deb",
             "demisto/matplotlib",
-            "demisto/sane-pdf-reports",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/tesseract",
@@ -6479,7 +6490,6 @@
             "demisto/netmiko",
             "demisto/distorm3",
             "demisto/google-k8s-engine",
-            "demisto/pcap-miner",
             "demisto/pykafka",
             "demisto/threatconnect-tcex",
             "demisto/slack",
@@ -6498,8 +6508,10 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
+            "demisto/taxii",
+            "demisto/sane-pdf-reports",
             "demisto/boto3py3",
-            "demisto/taxii"
+            "demisto/pcap-miner"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
