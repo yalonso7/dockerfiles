@@ -221,7 +221,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -288,7 +287,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
@@ -298,10 +296,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -340,7 +340,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -407,7 +406,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -418,10 +416,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -725,8 +725,8 @@
         "docker_images": [
             "demisto/pytan",
             "demisto/xmlparser",
-            "demisto/bs4",
             "demisto/btfl-soup",
+            "demisto/bs4",
             "demisto/taxii"
         ],
         "home_page": "http://www.crummy.com/software/BeautifulSoup/bs4/",
@@ -893,7 +893,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -960,7 +959,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -971,10 +969,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1056,7 +1056,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -1123,7 +1122,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -1134,10 +1132,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1397,7 +1397,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -1464,7 +1463,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -1475,10 +1473,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1890,7 +1890,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -1957,7 +1956,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
@@ -1967,10 +1965,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2438,7 +2438,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -2505,7 +2504,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -2516,10 +2514,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2818,14 +2818,14 @@
             "demisto/office-utils",
             "demisto/pcap-http-extractor",
             "demisto/py-ews",
-            "demisto/bs4",
             "demisto/docxpy",
             "demisto/py3ews",
             "demisto/zeep",
             "demisto/taxii-server",
             "demisto/sane-doc-reports",
-            "demisto/taxii",
-            "demisto/pcap-miner"
+            "demisto/pcap-miner",
+            "demisto/bs4",
+            "demisto/taxii"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -3157,7 +3157,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -3224,7 +3223,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -3235,10 +3233,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3554,7 +3554,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -3621,7 +3620,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -3632,10 +3630,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4218,7 +4218,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -4285,7 +4284,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -4296,10 +4294,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4404,7 +4404,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -4471,7 +4470,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -4482,10 +4480,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4586,7 +4586,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -4653,7 +4652,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -4664,10 +4662,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4726,7 +4726,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -4793,7 +4792,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -4804,10 +4802,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4835,7 +4835,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -4901,7 +4900,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
@@ -4911,10 +4909,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5221,7 +5221,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -5288,7 +5287,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -5299,10 +5297,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5387,7 +5387,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -5454,7 +5453,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -5465,10 +5463,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5528,8 +5528,8 @@
     "soupsieve": {
         "author": "Isaac Muse Isaac.Muse@gmail.com",
         "docker_images": [
-            "demisto/bs4",
             "demisto/btfl-soup",
+            "demisto/bs4",
             "demisto/taxii"
         ],
         "home_page": "https://github.com/facelessuser/soupsieve",
@@ -5813,7 +5813,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -5879,7 +5878,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
@@ -5889,10 +5887,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5948,7 +5948,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -6015,7 +6014,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -6026,10 +6024,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6109,7 +6109,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -6176,7 +6175,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -6187,10 +6185,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6430,7 +6430,6 @@
             "demisto/vertica",
             "demisto/python_zipfile",
             "demisto/python_pancloud",
-            "demisto/bs4",
             "demisto/readpdf",
             "demisto/duoadmin",
             "demisto/openssh",
@@ -6497,7 +6496,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/py42",
             "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
@@ -6508,10 +6506,12 @@
             "demisto/resilient",
             "demisto/genericsql",
             "demisto/google-cloud-storage",
-            "demisto/taxii",
             "demisto/sane-pdf-reports",
+            "demisto/pcap-miner",
             "demisto/boto3py3",
-            "demisto/pcap-miner"
+            "demisto/bs4",
+            "demisto/taxii",
+            "demisto/py42"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
