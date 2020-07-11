@@ -281,7 +281,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -301,7 +300,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -400,7 +400,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -421,7 +420,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -636,9 +636,9 @@
         "docker_images": [
             "demisto/aiohttp",
             "demisto/zeep",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://www.attrs.org/",
         "licenses": [
@@ -953,7 +953,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -974,7 +973,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1116,7 +1116,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -1137,7 +1136,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1203,9 +1203,9 @@
         "author": "Arnon Yaari tartley@tartley.com",
         "docker_images": [
             "demisto/keepercommander",
-            "demisto/threatconnect-tcex",
             "demisto/pyotrs",
-            "demisto/chromium"
+            "demisto/chromium",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/tartley/colorama",
         "licenses": [
@@ -1457,7 +1457,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -1478,7 +1477,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1950,7 +1950,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -1970,7 +1969,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2498,7 +2498,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -2519,7 +2518,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2676,8 +2676,8 @@
     "jsonschema": {
         "author": "Julian Berman Julian@GrayVines.com",
         "docker_images": [
-            "demisto/threatconnect-tcex",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/Julian/jsonschema",
         "licenses": [
@@ -3217,7 +3217,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -3238,7 +3237,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3614,7 +3614,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -3635,7 +3634,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4130,8 +4130,8 @@
     "pyrsistent": {
         "author": "Tobias Gustafsson tobias.l.gustafsson@gmail.com",
         "docker_images": [
-            "demisto/threatconnect-tcex",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "http://github.com/tobgu/pyrsistent/",
         "licenses": [
@@ -4278,7 +4278,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -4299,7 +4298,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4464,7 +4464,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -4485,7 +4484,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4646,7 +4646,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -4667,7 +4666,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4786,7 +4786,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -4807,7 +4806,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4894,7 +4894,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -4914,7 +4913,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5281,7 +5281,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -5302,7 +5301,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5447,7 +5447,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -5468,7 +5467,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5872,7 +5872,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -5892,7 +5891,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -6008,7 +6008,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -6029,7 +6028,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6169,7 +6169,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -6190,7 +6189,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6490,7 +6490,6 @@
             "demisto/distorm3",
             "demisto/google-k8s-engine",
             "demisto/pykafka",
-            "demisto/threatconnect-tcex",
             "demisto/slack",
             "demisto/pyotrs",
             "demisto/yarapy",
@@ -6511,7 +6510,8 @@
             "demisto/boto3py3",
             "demisto/bs4",
             "demisto/taxii",
-            "demisto/py42"
+            "demisto/py42",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
@@ -6535,8 +6535,8 @@
     "wrapt": {
         "author": "Graham Dumpleton Graham.Dumpleton@gmail.com",
         "docker_images": [
-            "demisto/threatconnect-tcex",
-            "demisto/pymisp"
+            "demisto/pymisp",
+            "demisto/threatconnect-tcex"
         ],
         "home_page": "https://github.com/GrahamDumpleton/wrapt",
         "licenses": [
