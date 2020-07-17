@@ -127,7 +127,8 @@
         "docker_images": [
             "demisto/dl",
             "demisto/chromium",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "http://python-pillow.org",
         "licenses": [
@@ -261,7 +262,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -281,7 +281,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
@@ -298,10 +297,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -380,7 +381,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -400,7 +400,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -418,10 +417,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -841,9 +842,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -933,7 +934,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -953,7 +953,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -971,10 +970,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1096,7 +1097,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -1116,7 +1116,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -1134,10 +1133,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1345,8 +1346,8 @@
         "author": "Thomas A Caswell matplotlib-users@python.org",
         "docker_images": [
             "demisto/dl",
-            "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "http://github.com/matplotlib/cycler",
         "licenses": [
@@ -1437,7 +1438,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -1457,7 +1457,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -1475,10 +1474,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1930,7 +1931,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -1950,7 +1950,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
@@ -1967,10 +1966,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2074,9 +2075,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-cloud-python",
         "licenses": [
@@ -2090,9 +2091,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/google-api-python-client/",
         "licenses": [
@@ -2111,9 +2112,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
         "licenses": [
@@ -2127,9 +2128,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/GoogleCloudPlatform/google-auth-library-python-httplib2",
         "licenses": [
@@ -2277,9 +2278,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/googleapis/googleapis",
         "licenses": [
@@ -2374,9 +2375,9 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/httplib2/httplib2",
         "licenses": [
@@ -2478,7 +2479,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -2498,7 +2498,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -2516,10 +2515,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -2739,8 +2740,8 @@
     "kiwisolver": {
         "author": "The Nucleic Development Team sccolbert@gmail.com",
         "docker_images": [
-            "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/nucleic/kiwi",
         "licenses": [
@@ -2822,10 +2823,10 @@
             "demisto/py3ews",
             "demisto/zeep",
             "demisto/taxii-server",
-            "demisto/sane-doc-reports",
             "demisto/pcap-miner",
             "demisto/bs4",
-            "demisto/taxii"
+            "demisto/taxii",
+            "demisto/sane-doc-reports"
         ],
         "home_page": "http://lxml.de/",
         "licenses": [
@@ -2888,8 +2889,8 @@
         "author": "John D. Hunter, Michael Droettboom matplotlib-users@python.org",
         "docker_images": [
             "demisto/dl",
-            "demisto/matplotlib",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "https://matplotlib.org",
         "licenses": [
@@ -3085,12 +3086,12 @@
             "demisto/exchange",
             "demisto/panads3",
             "demisto/dl",
-            "demisto/matplotlib",
             "demisto/pandas",
             "demisto/devo",
             "demisto/fasttext",
             "demisto/chromium",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "https://www.numpy.org",
         "licenses": [
@@ -3105,9 +3106,9 @@
             "demisto/bigquery",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "http://github.com/google/oauth2client/",
         "licenses": [
@@ -3197,7 +3198,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -3217,7 +3217,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -3235,10 +3234,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3594,7 +3595,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -3614,7 +3614,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -3632,10 +3631,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3726,9 +3727,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://developers.google.com/protocol-buffers/",
         "licenses": [
@@ -3856,9 +3857,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1",
         "licenses": [
@@ -3877,9 +3878,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://github.com/etingof/pyasn1-modules",
         "licenses": [
@@ -4103,9 +4104,9 @@
             "demisto/pypdf2",
             "demisto/pcap",
             "demisto/dl",
-            "demisto/matplotlib",
             "demisto/pyotrs",
-            "demisto/sane-doc-reports"
+            "demisto/sane-doc-reports",
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pyparsing/pyparsing/",
         "licenses": [
@@ -4258,7 +4259,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -4278,7 +4278,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -4296,10 +4295,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4444,7 +4445,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -4464,7 +4464,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -4482,10 +4481,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4626,7 +4627,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -4646,7 +4646,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -4664,10 +4663,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4766,7 +4767,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -4786,7 +4786,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -4804,10 +4803,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4874,7 +4875,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -4894,7 +4894,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
@@ -4911,10 +4910,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5026,9 +5027,9 @@
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://stuvel.eu/rsa",
         "licenses": [
@@ -5261,7 +5262,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -5281,7 +5281,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -5299,10 +5298,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5427,7 +5428,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -5447,7 +5447,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -5465,10 +5464,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5852,7 +5853,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -5872,7 +5872,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
@@ -5889,10 +5888,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -5988,7 +5989,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -6008,7 +6008,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -6026,10 +6025,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6055,9 +6056,9 @@
         "docker_images": [
             "demisto/gvault",
             "demisto/google-api",
-            "demisto/google-vision-api",
             "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/google-vision-api"
         ],
         "home_page": "https://uritemplate.readthedocs.org",
         "licenses": [
@@ -6149,7 +6150,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -6169,7 +6169,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -6187,10 +6186,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6470,7 +6471,6 @@
             "demisto/python",
             "demisto/python3-deb",
             "demisto/python-deb",
-            "demisto/matplotlib",
             "demisto/tesseract",
             "demisto/bigquery",
             "demisto/elasticsearch",
@@ -6490,7 +6490,6 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/sane-doc-reports",
             "demisto/powershell-core",
             "demisto/taxii2",
             "demisto/gql",
@@ -6508,10 +6507,12 @@
             "demisto/m2crypto",
             "demisto/gvault",
             "demisto/google-api",
+            "demisto/googleapi-python3",
+            "demisto/google-api-py3",
+            "demisto/sane-doc-reports",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/googleapi-python3",
-            "demisto/google-api-py3"
+            "demisto/matplotlib"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
