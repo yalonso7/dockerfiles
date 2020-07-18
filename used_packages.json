@@ -281,11 +281,9 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -300,9 +298,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -401,11 +401,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -420,9 +418,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -838,13 +838,13 @@
             "demisto/google-kms",
             "demisto/google-cloud-translate",
             "demisto/google-k8s-engine",
-            "demisto/resilient",
             "demisto/google-cloud-storage",
             "demisto/gvault",
             "demisto/google-api",
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
-            "demisto/google-vision-api"
+            "demisto/google-vision-api",
+            "demisto/resilient"
         ],
         "home_page": "https://github.com/tkem/cachetools",
         "licenses": [
@@ -954,11 +954,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -973,9 +971,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1005,8 +1005,8 @@
             "demisto/netmiko",
             "demisto/slack",
             "demisto/teams",
-            "demisto/resilient",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/resilient"
         ],
         "home_page": "http://cffi.readthedocs.org",
         "licenses": [
@@ -1117,11 +1117,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -1136,9 +1134,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1286,8 +1286,8 @@
             "demisto/google-kms",
             "demisto/netmiko",
             "demisto/teams",
-            "demisto/resilient",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/resilient"
         ],
         "home_page": "https://github.com/pyca/cryptography",
         "licenses": [
@@ -1458,11 +1458,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -1477,9 +1475,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1950,11 +1950,9 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -1969,9 +1967,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2499,11 +2499,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -2518,9 +2516,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3218,11 +3218,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -3237,9 +3235,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3615,11 +3615,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -3634,9 +3632,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -3947,8 +3947,8 @@
             "demisto/netmiko",
             "demisto/slack",
             "demisto/teams",
-            "demisto/resilient",
-            "demisto/google-api-py3"
+            "demisto/google-api-py3",
+            "demisto/resilient"
         ],
         "home_page": "https://github.com/eliben/pycparser",
         "licenses": [
@@ -4279,11 +4279,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -4298,9 +4296,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4465,11 +4465,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -4484,9 +4482,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4647,11 +4647,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -4666,9 +4664,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4787,11 +4787,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -4806,9 +4804,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4894,11 +4894,9 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -4913,9 +4911,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5282,11 +5282,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -5301,9 +5299,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5448,11 +5448,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -5467,9 +5465,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5872,11 +5872,9 @@
             "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -5891,9 +5889,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -6009,11 +6009,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -6028,9 +6026,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6170,11 +6170,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -6189,9 +6187,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6491,11 +6491,9 @@
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
-            "demisto/taxii2",
             "demisto/gql",
             "demisto/netutils",
             "demisto/pymisp",
-            "demisto/resilient",
             "demisto/genericsql",
             "demisto/sane-pdf-reports",
             "demisto/pcap-miner",
@@ -6510,9 +6508,11 @@
             "demisto/googleapi-python3",
             "demisto/google-api-py3",
             "demisto/sane-doc-reports",
+            "demisto/matplotlib",
             "demisto/google-vision-api",
             "demisto/boto3py3",
-            "demisto/matplotlib"
+            "demisto/resilient",
+            "demisto/taxii2"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
