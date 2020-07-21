@@ -278,7 +278,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/gql",
@@ -300,9 +299,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/Anorov/PySocks",
         "licenses": [
@@ -397,7 +397,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -420,9 +419,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/yaml/pyyaml",
         "licenses": [
@@ -950,7 +950,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -973,9 +972,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://certifi.io/",
         "licenses": [
@@ -1113,7 +1113,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -1136,9 +1135,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/chardet/chardet",
         "licenses": [
@@ -1454,7 +1454,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -1477,9 +1476,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/scrapinghub/dateparser",
         "licenses": [
@@ -1947,7 +1947,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/gql",
@@ -1969,9 +1968,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "http://github.com/Suor/funcy",
         "licenses": [
@@ -2495,7 +2495,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -2518,9 +2517,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/kjd/idna",
         "licenses": [
@@ -3214,7 +3214,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -3237,9 +3236,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://www.decalage.info/python/olefileio",
         "licenses": [
@@ -3611,7 +3611,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -3634,9 +3633,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://pip.pypa.io/",
         "licenses": [
@@ -4275,7 +4275,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -4298,9 +4297,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://dateutil.readthedocs.io",
         "licenses": [
@@ -4461,7 +4461,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -4484,9 +4483,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "http://pythonhosted.org/pytz",
         "licenses": [
@@ -4643,7 +4643,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -4666,9 +4665,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://bitbucket.org/mrabarnett/mrab-regex",
         "licenses": [
@@ -4783,7 +4783,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -4806,9 +4805,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "http://python-requests.org",
         "licenses": [
@@ -4891,7 +4891,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/gql",
@@ -4913,9 +4912,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "http://github.com/dashea/requests-file",
         "licenses": [
@@ -5278,7 +5278,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -5301,9 +5300,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/setuptools",
         "licenses": [
@@ -5444,7 +5444,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -5467,9 +5466,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/benjaminp/six",
         "licenses": [
@@ -5869,7 +5869,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/gql",
@@ -5891,9 +5890,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/john-kurkowski/tldextract",
         "licenses": [
@@ -6005,7 +6005,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -6028,9 +6027,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/regebro/tzlocal",
         "licenses": [
@@ -6166,7 +6166,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -6189,9 +6188,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://urllib3.readthedocs.io/",
         "licenses": [
@@ -6487,7 +6487,6 @@
             "demisto/pykafka",
             "demisto/slack",
             "demisto/pyotrs",
-            "demisto/yarapy",
             "demisto/chromium",
             "demisto/teams",
             "demisto/powershell-core",
@@ -6510,9 +6509,10 @@
             "demisto/sane-doc-reports",
             "demisto/matplotlib",
             "demisto/google-vision-api",
-            "demisto/boto3py3",
             "demisto/resilient",
-            "demisto/taxii2"
+            "demisto/taxii2",
+            "demisto/boto3py3",
+            "demisto/yarapy"
         ],
         "home_page": "https://github.com/pypa/wheel",
         "licenses": [
